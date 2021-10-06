@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dont keep
+config.cfg
+chromedriver.exe

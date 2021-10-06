@@ -1,0 +1,71 @@
+game_id;home_team;away_team;fthg;ftag;hxg;axg;date
+16435;Crystal Palace;Brighton;1;1;1.37;0.65;Sep 27 2021
+16442;Manchester United;Everton;1;1;1.05;1.32;Oct 02 2021
+16437;Burnley;Norwich;0;0;0.58;0.67;Oct 02 2021
+16438;Chelsea;Southampton;3;1;3.79;1.53;Oct 02 2021
+16440;Leeds;Watford;1;0;1.57;0.19;Oct 02 2021
+16445;Wolverhampton Wanderers;Newcastle United;2;1;1.16;0.87;Oct 02 2021
+16436;Brighton;Arsenal;0;0;1.12;0.36;Oct 02 2021
+16439;Crystal Palace;Leicester;2;2;1.17;1.04;Oct 03 2021
+16443;Tottenham;Aston Villa;2;1;1.78;1.07;Oct 03 2021
+16444;West Ham;Brentford;1;2;1.37;1.30;Oct 03 2021
+16441;Liverpool;Manchester City;2;2;0.95;1.04;Oct 03 2021
+16426;Chelsea;Manchester City;0;1;0.19;1.69;Sep 25 2021
+16431;Manchester United;Aston Villa;0;1;1.93;1.57;Sep 25 2021
+16427;Watford;Newcastle United;1;1;0.90;2.52;Sep 25 2021
+16428;Everton;Norwich;2;0;2.27;0.80;Sep 25 2021
+16429;Leeds;West Ham;1;2;1.20;1.99;Sep 25 2021
+16430;Leicester;Burnley;2;2;2.16;0.43;Sep 25 2021
+16432;Brentford;Liverpool;3;3;2.94;2.26;Sep 25 2021
+16433;Southampton;Wolverhampton Wanderers;0;1;0.91;0.91;Sep 26 2021
+16434;Arsenal;Tottenham;3;1;1.44;0.98;Sep 26 2021
+16415;Everton;Burnley;3;1;1.80;1.82;Sep 13 2021
+16416;Newcastle United;Leeds;1;1;1.18;1.43;Sep 17 2021
+16417;Wolverhampton Wanderers;Brentford;0;2;1.02;2.33;Sep 18 2021
+16418;Norwich;Watford;1;3;0.78;2.42;Sep 18 2021
+16419;Burnley;Arsenal;0;1;0.78;1.10;Sep 18 2021
+16420;Liverpool;Crystal Palace;3;0;2.77;0.64;Sep 18 2021
+16421;Manchester City;Southampton;0;0;1.22;0.49;Sep 18 2021
+16422;Aston Villa;Everton;3;0;0.78;0.76;Sep 18 2021
+16423;Brighton;Leicester;2;1;1.47;1.25;Sep 19 2021
+16424;West Ham;Manchester United;1;2;1.67;1.90;Sep 19 2021
+16425;Tottenham;Chelsea;0;3;0.71;2.59;Sep 19 2021
+16406;Crystal Palace;Tottenham;3;0;2.89;0.08;Sep 11 2021
+16407;Arsenal;Norwich;1;0;2.69;0.58;Sep 11 2021
+16408;Brentford;Brighton;0;1;0.73;0.29;Sep 11 2021
+16409;Leicester;Manchester City;0;1;0.80;2.75;Sep 11 2021
+16410;Manchester United;Newcastle United;4;1;2.77;0.62;Sep 11 2021
+16411;Southampton;West Ham;0;0;0.69;0.73;Sep 11 2021
+16412;Watford;Wolverhampton Wanderers;0;2;0.19;2.56;Sep 11 2021
+16413;Chelsea;Aston Villa;3;0;1.22;1.17;Sep 11 2021
+16414;Leeds;Liverpool;0;3;0.65;4.40;Sep 12 2021
+16395;West Ham;Leicester;4;1;2.29;0.63;Aug 23 2021
+16396;Manchester City;Arsenal;5;0;4.47;0.12;Aug 28 2021
+16397;Newcastle United;Southampton;2;2;1.19;3.46;Aug 28 2021
+16398;Norwich;Leicester;1;2;1.44;1.27;Aug 28 2021
+16399;Aston Villa;Brentford;1;1;0.43;1.13;Aug 28 2021
+16400;Brighton;Everton;0;2;0.70;1.55;Aug 28 2021
+16401;West Ham;Crystal Palace;2;2;1.45;1.68;Aug 28 2021
+16402;Liverpool;Chelsea;1;1;2.08;0.57;Aug 28 2021
+16403;Burnley;Leeds;1;1;1.71;1.52;Aug 29 2021
+16404;Tottenham;Watford;1;0;0.92;0.60;Aug 29 2021
+16405;Wolverhampton Wanderers;Manchester United;0;1;1.80;0.94;Aug 29 2021
+16386;Liverpool;Burnley;2;0;2.64;0.69;Aug 21 2021
+16387;Manchester City;Norwich;5;0;2.44;0.03;Aug 21 2021
+16388;Aston Villa;Newcastle United;2;0;1.18;0.63;Aug 21 2021
+16389;Crystal Palace;Brentford;0;0;0.61;0.71;Aug 21 2021
+16390;Leeds;Everton;2;2;0.97;1.86;Aug 21 2021
+16391;Brighton;Watford;2;0;1.78;0.41;Aug 21 2021
+16392;Southampton;Manchester United;1;1;0.59;2.26;Aug 22 2021
+16393;Wolverhampton Wanderers;Tottenham;0;1;1.51;1.73;Aug 22 2021
+16394;Arsenal;Chelsea;0;2;0.63;3.64;Aug 22 2021
+16376;Brentford;Arsenal;2;0;1.89;1.02;Aug 13 2021
+16377;Manchester United;Leeds;5;1;1.64;0.57;Aug 14 2021
+16378;Burnley;Brighton;1;2;1.80;1.69;Aug 14 2021
+16379;Chelsea;Crystal Palace;3;0;1.19;0.32;Aug 14 2021
+16380;Everton;Southampton;3;1;2.39;0.58;Aug 14 2021
+16381;Leicester;Wolverhampton Wanderers;1;0;0.67;1.33;Aug 14 2021
+16382;Watford;Aston Villa;3;2;1.35;1.14;Aug 14 2021
+16383;Norwich;Liverpool;0;3;1.33;1.79;Aug 14 2021
+16384;Newcastle United;West Ham;2;4;1.68;3.01;Aug 15 2021
+16385;Tottenham;Manchester City;1;0;1.06;2.11;Aug 15 2021

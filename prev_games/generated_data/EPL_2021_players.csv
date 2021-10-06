@@ -1,0 +1,1929 @@
+game_id;team;opp;name;id;pos;min;sh;g;kp;a;xg;xa
+16435;Crystal Palace;Brighton;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16435;Crystal Palace;Brighton;Joel Ward;510;DR;90;0;0;0;0;0.0;0.0
+16435;Crystal Palace;Brighton;Joachim Andersen;6314;DC;90;0;0;1;0;0.0;0.06
+16435;Crystal Palace;Brighton;Marc Guehi;7603;DC;90;0;0;0;0;0.0;0.0
+16435;Crystal Palace;Brighton;Tyrick Mitchell;8214;DL;90;0;0;1;0;0.0;0.04
+16435;Crystal Palace;Brighton;Luka Milivojevic;5549;MC;74;2;0;0;0;0.06;0.0
+16435;Crystal Palace;Brighton;Conor Gallagher;9040;MC;90;1;0;0;0;0.04;0.0
+16435;Crystal Palace;Brighton;James McArthur;633;MC;90;0;0;1;0;0.0;0.03
+16435;Crystal Palace;Brighton;Jordan Ayew;672;FWR;88;2;0;1;0;0.42;0.02
+16435;Crystal Palace;Brighton;Odsonne Edouard;3697;FW;74;1;0;0;0;0.06;0.0
+16435;Crystal Palace;Brighton;Wilfried Zaha;522;FWL;90;2;1;0;0;0.79;0.0
+16435;Crystal Palace;Brighton;Christian Benteke;606;Sub;16;0;0;1;0;0.0;0.4
+16435;Crystal Palace;Brighton;Jeffrey Schlupp;757;Sub;2;0;0;0;0;0.0;0.0
+16435;Crystal Palace;Brighton;Cheikhou Kouyate;532;Sub;16;0;0;0;0;0.0;0.0
+16435;Brighton;Crystal Palace;Robert Sanchez;9098;GK;90;0;0;1;0;0.0;0.3
+16435;Brighton;Crystal Palace;Shane Duffy;6047;DC;90;1;0;0;0;0.04;0.0
+16435;Brighton;Crystal Palace;Dan Burn;7382;DC;48;0;0;0;0;0.0;0.0
+16435;Brighton;Crystal Palace;Lewis Dunk;6048;DC;90;1;0;0;0;0.03;0.0
+16435;Brighton;Crystal Palace;Joel Veltman;8780;DMR;90;0;0;1;1;0.0;0.09
+16435;Brighton;Crystal Palace;Marc Cucurella;7134;DML;90;0;0;0;0;0.0;0.0
+16435;Brighton;Crystal Palace;Pascal Gross;239;MC;90;0;0;2;0;0.0;0.13
+16435;Brighton;Crystal Palace;Adam Lallana;486;MC;90;3;0;0;0;0.1;0.0
+16435;Brighton;Crystal Palace;Leandro Trossard;7698;FWR;90;1;0;0;0;0.09;0.0
+16435;Brighton;Crystal Palace;Neal Maupay;3621;FW;90;1;1;0;0;0.09;0.0
+16435;Brighton;Crystal Palace;Danny Welbeck;501;FWL;78;1;0;0;0;0.3;0.0
+16435;Brighton;Crystal Palace;Steven Alzate;8020;Sub;19;0;0;0;0;0.0;0.0
+16435;Brighton;Crystal Palace;Aaron Connolly;7991;Sub;12;0;0;0;0;0.0;0.0
+16435;Brighton;Crystal Palace;Jakub Moder;9284;Sub;23;0;0;0;0;0.0;0.0
+16442;Manchester United;Everton;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16442;Manchester United;Everton;Aaron Wan-Bissaka;5584;DR;90;0;0;2;0;0.0;0.36
+16442;Manchester United;Everton;Raphael Varane;2245;DC;90;1;0;0;0;0.06;0.0
+16442;Manchester United;Everton;Victor Lindelof;6080;DC;90;0;0;0;0;0.0;0.0
+16442;Manchester United;Everton;Luke Shaw;1006;DL;90;0;0;2;0;0.0;0.08
+16442;Manchester United;Everton;Fred;6817;DMC;71;0;0;1;0;0.0;0.08
+16442;Manchester United;Everton;Scott McTominay;5560;DMC;90;1;0;1;0;0.1;0.03
+16442;Manchester United;Everton;Mason Greenwood;7490;AMR;90;2;0;0;0;0.05;0.0
+16442;Manchester United;Everton;Bruno Fernandes;1228;AMC;90;1;0;2;1;0.03;0.19
+16442;Manchester United;Everton;Anthony Martial;553;AML;58;3;1;0;0;0.42;0.0
+16442;Manchester United;Everton;Edinson Cavani;3294;FW;58;1;0;1;0;0.08;0.02
+16442;Manchester United;Everton;Paul Pogba;1740;Sub;19;2;0;1;0;0.14;0.1
+16442;Manchester United;Everton;Cristiano Ronaldo;2371;Sub;32;1;0;1;0;0.12;0.05
+16442;Manchester United;Everton;Jadon Sancho;6345;Sub;32;1;0;2;0;0.05;0.14
+16442;Everton;Manchester United;Jordan Pickford;741;GK;90;0;0;0;0;0.0;0.0
+16442;Everton;Manchester United;Ben Godfrey;7689;DR;90;0;0;1;0;0.0;0.02
+16442;Everton;Manchester United;Yerry Mina;6521;DC;90;1;0;0;0;0.02;0.0
+16442;Everton;Manchester United;Michael Keane;1653;DC;90;1;0;0;0;0.09;0.0
+16442;Everton;Manchester United;Lucas Digne;1823;DL;90;0;0;2;0;0.0;0.1
+16442;Everton;Manchester United;Andros Townsend;775;MR;90;4;1;2;0;0.76;0.16
+16442;Everton;Manchester United;Allan;1379;MC;90;0;0;0;0;0.0;0.0
+16442;Everton;Manchester United;Abdoulaye Doucoure;1726;MC;90;2;0;2;1;0.12;0.66
+16442;Everton;Manchester United;Anthony Gordon;8150;ML;73;0;0;2;0;0.0;0.19
+16442;Everton;Manchester United;Demarai Gray;762;AMC;90;2;0;2;0;0.12;0.07
+16442;Everton;Manchester United;Salomon Rondon;813;FW;90;2;0;1;0;0.21;0.11
+16442;Everton;Manchester United;Tom Davies;1042;Sub;17;0;0;0;0;0.0;0.0
+16442;Everton;Manchester United;Lewis Dobbin;10027;Sub;1;0;0;0;0;0.0;0.0
+16437;Burnley;Norwich;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16437;Burnley;Norwich;Matthew Lowton;1652;DR;90;2;0;0;0;0.07;0.0
+16437;Burnley;Norwich;Nathan Collins;9733;DC;90;1;0;0;0;0.02;0.0
+16437;Burnley;Norwich;James Tarkowski;1665;DC;90;0;0;0;0;0.0;0.0
+16437;Burnley;Norwich;Charlie Taylor;6044;DL;90;0;0;3;0;0.0;0.21
+16437;Burnley;Norwich;Aaron Lennon;593;MR;64;1;0;0;0;0.08;0.0
+16437;Burnley;Norwich;Ashley Westwood;669;MC;90;0;0;2;0;0.0;0.09
+16437;Burnley;Norwich;Josh Brownhill;8323;MC;90;1;0;4;0;0.03;0.15
+16437;Burnley;Norwich;Dwight McNeil;6756;ML;90;2;0;0;0;0.05;0.0
+16437;Burnley;Norwich;Matej Vydra;1017;FW;34;1;0;0;0;0.07;0.0
+16437;Burnley;Norwich;Chris Wood;4456;FW;84;3;0;1;0;0.17;0.01
+16437;Burnley;Norwich;Johann Berg Gudmundsson;1663;Sub;26;0;0;1;0;0.0;0.03
+16437;Burnley;Norwich;Ashley Barnes;4422;Sub;6;0;0;0;0;0.0;0.0
+16437;Burnley;Norwich;Jay Rodriguez;844;Sub;56;3;0;0;0;0.11;0.0
+16437;Norwich;Burnley;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16437;Norwich;Burnley;Max Aarons;7688;DR;90;2;0;1;0;0.05;0.07
+16437;Norwich;Burnley;Ozan Kabak;7376;DC;90;1;0;0;0;0.14;0.0
+16437;Norwich;Burnley;Ben Gibson;1707;DC;90;0;0;0;0;0.0;0.0
+16437;Norwich;Burnley;Grant Hanley;7690;DC;90;1;0;0;0;0.01;0.0
+16437;Norwich;Burnley;Dimitris Giannoulis;9745;DL;90;1;0;1;0;0.04;0.14
+16437;Norwich;Burnley;Pierre Lees-Melou;5619;MC;84;2;0;0;0;0.03;0.0
+16437;Norwich;Burnley;Mathias Normann;7470;MC;90;2;0;2;0;0.24;0.05
+16437;Norwich;Burnley;Kenny McLean;7693;MC;90;0;0;0;0;0.0;0.0
+16437;Norwich;Burnley;Teemu Pukki;7696;FW;84;1;0;1;0;0.1;0.01
+16437;Norwich;Burnley;Joshua Sargent;7295;FW;90;1;0;2;0;0.07;0.12
+16437;Norwich;Burnley;Lukas Rupp;62;Sub;6;0;0;0;0;0.0;0.0
+16437;Norwich;Burnley;Adam Idah;8021;Sub;1;0;0;0;0;0.0;0.0
+16437;Norwich;Burnley;Milot Rashica;6523;Sub;6;0;0;0;0;0.0;0.0
+16438;Chelsea;Southampton;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16438;Chelsea;Southampton;Thiago Silva;3288;DC;90;0;0;1;0;0.0;0.02
+16438;Chelsea;Southampton;Antonio Rudiger;1822;DC;90;2;0;1;0;0.08;0.1
+16438;Chelsea;Southampton;Trevoh Chalobah;6615;DC;90;1;1;0;0;0.56;0.0
+16438;Chelsea;Southampton;Cesar Azpilicueta;681;DMR;90;1;0;2;1;0.47;0.73
+16438;Chelsea;Southampton;Ben Chilwell;782;DML;90;4;1;3;0;0.58;0.23
+16438;Chelsea;Southampton;Mateo Kovacic;2254;MC;76;0;0;2;0;0.0;0.44
+16438;Chelsea;Southampton;Ruben Loftus-Cheek;688;MC;86;2;0;2;1;0.11;0.63
+16438;Chelsea;Southampton;Timo Werner;65;AMC;90;6;1;0;0;1.39;0.0
+16438;Chelsea;Southampton;Callum Hudson-Odoi;6456;AMC;68;1;0;1;0;0.1;0.07
+16438;Chelsea;Southampton;Romelu Lukaku;594;FW;90;2;0;1;0;0.8;0.42
+16438;Chelsea;Southampton;Jorginho;1389;Sub;14;0;0;0;0;0.0;0.0
+16438;Chelsea;Southampton;Ross Barkley;592;Sub;4;0;0;0;0;0.0;0.0
+16438;Chelsea;Southampton;Mason Mount;7768;Sub;22;1;0;2;0;0.09;0.8
+16438;Southampton;Chelsea;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Valentino Livramento;9512;DR;90;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Mohammed Salisu;6923;DC;90;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Jan Bednarek;6042;DC;90;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Kyle Walker-Peters;885;DL;90;0;0;1;0;0.0;0.62
+16438;Southampton;Chelsea;Theo Walcott;503;MR;49;2;0;1;0;0.63;0.02
+16438;Southampton;Chelsea;Oriol Romeu;842;MC;90;0;0;1;0;0.0;0.02
+16438;Southampton;Chelsea;James Ward-Prowse;843;MC;80;2;1;0;0;0.78;0.0
+16438;Southampton;Chelsea;Nathan Tella;8456;ML;76;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Nathan Redmond;790;FW;90;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Adam Armstrong;4419;FW;90;2;0;0;0;0.11;0.0
+16438;Southampton;Chelsea;Moussa Djenepo;7701;Sub;14;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Mohamed Elyounoussi;6894;Sub;1;0;0;0;0;0.0;0.0
+16438;Southampton;Chelsea;Ibrahima Diallo;6736;Sub;41;0;0;1;0;0.0;0.09
+16440;Leeds;Watford;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16440;Leeds;Watford;Jamie Shackleton;8721;DR;90;1;0;0;0;0.02;0.0
+16440;Leeds;Watford;Diego Llorente;2163;DC;90;1;1;0;0;0.54;0.0
+16440;Leeds;Watford;Liam Cooper;8816;DC;90;0;0;0;0;0.0;0.0
+16440;Leeds;Watford;Junior Firpo;6485;DL;90;0;0;2;0;0.0;0.1
+16440;Leeds;Watford;Kalvin Phillips;8719;DMC;90;0;0;0;0;0.0;0.0
+16440;Leeds;Watford;Raphinha;8026;MR;90;5;0;1;0;0.33;0.09
+16440;Leeds;Watford;Mateusz Klich;4381;MC;90;2;0;3;0;0.09;0.16
+16440;Leeds;Watford;Stuart Dallas;8718;MC;80;5;0;2;0;0.34;0.05
+16440;Leeds;Watford;Daniel James;5595;ML;90;2;0;0;0;0.09;0.0
+16440;Leeds;Watford;Rodrigo;2381;FW;90;2;0;4;0;0.04;0.26
+16440;Leeds;Watford;Pascal Struijk;8717;Sub;1;0;0;0;0;0.0;0.0
+16440;Leeds;Watford;Tyler Roberts;1014;Sub;10;2;0;0;0;0.12;0.0
+16440;Watford;Leeds;Ben Foster;803;GK;90;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;Kiko Femenia;5043;DR;90;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;Francisco Sierralta;7081;DC;70;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;William Troost-Ekong;6996;DC;90;0;0;1;0;0.0;0.07
+16440;Watford;Leeds;Danny Rose;641;DL;90;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;Moussa Sissoko;772;DMC;90;0;0;1;0;0.0;0.02
+16440;Watford;Leeds;Juraj Kucka;1123;DMC;90;1;0;0;0;0.02;0.0
+16440;Watford;Leeds;Ismaila Sarr;5675;AMR;90;1;0;0;0;0.03;0.0
+16440;Watford;Leeds;Ozan Tufan;9957;AMC;61;1;0;0;0;0.06;0.0
+16440;Watford;Leeds;Emmanuel Dennis;9301;AML;90;1;0;2;0;0.07;0.04
+16440;Watford;Leeds;Joshua King;465;FW;45;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;Christian Kabasele;1725;Sub;20;0;0;0;0;0.0;0.0
+16440;Watford;Leeds;Joao Pedro;8272;Sub;29;1;0;0;0;0.02;0.0
+16440;Watford;Leeds;Ken Sema;6841;Sub;45;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Romain Saiss;3491;DC;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Conor Coady;6851;DC;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Max Kilman;7332;DC;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Nelson Semedo;6163;DMR;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Fernando Marcal;5708;DML;90;0;0;0;0;0.0;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Ruben Neves;6853;MC;90;0;0;1;0;0.0;0.03
+16445;Wolverhampton Wanderers;Newcastle United;Joao Moutinho;3422;MC;90;1;0;1;0;0.03;0.02
+16445;Wolverhampton Wanderers;Newcastle United;Trincao;8934;FWR;89;3;0;0;0;0.68;0.0
+16445;Wolverhampton Wanderers;Newcastle United;Raul Jimenez;4105;FW;90;1;0;3;2;0.04;0.48
+16445;Wolverhampton Wanderers;Newcastle United;Hee-Chan Hwang;8845;FWL;90;2;2;1;0;0.41;0.58
+16445;Wolverhampton Wanderers;Newcastle United;Leander Dendoncker;7236;Sub;1;0;0;1;0;0.0;0.04
+16445;Wolverhampton Wanderers;Newcastle United;Adama Traore;900;Sub;1;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Karl Darlow;780;GK;90;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Javier Manquillo;1719;DR;73;0;0;1;1;0.0;0.02
+16445;Newcastle United;Wolverhampton Wanderers;Federico Fernandez;708;DC;90;1;0;0;0;0.03;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Ciaran Clark;875;DC;90;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Matt Ritchie;461;DL;90;0;0;4;0;0.0;0.16
+16445;Newcastle United;Wolverhampton Wanderers;Sean Longstaff;7078;DMC;90;1;0;0;0;0.06;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Miguel Almiron;7420;MR;80;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Joe Willock;6630;MC;35;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Isaac Hayden;6062;MC;90;0;0;0;0;0.0;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Joelinton;87;ML;90;3;0;0;0;0.09;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Allan Saint-Maximin;101;FW;90;1;0;0;0;0.61;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Jeff Hendrick;1746;Sub;55;1;1;0;0;0.02;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Dwight Gayle;743;Sub;10;1;0;0;0;0.06;0.0
+16445;Newcastle United;Wolverhampton Wanderers;Jacob Murphy;6063;Sub;17;0;0;0;0;0.0;0.0
+16436;Brighton;Arsenal;Robert Sanchez;9098;GK;90;0;0;0;0;0.0;0.0
+16436;Brighton;Arsenal;Shane Duffy;6047;DC;90;2;0;0;0;0.11;0.0
+16436;Brighton;Arsenal;Dan Burn;7382;DC;90;1;0;1;0;0.1;0.02
+16436;Brighton;Arsenal;Lewis Dunk;6048;DC;90;2;0;1;0;0.1;0.1
+16436;Brighton;Arsenal;Joel Veltman;8780;DMR;90;0;0;1;0;0.0;0.09
+16436;Brighton;Arsenal;Marc Cucurella;7134;DML;90;0;0;4;0;0.0;0.18
+16436;Brighton;Arsenal;Pascal Gross;239;MC;85;1;0;3;0;0.06;0.19
+16436;Brighton;Arsenal;Jakub Moder;9284;MC;79;2;0;1;0;0.1;0.06
+16436;Brighton;Arsenal;Adam Lallana;486;MC;90;1;0;1;0;0.05;0.07
+16436;Brighton;Arsenal;Leandro Trossard;7698;FW;90;6;0;3;0;0.26;0.13
+16436;Brighton;Arsenal;Neal Maupay;3621;FW;90;4;0;2;0;0.25;0.03
+16436;Brighton;Arsenal;Alexis Mac Allister;8379;Sub;11;1;0;0;0;0.01;0.0
+16436;Brighton;Arsenal;Solly March;6049;Sub;5;1;0;1;0;0.07;0.06
+16436;Arsenal;Brighton;Aaron Ramsdale;5603;GK;90;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Takehiro Tomiyasu;7931;DR;90;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Gabriel;5613;DC;90;1;0;0;0;0.06;0.0
+16436;Arsenal;Brighton;Ben White;7298;DC;90;0;0;1;0;0.0;0.06
+16436;Arsenal;Brighton;Kieran Tierney;8089;DL;90;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Albert Sambi Lokonga;9689;DMC;90;1;0;0;0;0.02;0.0
+16436;Arsenal;Brighton;Thomas Partey;2328;DMC;90;3;0;1;0;0.08;0.06
+16436;Arsenal;Brighton;Bukayo Saka;7322;AMR;90;1;0;1;0;0.1;0.04
+16436;Arsenal;Brighton;Martin Odegaard;2517;AMC;64;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Emile Smith-Rowe;7230;AML;90;1;0;2;0;0.06;0.04
+16436;Arsenal;Brighton;Pierre-Emerick Aubameyang;318;FW;73;1;0;0;0;0.04;0.0
+16436;Arsenal;Brighton;Alexandre Lacazette;3277;Sub;17;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Ainsley Maitland-Niles;1750;Sub;1;0;0;0;0;0.0;0.0
+16436;Arsenal;Brighton;Nicolas Pepe;5656;Sub;26;0;0;0;0;0.0;0.0
+16439;Crystal Palace;Leicester;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16439;Crystal Palace;Leicester;Joel Ward;510;DR;90;1;0;0;0;0.07;0.0
+16439;Crystal Palace;Leicester;Joachim Andersen;6314;DC;90;0;0;1;0;0.0;0.02
+16439;Crystal Palace;Leicester;Marc Guehi;7603;DC;90;0;0;0;0;0.0;0.0
+16439;Crystal Palace;Leicester;Tyrick Mitchell;8214;DL;90;0;0;1;0;0.0;0.06
+16439;Crystal Palace;Leicester;Luka Milivojevic;5549;MC;90;0;0;2;0;0.0;0.24
+16439;Crystal Palace;Leicester;Conor Gallagher;9040;MC;73;4;0;1;0;0.23;0.11
+16439;Crystal Palace;Leicester;James McArthur;633;MC;90;0;0;1;0;0.0;0.05
+16439;Crystal Palace;Leicester;Jordan Ayew;672;FWR;55;1;0;1;0;0.03;0.03
+16439;Crystal Palace;Leicester;Odsonne Edouard;3697;FW;87;2;0;2;0;0.31;0.1
+16439;Crystal Palace;Leicester;Wilfried Zaha;522;FWL;90;3;0;3;0;0.12;0.2
+16439;Crystal Palace;Leicester;Christian Benteke;606;Sub;3;0;0;0;0;0.0;0.0
+16439;Crystal Palace;Leicester;Jeffrey Schlupp;757;Sub;17;4;1;0;0;0.19;0.0
+16439;Crystal Palace;Leicester;Michael Olise;9948;Sub;35;3;1;2;0;0.24;0.12
+16439;Leicester;Crystal Palace;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;Timothy Castagne;6157;DR;90;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;Jannik Vestergaard;111;DC;90;0;0;1;0;0.0;0.07
+16439;Leicester;Crystal Palace;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;Ryan Bertrand;835;DL;90;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;Ademola Lookman;5556;MR;82;1;0;0;0;0.05;0.0
+16439;Leicester;Crystal Palace;Youri Tielemans;5956;MC;90;1;0;1;0;0.01;0.05
+16439;Leicester;Crystal Palace;Hamza Choudhury;6418;MC;62;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;Harvey Barnes;6681;ML;90;2;0;1;1;0.17;0.35
+16439;Leicester;Crystal Palace;Kelechi Iheanacho;620;FW;73;1;1;2;0;0.3;0.17
+16439;Leicester;Crystal Palace;Jamie Vardy;755;FW;90;3;1;0;0;0.46;0.0
+16439;Leicester;Crystal Palace;Boubakary Soumare;6310;Sub;28;0;0;0;0;0.0;0.0
+16439;Leicester;Crystal Palace;James Maddison;6818;Sub;17;1;0;0;0;0.05;0.0
+16439;Leicester;Crystal Palace;Marc Albrighton;753;Sub;8;0;0;0;0;0.0;0.0
+16443;Tottenham;Aston Villa;Hugo Lloris;637;GK;90;0;0;1;0;0.0;0.18
+16443;Tottenham;Aston Villa;Emerson;7430;DR;90;1;0;1;0;0.06;0.06
+16443;Tottenham;Aston Villa;Cristian Romero;7218;DC;90;0;0;0;0;0.0;0.0
+16443;Tottenham;Aston Villa;Eric Dier;643;DC;90;0;0;2;0;0.0;0.45
+16443;Tottenham;Aston Villa;Sergio Reguilon;7187;DL;90;0;0;0;0;0.0;0.0
+16443;Tottenham;Aston Villa;Pierre-Emile Hojbjerg;343;DMC;90;1;1;0;0;0.07;0.0
+16443;Tottenham;Aston Villa;Oliver Skipp;7198;DMC;90;0;0;0;0;0.0;0.0
+16443;Tottenham;Aston Villa;Lucas Moura;3293;AMR;90;1;0;3;0;0.16;0.14
+16443;Tottenham;Aston Villa;Tanguy NDombele Alvaro;5962;AMC;77;1;0;1;0;0.11;0.16
+16443;Tottenham;Aston Villa;Son Heung-Min;453;AML;90;5;0;2;1;0.55;0.12
+16443;Tottenham;Aston Villa;Harry Kane;647;FW;90;6;0;1;0;0.39;0.41
+16443;Tottenham;Aston Villa;Giovani Lo Celso;5681;Sub;13;2;0;1;0;0.46;0.05
+16443;Tottenham;Aston Villa;Bryan Gil Salvatierra;7338;Sub;1;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Ezri Konsa Ngoyo;7726;DC;90;0;0;1;0;0.0;0.07
+16443;Aston Villa;Tottenham;Tyrone Mings;1024;DC;90;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Kortney Hause;6859;DC;82;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Matthew Cash;8864;DMR;90;2;0;0;0;0.06;0.0
+16443;Aston Villa;Tottenham;Matt Targett;884;DML;90;1;0;2;1;0.05;0.71
+16443;Aston Villa;Tottenham;Douglas Luiz;6122;MC;90;0;0;3;0;0.0;0.1
+16443;Aston Villa;Tottenham;Jacob Ramsey;8941;MC;70;2;0;0;0;0.12;0.0
+16443;Aston Villa;Tottenham;John McGinn;7723;MC;90;3;0;1;0;0.07;0.05
+16443;Aston Villa;Tottenham;Danny Ings;986;FW;90;2;0;0;0;0.06;0.0
+16443;Aston Villa;Tottenham;Ollie Watkins;8865;FW;90;3;1;0;0;0.71;0.0
+16443;Aston Villa;Tottenham;Emiliano Buendia;2203;Sub;20;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Bertrand Traore;695;Sub;8;0;0;0;0;0.0;0.0
+16443;Aston Villa;Tottenham;Cameron Archer;9912;Sub;1;0;0;0;0;0.0;0.0
+16444;West Ham;Brentford;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16444;West Ham;Brentford;Vladimir Coufal;8965;DR;90;3;0;1;0;0.15;0.45
+16444;West Ham;Brentford;Kurt Zouma;935;DC;90;1;0;0;0;0.07;0.0
+16444;West Ham;Brentford;Angelo Ogbonna;528;DC;90;1;0;0;0;0.05;0.0
+16444;West Ham;Brentford;Aaron Cresswell;534;DL;90;0;0;3;0;0.0;0.18
+16444;West Ham;Brentford;Tomas Soucek;8288;DMC;90;0;0;2;1;0.0;0.15
+16444;West Ham;Brentford;Declan Rice;5553;DMC;90;0;0;0;0;0.0;0.0
+16444;West Ham;Brentford;Jarrod Bowen;1776;AMR;90;3;1;0;0;0.59;0.0
+16444;West Ham;Brentford;Said Benrahma;3585;AMC;90;5;0;1;0;0.18;0.11
+16444;West Ham;Brentford;Pablo Fornals;2335;AML;90;3;0;0;0;0.15;0.0
+16444;West Ham;Brentford;Michail Antonio;531;FW;90;2;0;4;0;0.19;0.22
+16444;Brentford;West Ham;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16444;Brentford;West Ham;Zanka;6030;DC;90;0;0;0;0;0.0;0.0
+16444;Brentford;West Ham;Ethan Pinnock;9678;DC;90;1;0;1;0;0.01;0.08
+16444;Brentford;West Ham;Pontus Jansson;1801;DC;90;1;0;0;0;0.02;0.0
+16444;Brentford;West Ham;Sergi Canos;1078;DMR;90;2;0;0;0;0.14;0.0
+16444;Brentford;West Ham;Rico Henry;9679;DML;90;0;0;2;0;0.0;0.07
+16444;Brentford;West Ham;Christian Norgaard;7083;MC;90;0;0;0;0;0.0;0.0
+16444;Brentford;West Ham;Shandon Baptiste;9914;MC;28;2;0;0;0;0.09;0.0
+16444;Brentford;West Ham;Frank Onyeka;9681;MC;87;0;0;0;0;0.0;0.0
+16444;Brentford;West Ham;Bryan Mbeumo;6552;FW;87;4;1;0;0;0.82;0.0
+16444;Brentford;West Ham;Ivan Toney;998;FW;90;1;0;2;0;0.08;0.25
+16444;Brentford;West Ham;Mathias Jensen;7166;Sub;62;1;0;1;0;0.13;0.02
+16444;Brentford;West Ham;Mads Bidstrup;9682;Sub;3;0;0;0;0;0.0;0.0
+16444;Brentford;West Ham;Yoane Wissa;5786;Sub;3;1;1;0;0;0.08;0.0
+16441;Liverpool;Manchester City;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16441;Liverpool;Manchester City;James Milner;489;DR;79;0;0;1;0;0.0;0.03
+16441;Liverpool;Manchester City;Joel Matip;332;DC;90;0;0;1;0;0.0;0.07
+16441;Liverpool;Manchester City;Virgil van Dijk;833;DC;90;0;0;0;0;0.0;0.0
+16441;Liverpool;Manchester City;Andrew Robertson;1688;DL;90;0;0;0;0;0.0;0.0
+16441;Liverpool;Manchester City;Fabinho;3420;MC;90;1;0;0;0;0.3;0.0
+16441;Liverpool;Manchester City;Curtis Jones;6665;MC;90;0;0;1;1;0.0;0.16
+16441;Liverpool;Manchester City;Jordan Henderson;605;MC;90;0;0;0;0;0.0;0.0
+16441;Liverpool;Manchester City;Mohamed Salah;1250;FWR;90;3;1;2;1;0.24;0.63
+16441;Liverpool;Manchester City;Diogo Jota;6854;FW;69;1;0;0;0;0.07;0.0
+16441;Liverpool;Manchester City;Sadio Mane;838;FWL;90;1;1;0;0;0.33;0.0
+16441;Liverpool;Manchester City;Roberto Firmino;482;Sub;21;0;0;0;0;0.0;0.0
+16441;Liverpool;Manchester City;Joseph Gomez;987;Sub;11;0;0;0;0;0.0;0.0
+16441;Manchester City;Liverpool;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16441;Manchester City;Liverpool;Kyle Walker;638;DR;90;1;0;0;0;0.04;0.0
+16441;Manchester City;Liverpool;Ruben Dias;8961;DC;90;0;0;0;0;0.0;0.0
+16441;Manchester City;Liverpool;Aymeric Laporte;2498;DC;90;0;0;0;0;0.0;0.0
+16441;Manchester City;Liverpool;Joao Cancelo;2379;DL;90;0;0;2;0;0.0;0.15
+16441;Manchester City;Liverpool;Kevin De Bruyne;447;MC;90;5;1;1;0;0.37;0.04
+16441;Manchester City;Liverpool;Bernardo Silva;3635;MC;90;0;0;1;0;0.0;0.36
+16441;Manchester City;Liverpool;Rodri;2496;MC;90;1;0;0;0;0.02;0.0
+16441;Manchester City;Liverpool;Gabriel Jesus;5543;FWR;90;2;0;3;1;0.15;0.19
+16441;Manchester City;Liverpool;Jack Grealish;675;FW;67;1;0;0;0;0.03;0.0
+16441;Manchester City;Liverpool;Phil Foden;6055;FWL;90;2;1;1;0;0.43;0.08
+16441;Manchester City;Liverpool;Raheem Sterling;618;Sub;23;0;0;1;0;0.0;0.11
+16426;Chelsea;Manchester City;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Andreas Christensen;200;DC;90;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Antonio Rudiger;1822;DC;90;0;0;2;0;0.0;0.04
+16426;Chelsea;Manchester City;Cesar Azpilicueta;681;DC;90;0;0;1;0;0.0;0.05
+16426;Chelsea;Manchester City;Reece James;8067;DMR;28;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Marcos Alonso;1621;DML;90;2;0;0;0;0.05;0.0
+16426;Chelsea;Manchester City;Mateo Kovacic;2254;MC;90;1;0;0;0;0.06;0.0
+16426;Chelsea;Manchester City;N'Golo Kante;751;MC;62;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Jorginho;1389;MC;78;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Romelu Lukaku;594;FW;90;0;0;1;0;0.0;0.06
+16426;Chelsea;Manchester City;Timo Werner;65;FW;90;2;0;0;0;0.08;0.0
+16426;Chelsea;Manchester City;Thiago Silva;3288;Sub;62;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Kai Havertz;5220;Sub;28;0;0;0;0;0.0;0.0
+16426;Chelsea;Manchester City;Ruben Loftus-Cheek;688;Sub;12;0;0;0;0;0.0;0.0
+16426;Manchester City;Chelsea;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16426;Manchester City;Chelsea;Kyle Walker;638;DR;90;0;0;1;0;0.0;0.07
+16426;Manchester City;Chelsea;Ruben Dias;8961;DC;90;1;0;0;0;0.06;0.0
+16426;Manchester City;Chelsea;Aymeric Laporte;2498;DC;90;2;0;0;0;0.43;0.0
+16426;Manchester City;Chelsea;Joao Cancelo;2379;DL;90;1;0;2;1;0.03;0.11
+16426;Manchester City;Chelsea;Kevin De Bruyne;447;MC;83;4;0;3;0;0.2;0.42
+16426;Manchester City;Chelsea;Bernardo Silva;3635;MC;90;0;0;1;0;0.0;0.03
+16426;Manchester City;Chelsea;Rodri;2496;MC;90;1;0;0;0;0.02;0.0
+16426;Manchester City;Chelsea;Gabriel Jesus;5543;FWR;90;3;1;0;0;0.52;0.0
+16426;Manchester City;Chelsea;Phil Foden;6055;FW;89;0;0;4;0;0.0;0.56
+16426;Manchester City;Chelsea;Jack Grealish;675;FWL;89;3;0;2;0;0.44;0.03
+16426;Manchester City;Chelsea;Riyad Mahrez;750;Sub;7;0;0;0;0;0.0;0.0
+16426;Manchester City;Chelsea;Fernandinho;614;Sub;1;0;0;0;0;0.0;0.0
+16426;Manchester City;Chelsea;Raheem Sterling;618;Sub;1;0;0;0;0;0.0;0.0
+16431;Manchester United;Aston Villa;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16431;Manchester United;Aston Villa;Aaron Wan-Bissaka;5584;DR;90;0;0;2;0;0.0;0.11
+16431;Manchester United;Aston Villa;Raphael Varane;2245;DC;90;1;0;1;0;0.01;0.06
+16431;Manchester United;Aston Villa;Harry Maguire;1687;DC;71;1;0;0;0;0.02;0.0
+16431;Manchester United;Aston Villa;Luke Shaw;1006;DL;33;0;0;2;0;0.0;0.08
+16431;Manchester United;Aston Villa;Fred;6817;DMC;90;0;0;0;0;0.0;0.0
+16431;Manchester United;Aston Villa;Scott McTominay;5560;DMC;86;0;0;1;0;0.0;0.04
+16431;Manchester United;Aston Villa;Mason Greenwood;7490;AMR;90;8;0;3;0;0.46;0.1
+16431;Manchester United;Aston Villa;Bruno Fernandes;1228;AMC;90;6;0;10;0;0.94;0.41
+16431;Manchester United;Aston Villa;Paul Pogba;1740;AML;90;7;0;1;0;0.35;0.1
+16431;Manchester United;Aston Villa;Cristiano Ronaldo;2371;FW;90;4;0;1;0;0.12;0.02
+16431;Manchester United;Aston Villa;Diogo Dalot;7281;Sub;57;0;0;0;0;0.0;0.0
+16431;Manchester United;Aston Villa;Victor Lindelof;6080;Sub;19;0;0;0;0;0.0;0.0
+16431;Manchester United;Aston Villa;Edinson Cavani;3294;Sub;4;1;0;0;0;0.02;0.0
+16431;Aston Villa;Manchester United;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16431;Aston Villa;Manchester United;Ezri Konsa Ngoyo;7726;DC;90;1;0;0;0;0.51;0.0
+16431;Aston Villa;Manchester United;Tyrone Mings;1024;DC;90;0;0;0;0;0.0;0.0
+16431;Aston Villa;Manchester United;Kortney Hause;6859;DC;90;1;1;0;0;0.06;0.0
+16431;Aston Villa;Manchester United;Matthew Cash;8864;DMR;90;0;0;1;0;0.0;0.51
+16431;Aston Villa;Manchester United;Matt Targett;884;DML;90;1;0;0;0;0.51;0.0
+16431;Aston Villa;Manchester United;Douglas Luiz;6122;MC;90;1;0;3;1;0.04;0.64
+16431;Aston Villa;Manchester United;Jacob Ramsey;8941;MC;90;1;0;0;0;0.04;0.0
+16431;Aston Villa;Manchester United;John McGinn;7723;MC;90;0;0;0;0;0.0;0.0
+16431;Aston Villa;Manchester United;Danny Ings;986;FW;82;0;0;0;0;0.0;0.0
+16431;Aston Villa;Manchester United;Ollie Watkins;8865;FW;90;2;0;0;0;0.41;0.0
+16431;Aston Villa;Manchester United;Emiliano Buendia;2203;Sub;8;0;0;1;0;0.0;0.04
+16431;Aston Villa;Manchester United;Cameron Archer;9912;Sub;1;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;Ben Foster;803;GK;90;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;Kiko Femenia;5043;DR;71;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;William Troost-Ekong;6996;DC;90;1;0;0;0;0.01;0.0
+16427;Watford;Newcastle United;Craig Cathcart;581;DC;90;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;Danny Rose;641;DL;90;1;0;2;0;0.01;0.11
+16427;Watford;Newcastle United;Moussa Sissoko;772;DMC;90;1;0;1;0;0.01;0.01
+16427;Watford;Newcastle United;Juraj Kucka;1123;DMC;68;2;0;1;0;0.05;0.01
+16427;Watford;Newcastle United;Ismaila Sarr;5675;AMR;90;3;1;0;0;0.38;0.0
+16427;Watford;Newcastle United;Tom Cleverley;596;AMC;50;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;Emmanuel Dennis;9301;AML;79;4;0;1;0;0.28;0.04
+16427;Watford;Newcastle United;Joshua King;465;FW;90;2;0;2;1;0.14;0.38
+16427;Watford;Newcastle United;Joao Pedro;8272;Sub;22;0;0;1;0;0.0;0.01
+16427;Watford;Newcastle United;Oghenekaro Etebo;6538;Sub;11;0;0;0;0;0.0;0.0
+16427;Watford;Newcastle United;Ozan Tufan;9957;Sub;40;1;0;4;0;0.01;0.26
+16427;Watford;Newcastle United;Jeremy Ngakia;8235;Sub;19;0;0;0;0;0.0;0.0
+16427;Newcastle United;Watford;Karl Darlow;780;GK;90;0;0;0;0;0.0;0.0
+16427;Newcastle United;Watford;Javier Manquillo;1719;DR;90;0;0;0;0;0.0;0.0
+16427;Newcastle United;Watford;Federico Fernandez;708;DC;90;2;0;0;0;0.1;0.0
+16427;Newcastle United;Watford;Ciaran Clark;875;DC;90;2;0;0;0;0.7;0.0
+16427;Newcastle United;Watford;Matt Ritchie;461;DL;90;2;0;3;0;0.09;0.75
+16427;Newcastle United;Watford;Isaac Hayden;6062;DMC;90;0;0;1;0;0.0;0.05
+16427;Newcastle United;Watford;Miguel Almiron;7420;MR;83;2;0;1;0;0.06;0.03
+16427;Newcastle United;Watford;Joe Willock;6630;MC;87;4;0;1;0;0.5;0.11
+16427;Newcastle United;Watford;Sean Longstaff;7078;MC;90;4;1;1;0;0.42;0.03
+16427;Newcastle United;Watford;Joelinton;87;ML;90;1;0;2;0;0.07;0.13
+16427;Newcastle United;Watford;Allan Saint-Maximin;101;FW;90;2;0;5;1;0.14;1.18
+16427;Newcastle United;Watford;Dwight Gayle;743;Sub;3;0;0;0;0;0.0;0.0
+16427;Newcastle United;Watford;Jacob Murphy;6063;Sub;7;1;0;0;0;0.45;0.0
+16428;Everton;Norwich;Jordan Pickford;741;GK;90;0;0;0;0;0.0;0.0
+16428;Everton;Norwich;Ben Godfrey;7689;DR;90;2;0;1;0;0.77;0.03
+16428;Everton;Norwich;Yerry Mina;6521;DC;90;0;0;0;0;0.0;0.0
+16428;Everton;Norwich;Michael Keane;1653;DC;90;1;0;1;0;0.02;0.76
+16428;Everton;Norwich;Lucas Digne;1823;DL;90;0;0;1;0;0.0;0.02
+16428;Everton;Norwich;Andros Townsend;775;MR;78;3;1;1;0;0.87;0.02
+16428;Everton;Norwich;Allan;1379;MC;90;0;0;0;0;0.0;0.0
+16428;Everton;Norwich;Abdoulaye Doucoure;1726;MC;90;2;1;0;0;0.51;0.0
+16428;Everton;Norwich;Alex Iwobi;500;ML;90;1;0;2;0;0.02;0.17
+16428;Everton;Norwich;Demarai Gray;762;AMC;85;1;0;1;1;0.07;0.4
+16428;Everton;Norwich;Salomon Rondon;813;FW;90;0;0;2;0;0.0;0.1
+16428;Everton;Norwich;Anthony Gordon;8150;Sub;12;0;0;0;0;0.0;0.0
+16428;Everton;Norwich;Tom Davies;1042;Sub;5;1;0;0;0;0.03;0.0
+16428;Everton;Norwich;Lewis Dobbin;10027;Sub;1;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Max Aarons;7688;DR;90;1;0;0;0;0.01;0.0
+16428;Norwich;Everton;Ozan Kabak;7376;DC;71;0;0;1;0;0.0;0.01
+16428;Norwich;Everton;Ben Gibson;1707;DC;90;1;0;0;0;0.57;0.0
+16428;Norwich;Everton;Grant Hanley;7690;DC;90;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Brandon Williams;8075;DL;88;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Pierre Lees-Melou;5619;MC;90;1;0;2;0;0.05;0.03
+16428;Norwich;Everton;Mathias Normann;7470;MC;71;3;0;1;0;0.06;0.04
+16428;Norwich;Everton;Kenny McLean;7693;MC;90;3;0;1;0;0.07;0.57
+16428;Norwich;Everton;Teemu Pukki;7696;FW;90;1;0;1;0;0.05;0.01
+16428;Norwich;Everton;Joshua Sargent;7295;FW;90;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Christos Tzolis;9746;Sub;19;0;0;1;0;0.0;0.05
+16428;Norwich;Everton;Dimitris Giannoulis;9745;Sub;2;0;0;0;0;0.0;0.0
+16428;Norwich;Everton;Milot Rashica;6523;Sub;19;0;0;1;0;0.0;0.01
+16429;Leeds;West Ham;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16429;Leeds;West Ham;Jamie Shackleton;8721;DR;90;0;0;1;0;0.0;0.01
+16429;Leeds;West Ham;Liam Cooper;8816;DC;90;0;0;0;0;0.0;0.0
+16429;Leeds;West Ham;Charlie Cresswell;9220;DC;90;0;0;0;0;0.0;0.0
+16429;Leeds;West Ham;Junior Firpo;6485;DL;90;0;0;1;0;0.0;0.02
+16429;Leeds;West Ham;Kalvin Phillips;8719;DMC;90;2;0;0;0;0.03;0.0
+16429;Leeds;West Ham;Raphinha;8026;MR;73;3;1;3;0;0.12;0.53
+16429;Leeds;West Ham;Mateusz Klich;4381;MC;90;2;0;3;1;0.51;0.14
+16429;Leeds;West Ham;Stuart Dallas;8718;MC;90;3;0;1;0;0.17;0.1
+16429;Leeds;West Ham;Daniel James;5595;ML;50;1;0;0;0;0.1;0.0
+16429;Leeds;West Ham;Rodrigo;2381;FW;90;3;0;1;0;0.18;0.1
+16429;Leeds;West Ham;Crysencio Summerville;9492;Sub;1;0;0;0;0;0.0;0.0
+16429;Leeds;West Ham;Jack Harrison;8720;Sub;40;1;0;0;0;0.1;0.0
+16429;Leeds;West Ham;Tyler Roberts;1014;Sub;17;0;0;1;0;0.0;0.06
+16429;West Ham;Leeds;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16429;West Ham;Leeds;Vladimir Coufal;8965;DR;90;0;0;3;0;0.0;0.15
+16429;West Ham;Leeds;Kurt Zouma;935;DC;90;0;0;0;0;0.0;0.0
+16429;West Ham;Leeds;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16429;West Ham;Leeds;Aaron Cresswell;534;DL;90;2;0;2;0;0.07;0.08
+16429;West Ham;Leeds;Tomas Soucek;8288;DMC;90;1;0;0;0;0.01;0.0
+16429;West Ham;Leeds;Declan Rice;5553;DMC;90;1;0;1;1;0.1;0.3
+16429;West Ham;Leeds;Jarrod Bowen;1776;AMR;90;3;0;0;0;0.11;0.0
+16429;West Ham;Leeds;Pablo Fornals;2335;AMC;82;1;0;2;0;0.31;0.03
+16429;West Ham;Leeds;Said Benrahma;3585;AML;90;5;0;3;0;0.21;0.73
+16429;West Ham;Leeds;Michail Antonio;531;FW;90;7;1;4;0;1.17;0.39
+16429;West Ham;Leeds;Nikola Vlasic;6276;Sub;8;0;0;0;0;0.0;0.0
+16429;West Ham;Leeds;Andriy Yarmolenko;6274;Sub;1;0;0;0;0;0.0;0.0
+16429;West Ham;Leeds;Craig Dawson;804;Sub;1;0;0;0;0;0.0;0.0
+16430;Leicester;Burnley;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16430;Leicester;Burnley;Ricardo Pereira;3303;DR;50;0;0;1;0;0.0;0.16
+16430;Leicester;Burnley;Jannik Vestergaard;111;DC;90;0;0;0;0;0.0;0.0
+16430;Leicester;Burnley;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16430;Leicester;Burnley;Ryan Bertrand;835;DL;90;0;0;0;0;0.0;0.0
+16430;Leicester;Burnley;Youri Tielemans;5956;MC;90;5;0;5;1;0.16;0.58
+16430;Leicester;Burnley;Boubakary Soumare;6310;MC;66;1;0;2;0;0.11;0.09
+16430;Leicester;Burnley;Wilfred Ndidi;5545;MC;90;1;0;0;0;0.03;0.0
+16430;Leicester;Burnley;Ademola Lookman;5556;FWR;82;1;0;4;0;0.05;0.36
+16430;Leicester;Burnley;Jamie Vardy;755;FW;90;6;2;1;0;1.33;0.09
+16430;Leicester;Burnley;Harvey Barnes;6681;FWL;90;6;0;1;0;0.36;0.05
+16430;Leicester;Burnley;Timothy Castagne;6157;Sub;40;0;0;1;0;0.0;0.09
+16430;Leicester;Burnley;Kelechi Iheanacho;620;Sub;24;2;0;1;1;0.13;0.51
+16430;Leicester;Burnley;James Maddison;6818;Sub;8;0;0;1;0;0.0;0.02
+16430;Burnley;Leicester;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;Matthew Lowton;1652;DR;90;0;0;1;0;0.0;0.04
+16430;Burnley;Leicester;Ben Mee;1654;DC;90;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;James Tarkowski;1665;DC;90;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;Charlie Taylor;6044;DL;90;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;Dwight McNeil;6756;MR;90;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;Ashley Westwood;669;MC;90;1;0;1;0;0.04;0.08
+16430;Burnley;Leicester;Josh Brownhill;8323;MC;90;1;0;1;0;0.04;0.02
+16430;Burnley;Leicester;Maxwel Cornet;3278;ML;46;2;1;0;0;0.15;0.0
+16430;Burnley;Leicester;Matej Vydra;1017;FW;79;2;0;2;1;0.07;0.1
+16430;Burnley;Leicester;Chris Wood;4456;FW;90;1;0;0;0;0.09;0.0
+16430;Burnley;Leicester;Johann Berg Gudmundsson;1663;Sub;44;0;0;0;0;0.0;0.0
+16430;Burnley;Leicester;Ashley Barnes;4422;Sub;11;1;0;0;0;0.04;0.0
+16430;Burnley;Leicester;Aaron Lennon;593;Sub;1;1;0;0;0;0.01;0.0
+16432;Brentford;Liverpool;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16432;Brentford;Liverpool;Ethan Pinnock;9678;DC;42;1;1;0;0;0.72;0.0
+16432;Brentford;Liverpool;Kristoffer Ajer;9677;DC;90;0;0;0;0;0.0;0.0
+16432;Brentford;Liverpool;Pontus Jansson;1801;DC;90;1;0;0;0;0.4;0.0
+16432;Brentford;Liverpool;Sergi Canos;1078;DMR;90;0;0;0;0;0.0;0.0
+16432;Brentford;Liverpool;Rico Henry;9679;DML;90;1;0;0;0;0.01;0.0
+16432;Brentford;Liverpool;Christian Norgaard;7083;MC;81;0;0;1;0;0.0;0.4
+16432;Brentford;Liverpool;Vitaly Janelt;9680;MC;90;1;1;2;0;0.5;0.07
+16432;Brentford;Liverpool;Frank Onyeka;9681;MC;71;2;0;0;0;0.12;0.0
+16432;Brentford;Liverpool;Bryan Mbeumo;6552;FW;90;1;0;1;0;0.52;0.09
+16432;Brentford;Liverpool;Ivan Toney;998;FW;90;3;0;2;1;0.18;1.24
+16432;Brentford;Liverpool;Zanka;6030;Sub;48;0;0;0;0;0.0;0.0
+16432;Brentford;Liverpool;Yoane Wissa;5786;Sub;9;2;1;0;0;0.54;0.0
+16432;Brentford;Liverpool;Shandon Baptiste;9914;Sub;19;0;0;0;0;0.0;0.0
+16432;Liverpool;Brentford;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16432;Liverpool;Brentford;Trent Alexander-Arnold;1791;DR;90;3;0;1;0;0.12;0.05
+16432;Liverpool;Brentford;Joel Matip;332;DC;90;1;0;0;0;0.05;0.0
+16432;Liverpool;Brentford;Virgil van Dijk;833;DC;90;1;0;0;0;0.03;0.0
+16432;Liverpool;Brentford;Andrew Robertson;1688;DL;90;1;0;1;1;0.04;0.02
+16432;Liverpool;Brentford;Fabinho;3420;MC;90;0;0;2;1;0.0;0.35
+16432;Liverpool;Brentford;Jordan Henderson;605;MC;90;0;0;3;1;0.0;0.39
+16432;Liverpool;Brentford;Curtis Jones;6665;MC;71;4;1;0;0;0.09;0.0
+16432;Liverpool;Brentford;Mohamed Salah;1250;FWR;90;3;1;1;0;1.07;0.03
+16432;Liverpool;Brentford;Diogo Jota;6854;FW;90;2;1;2;0;0.83;0.41
+16432;Liverpool;Brentford;Sadio Mane;838;FWL;90;1;0;2;0;0.05;0.38
+16432;Liverpool;Brentford;Roberto Firmino;482;Sub;19;0;0;0;0;0.0;0.0
+16433;Southampton;Wolverhampton Wanderers;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16433;Southampton;Wolverhampton Wanderers;Valentino Livramento;9512;DR;90;1;0;2;0;0.05;0.04
+16433;Southampton;Wolverhampton Wanderers;Mohammed Salisu;6923;DC;90;0;0;1;0;0.0;0.11
+16433;Southampton;Wolverhampton Wanderers;Jan Bednarek;6042;DC;90;0;0;1;0;0.0;0.03
+16433;Southampton;Wolverhampton Wanderers;Kyle Walker-Peters;885;DL;75;2;0;0;0;0.08;0.0
+16433;Southampton;Wolverhampton Wanderers;Mohamed Elyounoussi;6894;MR;90;4;0;0;0;0.15;0.0
+16433;Southampton;Wolverhampton Wanderers;Oriol Romeu;842;MC;90;1;0;2;0;0.01;0.16
+16433;Southampton;Wolverhampton Wanderers;James Ward-Prowse;843;MC;90;1;0;2;0;0.03;0.04
+16433;Southampton;Wolverhampton Wanderers;Nathan Redmond;790;ML;65;2;0;2;0;0.12;0.1
+16433;Southampton;Wolverhampton Wanderers;Adam Armstrong;4419;FW;90;3;0;3;0;0.18;0.23
+16433;Southampton;Wolverhampton Wanderers;Che Adams;7700;FW;65;2;0;2;0;0.15;0.15
+16433;Southampton;Wolverhampton Wanderers;Shane Long;839;Sub;15;1;0;0;0;0.13;0.0
+16433;Southampton;Wolverhampton Wanderers;Moussa Djenepo;7701;Sub;25;1;0;0;0;0.03;0.0
+16433;Southampton;Wolverhampton Wanderers;Armando Broja;8384;Sub;25;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Jose Sa;9740;GK;90;0;0;1;1;0.0;0.33
+16433;Wolverhampton Wanderers;Southampton;Romain Saiss;3491;DC;90;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Max Kilman;7332;DC;90;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Conor Coady;6851;DC;90;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Nelson Semedo;6163;DMR;88;1;0;0;0;0.08;0.0
+16433;Wolverhampton Wanderers;Southampton;Fernando Marcal;5708;DML;90;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Leander Dendoncker;7236;MC;90;1;0;0;0;0.09;0.0
+16433;Wolverhampton Wanderers;Southampton;Joao Moutinho;3422;MC;90;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Daniel Podence;8291;FWR;72;0;0;1;0;0.0;0.03
+16433;Wolverhampton Wanderers;Southampton;Raul Jimenez;4105;FW;90;2;1;1;0;0.72;0.08
+16433;Wolverhampton Wanderers;Southampton;Hee-Chan Hwang;8845;FWL;89;1;0;0;0;0.03;0.0
+16433;Wolverhampton Wanderers;Southampton;Ki-Jana Hoever;8351;Sub;2;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Ruben Neves;6853;Sub;1;0;0;0;0;0.0;0.0
+16433;Wolverhampton Wanderers;Southampton;Adama Traore;900;Sub;18;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Aaron Ramsdale;5603;GK;90;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Takehiro Tomiyasu;7931;DR;90;1;0;0;0;0.02;0.0
+16434;Arsenal;Tottenham;Gabriel;5613;DC;90;1;0;1;0;0.03;0.04
+16434;Arsenal;Tottenham;Ben White;7298;DC;90;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Kieran Tierney;8089;DL;90;1;0;0;0;0.03;0.0
+16434;Arsenal;Tottenham;Thomas Partey;2328;DMC;90;2;0;1;0;0.04;0.05
+16434;Arsenal;Tottenham;Granit Xhaka;204;DMC;84;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Bukayo Saka;7322;AMR;89;2;1;3;1;0.57;0.58
+16434;Arsenal;Tottenham;Martin Odegaard;2517;AMC;90;0;0;3;0;0.0;0.08
+16434;Arsenal;Tottenham;Emile Smith-Rowe;7230;AML;90;1;1;2;1;0.54;0.15
+16434;Arsenal;Tottenham;Pierre-Emerick Aubameyang;318;FW;90;4;1;0;0;0.22;0.0
+16434;Arsenal;Tottenham;Albert Sambi Lokonga;9689;Sub;6;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Nuno Tavares;9691;Sub;1;0;0;0;0;0.0;0.0
+16434;Arsenal;Tottenham;Ainsley Maitland-Niles;1750;Sub;1;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Hugo Lloris;637;GK;90;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Japhet Tanganga;8222;DR;48;1;0;0;0;0.09;0.0
+16434;Tottenham;Arsenal;Davinson Sanchez;6249;DC;90;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Eric Dier;643;DC;90;0;0;1;0;0.0;0.29
+16434;Tottenham;Arsenal;Sergio Reguilon;7187;DL;90;0;0;2;1;0.0;0.34
+16434;Tottenham;Arsenal;Pierre-Emile Hojbjerg;343;MC;90;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Tanguy NDombele Alvaro;5962;MC;72;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Dele Alli;645;MC;48;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Lucas Moura;3293;FWR;90;2;0;1;0;0.05;0.02
+16434;Tottenham;Arsenal;Harry Kane;647;FW;90;5;0;0;0;0.45;0.0
+16434;Tottenham;Arsenal;Son Heung-Min;453;FWL;90;2;1;3;0;0.39;0.2
+16434;Tottenham;Arsenal;Emerson;7430;Sub;42;0;0;1;0;0.0;0.02
+16434;Tottenham;Arsenal;Bryan Gil Salvatierra;7338;Sub;18;0;0;0;0;0.0;0.0
+16434;Tottenham;Arsenal;Oliver Skipp;7198;Sub;42;0;0;0;0;0.0;0.0
+16415;Everton;Burnley;Jordan Pickford;741;GK;90;0;0;0;0;0.0;0.0
+16415;Everton;Burnley;Yerry Mina;6521;DC;90;1;0;0;0;0.02;0.0
+16415;Everton;Burnley;Michael Keane;1653;DC;90;1;1;2;0;0.3;0.09
+16415;Everton;Burnley;Ben Godfrey;7689;DC;62;1;0;0;0;0.01;0.0
+16415;Everton;Burnley;Seamus Coleman;585;DMR;90;0;0;0;0;0.0;0.0
+16415;Everton;Burnley;Lucas Digne;1823;DML;90;1;0;4;0;0.06;0.07
+16415;Everton;Burnley;Allan;1379;MC;90;0;0;0;0;0.0;0.0
+16415;Everton;Burnley;Abdoulaye Doucoure;1726;MC;90;1;0;2;2;0.09;0.54
+16415;Everton;Burnley;Andros Townsend;775;FWR;90;2;1;2;1;0.09;0.39
+16415;Everton;Burnley;Richarlison;6026;FW;82;1;0;0;0;0.01;0.0
+16415;Everton;Burnley;Demarai Gray;762;FWL;89;4;1;0;0;0.63;0.0
+16415;Everton;Burnley;Alex Iwobi;500;Sub;1;0;0;0;0;0.0;0.0
+16415;Everton;Burnley;Andre Gomes;2383;Sub;28;2;0;1;0;0.59;0.08
+16415;Everton;Burnley;Salomon Rondon;813;Sub;8;0;0;0;0;0.0;0.0
+16415;Burnley;Everton;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16415;Burnley;Everton;Matthew Lowton;1652;DR;90;0;0;1;0;0.0;0.09
+16415;Burnley;Everton;Ben Mee;1654;DC;90;2;1;0;0;1.1;0.0
+16415;Burnley;Everton;James Tarkowski;1665;DC;90;0;0;0;0;0.0;0.0
+16415;Burnley;Everton;Charlie Taylor;6044;DL;90;0;0;3;0;0.0;0.07
+16415;Burnley;Everton;Johann Berg Gudmundsson;1663;MR;77;0;0;1;1;0.0;0.45
+16415;Burnley;Everton;Ashley Westwood;669;MC;90;0;0;1;0;0.0;0.65
+16415;Burnley;Everton;Josh Brownhill;8323;MC;90;1;0;0;0;0.09;0.0
+16415;Burnley;Everton;Dwight McNeil;6756;ML;90;3;0;2;0;0.04;0.44
+16415;Burnley;Everton;Chris Wood;4456;FW;87;3;0;0;0;0.54;0.0
+16415;Burnley;Everton;Ashley Barnes;4422;FW;77;0;0;1;0;0.0;0.09
+16415;Burnley;Everton;Matej Vydra;1017;Sub;13;0;0;0;0;0.0;0.0
+16415;Burnley;Everton;Aaron Lennon;593;Sub;13;0;0;0;0;0.0;0.0
+16415;Burnley;Everton;Jay Rodriguez;844;Sub;3;2;0;0;0;0.05;0.0
+16416;Newcastle United;Leeds;Karl Darlow;780;GK;90;0;0;0;0;0.0;0.0
+16416;Newcastle United;Leeds;Javier Manquillo;1719;DR;84;0;0;0;0;0.0;0.0
+16416;Newcastle United;Leeds;Ciaran Clark;875;DC;90;0;0;0;0;0.0;0.0
+16416;Newcastle United;Leeds;Jamaal Lascelles;766;DC;90;2;0;0;0;0.09;0.0
+16416;Newcastle United;Leeds;Isaac Hayden;6062;DC;90;0;0;1;0;0.0;0.01
+16416;Newcastle United;Leeds;Matt Ritchie;461;DL;90;1;0;2;0;0.05;0.09
+16416;Newcastle United;Leeds;Miguel Almiron;7420;MR;65;2;0;4;0;0.18;0.54
+16416;Newcastle United;Leeds;Joe Willock;6630;MC;90;1;0;1;0;0.02;0.04
+16416;Newcastle United;Leeds;Sean Longstaff;7078;MC;90;3;0;1;0;0.07;0.05
+16416;Newcastle United;Leeds;Joelinton;87;ML;90;2;0;2;1;0.45;0.11
+16416;Newcastle United;Leeds;Allan Saint-Maximin;101;FW;90;5;1;2;0;0.32;0.15
+16416;Newcastle United;Leeds;Emil Krafth;1545;Sub;6;0;0;0;0;0.0;0.0
+16416;Newcastle United;Leeds;Jacob Murphy;6063;Sub;1;0;0;0;0;0.0;0.0
+16416;Newcastle United;Leeds;Ryan Fraser;1683;Sub;25;1;0;0;0;0.04;0.0
+16416;Leeds;Newcastle United;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16416;Leeds;Newcastle United;Stuart Dallas;8718;DR;90;0;0;1;0;0.0;0.04
+16416;Leeds;Newcastle United;Luke Ayling;8716;DC;90;0;0;0;0;0.0;0.0
+16416;Leeds;Newcastle United;Liam Cooper;8816;DC;90;0;0;1;0;0.0;0.03
+16416;Leeds;Newcastle United;Junior Firpo;6485;DL;90;2;0;3;0;0.34;0.23
+16416;Leeds;Newcastle United;Kalvin Phillips;8719;DMC;90;1;0;0;0;0.04;0.0
+16416;Leeds;Newcastle United;Raphinha;8026;MR;70;4;1;3;0;0.29;0.21
+16416;Leeds;Newcastle United;Mateusz Klich;4381;MC;90;5;0;2;0;0.22;0.07
+16416;Leeds;Newcastle United;Rodrigo;2381;MC;90;3;0;3;0;0.16;0.3
+16416;Leeds;Newcastle United;Daniel James;5595;ML;64;2;0;1;0;0.15;0.06
+16416;Leeds;Newcastle United;Patrick Bamford;822;FW;90;4;0;1;1;0.26;0.01
+16416;Leeds;Newcastle United;Crysencio Summerville;9492;Sub;20;0;0;0;0;0.0;0.0
+16416;Leeds;Newcastle United;Jamie Shackleton;8721;Sub;1;0;0;0;0;0.0;0.0
+16416;Leeds;Newcastle United;Tyler Roberts;1014;Sub;26;0;0;2;0;0.0;0.09
+16417;Wolverhampton Wanderers;Brentford;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16417;Wolverhampton Wanderers;Brentford;Romain Saiss;3491;DC;49;1;0;0;0;0.01;0.0
+16417;Wolverhampton Wanderers;Brentford;Conor Coady;6851;DC;90;0;0;0;0;0.0;0.0
+16417;Wolverhampton Wanderers;Brentford;Max Kilman;7332;DC;90;0;0;1;0;0.0;0.01
+16417;Wolverhampton Wanderers;Brentford;Nelson Semedo;6163;DMR;85;1;0;0;0;0.05;0.0
+16417;Wolverhampton Wanderers;Brentford;Fernando Marcal;5708;DML;75;2;0;0;0;0.03;0.0
+16417;Wolverhampton Wanderers;Brentford;Ruben Neves;6853;MC;90;1;0;2;0;0.01;0.02
+16417;Wolverhampton Wanderers;Brentford;Joao Moutinho;3422;MC;90;0;0;0;0;0.0;0.0
+16417;Wolverhampton Wanderers;Brentford;Trincao;8934;FWR;90;2;0;1;0;0.44;0.03
+16417;Wolverhampton Wanderers;Brentford;Raul Jimenez;4105;FW;90;1;0;3;0;0.06;0.45
+16417;Wolverhampton Wanderers;Brentford;Adama Traore;900;FWL;90;2;0;1;0;0.06;0.06
+16417;Wolverhampton Wanderers;Brentford;Daniel Podence;8291;Sub;15;0;0;0;0;0.0;0.0
+16417;Wolverhampton Wanderers;Brentford;Hee-Chan Hwang;8845;Sub;41;1;0;0;0;0.38;0.0
+16417;Wolverhampton Wanderers;Brentford;Fabio Silva;8778;Sub;5;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Ethan Pinnock;9678;DC;90;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Kristoffer Ajer;9677;DC;90;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Pontus Jansson;1801;DC;85;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Sergi Canos;1078;DMR;71;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Rico Henry;9679;DML;78;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Christian Norgaard;7083;MC;90;0;0;1;0;0.0;0.01
+16417;Brentford;Wolverhampton Wanderers;Vitaly Janelt;9680;MC;90;2;0;2;0;0.46;0.24
+16417;Brentford;Wolverhampton Wanderers;Shandon Baptiste;9914;MC;67;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Bryan Mbeumo;6552;FW;90;3;1;1;0;1.04;0.03
+16417;Brentford;Wolverhampton Wanderers;Ivan Toney;998;FW;90;3;1;2;1;0.8;0.83
+16417;Brentford;Wolverhampton Wanderers;Zanka;6030;Sub;5;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Mads Roerslev;9685;Sub;12;0;0;0;0;0.0;0.0
+16417;Brentford;Wolverhampton Wanderers;Frank Onyeka;9681;Sub;19;1;0;0;0;0.04;0.0
+16418;Norwich;Watford;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16418;Norwich;Watford;Max Aarons;7688;DR;90;0;0;1;0;0.0;0.03
+16418;Norwich;Watford;Ozan Kabak;7376;DC;90;0;0;0;0;0.0;0.0
+16418;Norwich;Watford;Grant Hanley;7690;DC;90;0;0;1;0;0.0;0.05
+16418;Norwich;Watford;Brandon Williams;8075;DL;90;0;0;0;0;0.0;0.0
+16418;Norwich;Watford;Mathias Normann;7470;MC;72;2;0;1;1;0.06;0.25
+16418;Norwich;Watford;Kenny McLean;7693;MC;90;3;0;0;0;0.08;0.0
+16418;Norwich;Watford;Billy Gilmour;7988;MC;90;0;0;3;0;0.0;0.21
+16418;Norwich;Watford;Joshua Sargent;7295;FWR;72;1;0;1;0;0.05;0.08
+16418;Norwich;Watford;Teemu Pukki;7696;FW;90;4;1;1;0;0.49;0.02
+16418;Norwich;Watford;Milot Rashica;6523;FWL;90;2;0;0;0;0.11;0.0
+16418;Norwich;Watford;Christos Tzolis;9746;Sub;18;0;0;1;0;0.0;0.08
+16418;Norwich;Watford;Adam Idah;8021;Sub;1;0;0;0;0;0.0;0.0
+16418;Norwich;Watford;Todd Cantwell;7695;Sub;18;0;0;0;0;0.0;0.0
+16418;Watford;Norwich;Ben Foster;803;GK;90;0;0;0;0;0.0;0.0
+16418;Watford;Norwich;Kiko Femenia;5043;DR;61;0;0;3;1;0.0;0.6
+16418;Watford;Norwich;William Troost-Ekong;6996;DC;90;0;0;0;0;0.0;0.0
+16418;Watford;Norwich;Craig Cathcart;581;DC;90;1;0;0;0;0.06;0.0
+16418;Watford;Norwich;Danny Rose;641;DL;90;0;0;1;0;0.0;0.29
+16418;Watford;Norwich;Moussa Sissoko;772;DMC;90;0;0;1;0;0.0;0.03
+16418;Watford;Norwich;Juraj Kucka;1123;DMC;90;1;0;1;0;0.11;0.02
+16418;Watford;Norwich;Ismaila Sarr;5675;AMR;90;5;2;0;0;1.38;0.0
+16418;Watford;Norwich;Tom Cleverley;596;AMC;84;0;0;3;0;0.0;0.6
+16418;Watford;Norwich;Emmanuel Dennis;9301;AML;75;2;1;0;0;0.46;0.0
+16418;Watford;Norwich;Joshua King;465;FW;90;2;0;2;1;0.55;0.69
+16418;Watford;Norwich;Oghenekaro Etebo;6538;Sub;6;0;0;0;0;0.0;0.0
+16418;Watford;Norwich;Ken Sema;6841;Sub;15;0;0;0;0;0.0;0.0
+16418;Watford;Norwich;Jeremy Ngakia;8235;Sub;29;1;0;0;0;0.02;0.0
+16419;Burnley;Arsenal;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16419;Burnley;Arsenal;Matthew Lowton;1652;DR;90;0;0;2;0;0.0;0.07
+16419;Burnley;Arsenal;James Tarkowski;1665;DC;90;1;0;0;0;0.06;0.0
+16419;Burnley;Arsenal;Ben Mee;1654;DC;90;2;0;1;0;0.09;0.01
+16419;Burnley;Arsenal;Charlie Taylor;6044;DL;90;0;0;1;0;0.0;0.02
+16419;Burnley;Arsenal;Johann Berg Gudmundsson;1663;MR;59;3;0;0;0;0.12;0.0
+16419;Burnley;Arsenal;Ashley Westwood;669;MC;90;3;0;2;0;0.12;0.13
+16419;Burnley;Arsenal;Josh Brownhill;8323;MC;90;1;0;1;0;0.02;0.05
+16419;Burnley;Arsenal;Dwight McNeil;6756;ML;90;2;0;3;0;0.08;0.12
+16419;Burnley;Arsenal;Chris Wood;4456;FW;84;1;0;1;0;0.04;0.07
+16419;Burnley;Arsenal;Ashley Barnes;4422;FW;59;2;0;0;0;0.1;0.0
+16419;Burnley;Arsenal;Matej Vydra;1017;Sub;31;1;0;0;0;0.02;0.0
+16419;Burnley;Arsenal;Jay Rodriguez;844;Sub;6;1;0;0;0;0.06;0.0
+16419;Burnley;Arsenal;Maxwel Cornet;3278;Sub;31;1;0;1;0;0.07;0.06
+16419;Arsenal;Burnley;Aaron Ramsdale;5603;GK;90;0;0;0;0;0.0;0.0
+16419;Arsenal;Burnley;Takehiro Tomiyasu;7931;DR;90;0;0;0;0;0.0;0.0
+16419;Arsenal;Burnley;Gabriel;5613;DC;90;0;0;0;0;0.0;0.0
+16419;Arsenal;Burnley;Ben White;7298;DC;90;0;0;0;0;0.0;0.0
+16419;Arsenal;Burnley;Kieran Tierney;8089;DL;80;0;0;0;0;0.0;0.0
+16419;Arsenal;Burnley;Thomas Partey;2328;DMC;77;3;0;1;0;0.05;0.03
+16419;Arsenal;Burnley;Nicolas Pepe;5656;MR;90;2;0;2;0;0.57;0.15
+16419;Arsenal;Burnley;Martin Odegaard;2517;MC;90;2;1;2;0;0.09;0.09
+16419;Arsenal;Burnley;Emile Smith-Rowe;7230;MC;63;2;0;0;0;0.24;0.0
+16419;Arsenal;Burnley;Bukayo Saka;7322;ML;90;1;0;0;0;0.07;0.0
+16419;Arsenal;Burnley;Pierre-Emerick Aubameyang;318;FW;90;2;0;3;0;0.05;0.27
+16419;Arsenal;Burnley;Albert Sambi Lokonga;9689;Sub;27;0;0;1;0;0.0;0.02
+16419;Arsenal;Burnley;Nuno Tavares;9691;Sub;10;1;0;0;0;0.02;0.0
+16419;Arsenal;Burnley;Ainsley Maitland-Niles;1750;Sub;13;0;0;0;0;0.0;0.0
+16420;Liverpool;Crystal Palace;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16420;Liverpool;Crystal Palace;James Milner;489;DR;90;1;0;1;0;0.05;0.05
+16420;Liverpool;Crystal Palace;Ibrahima Konate;6326;DC;90;0;0;0;0;0.0;0.0
+16420;Liverpool;Crystal Palace;Virgil van Dijk;833;DC;90;1;0;1;1;0.03;0.48
+16420;Liverpool;Crystal Palace;Konstantinos Tsimikas;8852;DL;90;1;0;4;0;0.02;0.21
+16420;Liverpool;Crystal Palace;Fabinho;3420;MC;90;2;0;0;0;0.12;0.0
+16420;Liverpool;Crystal Palace;Thiago Alcantara;229;MC;63;3;0;2;0;0.44;0.05
+16420;Liverpool;Crystal Palace;Jordan Henderson;605;MC;89;2;0;3;0;0.08;0.36
+16420;Liverpool;Crystal Palace;Mohamed Salah;1250;FWR;90;6;1;2;0;0.75;0.15
+16420;Liverpool;Crystal Palace;Diogo Jota;6854;FW;77;4;0;1;0;0.84;0.03
+16420;Liverpool;Crystal Palace;Sadio Mane;838;FWL;90;2;1;0;0;0.6;0.0
+16420;Liverpool;Crystal Palace;Divock Origi;484;Sub;1;0;0;0;0;0.0;0.0
+16420;Liverpool;Crystal Palace;Naby Keita;5247;Sub;27;2;1;0;0;0.06;0.0
+16420;Liverpool;Crystal Palace;Curtis Jones;6665;Sub;13;1;0;0;0;0.03;0.0
+16420;Crystal Palace;Liverpool;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16420;Crystal Palace;Liverpool;Joel Ward;510;DR;90;2;0;0;0;0.08;0.0
+16420;Crystal Palace;Liverpool;Joachim Andersen;6314;DC;90;0;0;0;0;0.0;0.0
+16420;Crystal Palace;Liverpool;Marc Guehi;7603;DC;90;0;0;0;0;0.0;0.0
+16420;Crystal Palace;Liverpool;Tyrick Mitchell;8214;DL;90;0;0;0;0;0.0;0.0
+16420;Crystal Palace;Liverpool;Cheikhou Kouyate;532;MC;83;0;0;0;0;0.0;0.0
+16420;Crystal Palace;Liverpool;Conor Gallagher;9040;MC;90;0;0;2;0;0.0;0.05
+16420;Crystal Palace;Liverpool;James McArthur;633;MC;66;1;0;1;0;0.02;0.03
+16420;Crystal Palace;Liverpool;Jordan Ayew;672;FWR;90;4;0;1;0;0.22;0.12
+16420;Crystal Palace;Liverpool;Christian Benteke;606;FW;66;3;0;1;0;0.17;0.02
+16420;Crystal Palace;Liverpool;Wilfried Zaha;522;FWL;90;1;0;0;0;0.05;0.0
+16420;Crystal Palace;Liverpool;Odsonne Edouard;3697;Sub;24;2;0;1;0;0.1;0.03
+16420;Crystal Palace;Liverpool;Jairo Riedewald;6027;Sub;24;0;0;2;0;0.0;0.05
+16420;Crystal Palace;Liverpool;Michael Olise;9948;Sub;7;0;0;0;0;0.0;0.0
+16421;Manchester City;Southampton;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16421;Manchester City;Southampton;Kyle Walker;638;DR;90;0;0;1;0;0.0;0.39
+16421;Manchester City;Southampton;Nathan Ake;579;DC;90;0;0;0;0;0.0;0.0
+16421;Manchester City;Southampton;Ruben Dias;8961;DC;90;1;0;2;0;0.1;0.04
+16421;Manchester City;Southampton;Joao Cancelo;2379;DL;90;2;0;0;0;0.03;0.0
+16421;Manchester City;Southampton;Fernandinho;614;MC;67;1;0;1;0;0.05;0.03
+16421;Manchester City;Southampton;Ilkay Gundogan;314;MC;90;2;0;1;0;0.44;0.1
+16421;Manchester City;Southampton;Bernardo Silva;3635;MC;74;0;0;1;0;0.0;0.05
+16421;Manchester City;Southampton;Gabriel Jesus;5543;FWR;69;3;0;0;0;0.14;0.0
+16421;Manchester City;Southampton;Raheem Sterling;618;FW;90;4;0;1;0;0.19;0.06
+16421;Manchester City;Southampton;Jack Grealish;675;FWL;90;0;0;3;0;0.0;0.11
+16421;Manchester City;Southampton;Riyad Mahrez;750;Sub;21;1;0;1;0;0.02;0.04
+16421;Manchester City;Southampton;Kevin De Bruyne;447;Sub;23;1;0;1;0;0.04;0.22
+16421;Manchester City;Southampton;Phil Foden;6055;Sub;16;1;0;0;0;0.22;0.0
+16421;Southampton;Manchester City;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Valentino Livramento;9512;DR;88;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Jan Bednarek;6042;DC;90;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Jack Stephens;1735;DC;36;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Kyle Walker-Peters;885;DL;90;0;0;2;0;0.0;0.08
+16421;Southampton;Manchester City;Oriol Romeu;842;DMC;90;0;0;1;0;0.0;0.06
+16421;Southampton;Manchester City;Mohamed Elyounoussi;6894;MR;90;3;0;1;0;0.1;0.11
+16421;Southampton;Manchester City;James Ward-Prowse;843;MC;90;0;0;1;0;0.0;0.02
+16421;Southampton;Manchester City;Che Adams;7700;MC;70;1;0;1;0;0.06;0.05
+16421;Southampton;Manchester City;Nathan Redmond;790;ML;90;1;0;2;0;0.01;0.09
+16421;Southampton;Manchester City;Adam Armstrong;4419;FW;90;4;0;0;0;0.26;0.0
+16421;Southampton;Manchester City;Romain Perraud;6500;Sub;2;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Mohammed Salisu;6923;Sub;54;0;0;0;0;0.0;0.0
+16421;Southampton;Manchester City;Armando Broja;8384;Sub;20;1;0;0;0;0.06;0.0
+16422;Aston Villa;Everton;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16422;Aston Villa;Everton;Matthew Cash;8864;DR;88;3;1;0;0;0.15;0.0
+16422;Aston Villa;Everton;Tyrone Mings;1024;DC;90;2;0;1;0;0.11;0.07
+16422;Aston Villa;Everton;Axel Tuanzebe;934;DC;90;1;0;0;0;0.1;0.0
+16422;Aston Villa;Everton;Ezri Konsa Ngoyo;7726;DC;90;0;0;0;0;0.0;0.0
+16422;Aston Villa;Everton;Matt Targett;884;DL;63;0;0;1;0;0.0;0.1
+16422;Aston Villa;Everton;Douglas Luiz;6122;MC;90;1;0;5;1;0.05;0.21
+16422;Aston Villa;Everton;Jacob Ramsey;8941;MC;90;2;0;1;0;0.06;0.04
+16422;Aston Villa;Everton;John McGinn;7723;MC;39;2;0;0;0;0.07;0.0
+16422;Aston Villa;Everton;Danny Ings;986;FW;90;1;0;1;1;0.07;0.1
+16422;Aston Villa;Everton;Ollie Watkins;8865;FW;90;0;0;1;0;0.0;0.04
+16422;Aston Villa;Everton;Bertrand Traore;695;Sub;2;2;0;0;0;0.07;0.0
+16422;Aston Villa;Everton;Leon Bailey;5221;Sub;21;1;1;0;0;0.1;0.0
+16422;Aston Villa;Everton;Marvelous Nakamba;8040;Sub;51;0;0;0;0;0.0;0.0
+16422;Aston Villa;Everton;Ashley Young;631;Sub;6;0;0;0;0;0.0;0.0
+16422;Everton;Aston Villa;Asmir Begovic;694;GK;90;0;0;0;0;0.0;0.0
+16422;Everton;Aston Villa;Ben Godfrey;7689;DR;82;0;0;1;0;0.0;0.13
+16422;Everton;Aston Villa;Yerry Mina;6521;DC;90;0;0;0;0;0.0;0.0
+16422;Everton;Aston Villa;Michael Keane;1653;DC;90;2;0;0;0;0.2;0.0
+16422;Everton;Aston Villa;Lucas Digne;1823;DL;90;0;0;1;0;0.0;0.19
+16422;Everton;Aston Villa;Andros Townsend;775;MR;90;2;0;4;0;0.06;0.16
+16422;Everton;Aston Villa;Allan;1379;MC;75;0;0;0;0;0.0;0.0
+16422;Everton;Aston Villa;Abdoulaye Doucoure;1726;MC;90;0;0;1;0;0.0;0.08
+16422;Everton;Aston Villa;Alex Iwobi;500;ML;83;1;0;0;0;0.09;0.0
+16422;Everton;Aston Villa;Demarai Gray;762;AMC;90;2;0;2;0;0.18;0.1
+16422;Everton;Aston Villa;Salomon Rondon;813;FW;65;2;0;0;0;0.17;0.0
+16422;Everton;Aston Villa;Andre Gomes;2383;Sub;25;1;0;0;0;0.05;0.0
+16422;Everton;Aston Villa;Jonjoe Kenny;1084;Sub;8;0;0;0;0;0.0;0.0
+16422;Everton;Aston Villa;Tom Davies;1042;Sub;7;1;0;0;0;0.01;0.0
+16422;Everton;Aston Villa;Anthony Gordon;8150;Sub;15;0;0;0;0;0.0;0.0
+16423;Brighton;Leicester;Robert Sanchez;9098;GK;90;0;0;0;0;0.0;0.0
+16423;Brighton;Leicester;Shane Duffy;6047;DC;90;2;0;1;0;0.07;0.02
+16423;Brighton;Leicester;Joel Veltman;8780;DC;90;0;0;1;0;0.0;0.07
+16423;Brighton;Leicester;Lewis Dunk;6048;DC;90;0;0;0;0;0.0;0.0
+16423;Brighton;Leicester;Solly March;6049;DMR;64;1;0;1;0;0.07;0.04
+16423;Brighton;Leicester;Marc Cucurella;7134;DML;90;0;0;1;0;0.0;0.13
+16423;Brighton;Leicester;Yves Bissouma;5609;MC;81;1;0;0;0;0.18;0.0
+16423;Brighton;Leicester;Adam Lallana;486;MC;90;2;0;0;0;0.13;0.0
+16423;Brighton;Leicester;Leandro Trossard;7698;AMC;90;2;0;4;1;0.06;0.14
+16423;Brighton;Leicester;Danny Welbeck;501;AMC;72;2;1;1;0;0.07;0.09
+16423;Brighton;Leicester;Neal Maupay;3621;FW;90;2;1;0;0;0.89;0.0
+16423;Brighton;Leicester;Jakub Moder;9284;Sub;9;0;0;0;0;0.0;0.0
+16423;Brighton;Leicester;Enock Mwepu;9734;Sub;26;0;0;0;0;0.0;0.0
+16423;Brighton;Leicester;Dan Burn;7382;Sub;18;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;Ricardo Pereira;3303;DR;90;0;0;2;0;0.0;0.08
+16423;Leicester;Brighton;Jannik Vestergaard;111;DC;90;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;Caglar Soyuncu;5264;DC;90;1;0;0;0;0.13;0.0
+16423;Leicester;Brighton;Ryan Bertrand;835;DL;70;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;Youri Tielemans;5956;MC;90;5;0;2;1;0.12;0.77
+16423;Leicester;Brighton;Boubakary Soumare;6310;MC;77;1;0;0;0;0.03;0.0
+16423;Leicester;Brighton;Wilfred Ndidi;5545;MC;90;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;James Maddison;6818;FWR;48;1;0;0;0;0.02;0.0
+16423;Leicester;Brighton;Jamie Vardy;755;FW;90;3;1;2;0;0.82;0.08
+16423;Leicester;Brighton;Harvey Barnes;6681;FWL;90;1;0;4;0;0.03;0.16
+16423;Leicester;Brighton;Timothy Castagne;6157;Sub;20;0;0;0;0;0.0;0.0
+16423;Leicester;Brighton;Kelechi Iheanacho;620;Sub;13;0;0;1;0;0.0;0.05
+16423;Leicester;Brighton;Ademola Lookman;5556;Sub;42;2;0;2;0;0.11;0.06
+16424;West Ham;Manchester United;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16424;West Ham;Manchester United;Vladimir Coufal;8965;DR;90;0;0;1;0;0.0;0.01
+16424;West Ham;Manchester United;Kurt Zouma;935;DC;90;0;0;0;0;0.0;0.0
+16424;West Ham;Manchester United;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16424;West Ham;Manchester United;Aaron Cresswell;534;DL;90;0;0;2;0;0.0;0.11
+16424;West Ham;Manchester United;Pablo Fornals;2335;MR;90;2;0;2;0;0.15;0.17
+16424;West Ham;Manchester United;Tomas Soucek;8288;MC;90;2;0;0;0;0.06;0.0
+16424;West Ham;Manchester United;Declan Rice;5553;MC;90;0;0;0;0;0.0;0.0
+16424;West Ham;Manchester United;Nikola Vlasic;6276;ML;70;1;0;0;0;0.09;0.0
+16424;West Ham;Manchester United;Said Benrahma;3585;FW;90;3;1;1;0;0.06;0.37
+16424;West Ham;Manchester United;Jarrod Bowen;1776;FW;90;4;0;3;1;0.55;0.18
+16424;West Ham;Manchester United;Manuel Lanzini;535;Sub;1;0;0;0;0;0.0;0.0
+16424;West Ham;Manchester United;Andriy Yarmolenko;6274;Sub;20;0;0;1;0;0.0;0.02
+16424;West Ham;Manchester United;Mark Noble;533;Sub;1;1;0;0;0;0.76;0.0
+16424;Manchester United;West Ham;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16424;Manchester United;West Ham;Aaron Wan-Bissaka;5584;DR;90;1;0;0;0;0.04;0.0
+16424;Manchester United;West Ham;Raphael Varane;2245;DC;90;0;0;0;0;0.0;0.0
+16424;Manchester United;West Ham;Harry Maguire;1687;DC;90;1;0;0;0;0.08;0.0
+16424;Manchester United;West Ham;Luke Shaw;1006;DL;90;1;0;5;0;0.02;0.23
+16424;Manchester United;West Ham;Fred;6817;DMC;90;0;0;1;0;0.0;0.02
+16424;Manchester United;West Ham;Scott McTominay;5560;DMC;90;1;0;2;0;0.05;0.05
+16424;Manchester United;West Ham;Mason Greenwood;7490;AMR;75;0;0;1;0;0.0;0.05
+16424;Manchester United;West Ham;Bruno Fernandes;1228;AMC;90;3;0;3;0;0.08;0.86
+16424;Manchester United;West Ham;Paul Pogba;1740;AML;75;2;0;2;0;0.05;0.12
+16424;Manchester United;West Ham;Cristiano Ronaldo;2371;FW;90;7;1;0;0;1.9;0.0
+16424;Manchester United;West Ham;Nemanja Matic;697;Sub;1;0;0;1;1;0.0;0.05
+16424;Manchester United;West Ham;Jadon Sancho;6345;Sub;15;0;0;0;0;0.0;0.0
+16424;Manchester United;West Ham;Jesse Lingard;558;Sub;15;1;1;1;0;0.05;0.04
+16425;Tottenham;Chelsea;Hugo Lloris;637;GK;90;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Emerson;7430;DR;90;0;0;1;0;0.0;0.04
+16425;Tottenham;Chelsea;Cristian Romero;7218;DC;84;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Eric Dier;643;DC;90;0;0;1;0;0.0;0.01
+16425;Tottenham;Chelsea;Sergio Reguilon;7187;DL;90;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Pierre-Emile Hojbjerg;343;MC;90;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Tanguy NDombele Alvaro;5962;MC;63;1;0;1;0;0.02;0.02
+16425;Tottenham;Chelsea;Dele Alli;645;MC;90;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Giovani Lo Celso;5681;AMC;63;3;0;2;0;0.12;0.43
+16425;Tottenham;Chelsea;Harry Kane;647;AMC;90;2;0;0;0;0.13;0.0
+16425;Tottenham;Chelsea;Son Heung-Min;453;FW;90;2;0;1;0;0.43;0.03
+16425;Tottenham;Chelsea;Davinson Sanchez;6249;Sub;6;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Bryan Gil Salvatierra;7338;Sub;27;0;0;0;0;0.0;0.0
+16425;Tottenham;Chelsea;Oliver Skipp;7198;Sub;27;0;0;0;0;0.0;0.0
+16425;Chelsea;Tottenham;Kepa;5061;GK;90;0;0;0;0;0.0;0.0
+16425;Chelsea;Tottenham;Thiago Silva;3288;DC;90;2;1;1;0;0.08;0.06
+16425;Chelsea;Tottenham;Andreas Christensen;200;DC;90;1;0;2;0;0.06;0.03
+16425;Chelsea;Tottenham;Antonio Rudiger;1822;DC;90;2;1;1;0;0.07;0.12
+16425;Chelsea;Tottenham;Cesar Azpilicueta;681;DMR;90;0;0;2;0;0.0;0.52
+16425;Chelsea;Tottenham;Marcos Alonso;1621;DML;90;4;0;4;1;0.67;0.27
+16425;Chelsea;Tottenham;Mateo Kovacic;2254;MC;90;1;0;1;1;0.58;0.02
+16425;Chelsea;Tottenham;Jorginho;1389;MC;90;0;0;1;0;0.0;0.09
+16425;Chelsea;Tottenham;Kai Havertz;5220;AMC;71;3;0;0;0;0.2;0.0
+16425;Chelsea;Tottenham;Mason Mount;7768;AMC;47;2;0;0;0;0.16;0.0
+16425;Chelsea;Tottenham;Romelu Lukaku;594;FW;90;3;0;3;0;0.31;0.78
+16425;Chelsea;Tottenham;N'Golo Kante;751;Sub;43;1;1;1;0;0.02;0.45
+16425;Chelsea;Tottenham;Timo Werner;65;Sub;19;1;0;1;1;0.45;0.06
+16406;Crystal Palace;Tottenham;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16406;Crystal Palace;Tottenham;Joel Ward;510;DR;90;1;0;0;0;0.02;0.0
+16406;Crystal Palace;Tottenham;Joachim Andersen;6314;DC;90;0;0;0;0;0.0;0.0
+16406;Crystal Palace;Tottenham;Marc Guehi;7603;DC;90;0;0;0;0;0.0;0.0
+16406;Crystal Palace;Tottenham;Tyrick Mitchell;8214;DL;90;0;0;1;0;0.0;0.03
+16406;Crystal Palace;Tottenham;Cheikhou Kouyate;532;MC;68;1;0;0;0;0.06;0.0
+16406;Crystal Palace;Tottenham;Conor Gallagher;9040;MC;90;6;0;3;1;1.53;0.59
+16406;Crystal Palace;Tottenham;James McArthur;633;MC;90;1;0;0;0;0.03;0.0
+16406;Crystal Palace;Tottenham;Jordan Ayew;672;FWR;87;2;0;2;0;0.12;0.06
+16406;Crystal Palace;Tottenham;Christian Benteke;606;FW;85;1;0;1;0;0.05;0.13
+16406;Crystal Palace;Tottenham;Wilfried Zaha;522;FWL;90;4;1;3;1;0.87;0.79
+16406;Crystal Palace;Tottenham;Odsonne Edouard;3697;Sub;5;2;2;0;0;0.62;0.0
+16406;Crystal Palace;Tottenham;Luka Milivojevic;5549;Sub;22;0;0;0;0;0.0;0.0
+16406;Crystal Palace;Tottenham;Michael Olise;9948;Sub;3;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Hugo Lloris;637;GK;90;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Emerson;7430;DR;90;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Japhet Tanganga;8222;DC;59;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Eric Dier;643;DC;11;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Sergio Reguilon;7187;DL;90;0;0;1;0;0.0;0.03
+16406;Tottenham;Crystal Palace;Pierre-Emile Hojbjerg;343;MC;90;0;0;1;0;0.0;0.05
+16406;Tottenham;Crystal Palace;Oliver Skipp;7198;MC;90;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Harry Winks;971;MC;61;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Lucas Moura;3293;AMC;90;2;0;0;0;0.08;0.0
+16406;Tottenham;Crystal Palace;Dele Alli;645;AMC;90;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Harry Kane;647;FW;90;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Ben Davies;660;Sub;29;0;0;0;0;0.0;0.0
+16406;Tottenham;Crystal Palace;Joe Rodon;6377;Sub;79;0;0;0;0;0.0;0.0
+16407;Arsenal;Norwich;Aaron Ramsdale;5603;GK;90;0;0;0;0;0.0;0.0
+16407;Arsenal;Norwich;Takehiro Tomiyasu;7931;DR;63;2;0;0;0;0.06;0.0
+16407;Arsenal;Norwich;Gabriel;5613;DC;90;2;0;0;0;0.02;0.0
+16407;Arsenal;Norwich;Ben White;7298;DC;90;0;0;3;0;0.0;0.09
+16407;Arsenal;Norwich;Kieran Tierney;8089;DL;90;2;0;2;0;0.04;0.07
+16407;Arsenal;Norwich;Albert Sambi Lokonga;9689;DMC;63;2;0;0;0;0.04;0.0
+16407;Arsenal;Norwich;Ainsley Maitland-Niles;1750;DMC;83;1;0;2;0;0.02;0.13
+16407;Arsenal;Norwich;Nicolas Pepe;5656;AMR;90;6;0;6;1;0.92;0.94
+16407;Arsenal;Norwich;Martin Odegaard;2517;AMC;90;0;0;2;0;0.0;0.04
+16407;Arsenal;Norwich;Bukayo Saka;7322;AML;90;6;0;4;0;0.46;0.27
+16407;Arsenal;Norwich;Pierre-Emerick Aubameyang;318;FW;90;6;1;2;0;0.97;0.16
+16407;Arsenal;Norwich;Thomas Partey;2328;Sub;27;1;0;0;0;0.05;0.0
+16407;Arsenal;Norwich;Cedric Soares;847;Sub;7;1;0;1;0;0.02;0.1
+16407;Arsenal;Norwich;Emile Smith-Rowe;7230;Sub;27;1;0;2;0;0.11;0.16
+16407;Norwich;Arsenal;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16407;Norwich;Arsenal;Max Aarons;7688;DR;90;2;0;1;0;0.08;0.13
+16407;Norwich;Arsenal;Grant Hanley;7690;DC;90;0;0;1;0;0.0;0.07
+16407;Norwich;Arsenal;Andrew Omobamidele;9833;DC;90;0;0;0;0;0.0;0.0
+16407;Norwich;Arsenal;Brandon Williams;8075;DL;90;0;0;1;0;0.0;0.01
+16407;Norwich;Arsenal;Pierre Lees-Melou;5619;MC;90;0;0;1;0;0.0;0.01
+16407;Norwich;Arsenal;Lukas Rupp;62;MC;81;1;0;0;0;0.01;0.0
+16407;Norwich;Arsenal;Kenny McLean;7693;MC;90;3;0;0;0;0.16;0.0
+16407;Norwich;Arsenal;Kieran Dowell;1032;FWR;63;1;0;0;0;0.07;0.0
+16407;Norwich;Arsenal;Teemu Pukki;7696;FW;90;3;0;0;0;0.26;0.0
+16407;Norwich;Arsenal;Christos Tzolis;9746;FWL;70;0;0;2;0;0.0;0.11
+16407;Norwich;Arsenal;Adam Idah;8021;Sub;9;0;0;1;0;0.0;0.09
+16407;Norwich;Arsenal;Todd Cantwell;7695;Sub;27;0;0;0;0;0.0;0.0
+16407;Norwich;Arsenal;Milot Rashica;6523;Sub;20;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Ethan Pinnock;9678;DC;90;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Kristoffer Ajer;9677;DC;90;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Pontus Jansson;1801;DC;90;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Sergi Canos;1078;DMR;66;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Rico Henry;9679;DML;90;0;0;1;0;0.0;0.03
+16408;Brentford;Brighton;Christian Norgaard;7083;MC;90;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Vitaly Janelt;9680;MC;73;1;0;1;0;0.27;0.05
+16408;Brentford;Brighton;Shandon Baptiste;9914;MC;80;1;0;0;0;0.03;0.0
+16408;Brentford;Brighton;Bryan Mbeumo;6552;FW;90;3;0;2;0;0.42;0.02
+16408;Brentford;Brighton;Ivan Toney;998;FW;90;2;0;3;0;0.02;0.64
+16408;Brentford;Brighton;Mads Roerslev;9685;Sub;24;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Mathias Jensen;7166;Sub;17;0;0;0;0;0.0;0.0
+16408;Brentford;Brighton;Frank Onyeka;9681;Sub;10;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Robert Sanchez;9098;GK;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Shane Duffy;6047;DC;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Adam Webster;7699;DC;36;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Lewis Dunk;6048;DC;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Joel Veltman;8780;MR;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Yves Bissouma;5609;MC;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Adam Lallana;486;MC;90;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Marc Cucurella;7134;ML;87;0;0;1;0;0.0;0.03
+16408;Brighton;Brentford;Leandro Trossard;7698;AMC;90;1;1;2;0;0.09;0.17
+16408;Brighton;Brentford;Neal Maupay;3621;FW;90;1;0;0;0;0.05;0.0
+16408;Brighton;Brentford;Danny Welbeck;501;FW;69;1;0;0;0;0.12;0.0
+16408;Brighton;Brentford;Alexis Mac Allister;8379;Sub;21;1;0;1;1;0.03;0.09
+16408;Brighton;Brentford;Jakub Moder;9284;Sub;54;0;0;0;0;0.0;0.0
+16408;Brighton;Brentford;Solly March;6049;Sub;3;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Timothy Castagne;6157;DR;90;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Jannik Vestergaard;111;DC;63;1;0;0;0;0.04;0.0
+16409;Leicester;Manchester City;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Ryan Bertrand;835;DL;90;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Marc Albrighton;753;MR;90;0;0;2;0;0.0;0.13
+16409;Leicester;Manchester City;Youri Tielemans;5956;MC;90;0;0;0;0;0.0;0.0
+16409;Leicester;Manchester City;Wilfred Ndidi;5545;MC;90;1;0;0;0;0.09;0.0
+16409;Leicester;Manchester City;Harvey Barnes;6681;ML;75;1;0;0;0;0.04;0.0
+16409;Leicester;Manchester City;Jamie Vardy;755;FW;90;0;0;1;0;0.0;0.04
+16409;Leicester;Manchester City;James Maddison;6818;FW;76;0;0;1;0;0.0;0.09
+16409;Leicester;Manchester City;Kelechi Iheanacho;620;Sub;14;1;0;1;0;0.09;0.49
+16409;Leicester;Manchester City;Ademola Lookman;5556;Sub;15;2;0;0;0;0.54;0.0
+16409;Leicester;Manchester City;Jonny Evans;807;Sub;27;0;0;0;0;0.0;0.0
+16409;Manchester City;Leicester;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16409;Manchester City;Leicester;Kyle Walker;638;DR;90;2;0;0;0;0.07;0.0
+16409;Manchester City;Leicester;Ruben Dias;8961;DC;90;0;0;3;0;0.0;0.26
+16409;Manchester City;Leicester;Aymeric Laporte;2498;DC;90;1;0;1;0;0.09;0.02
+16409;Manchester City;Leicester;Joao Cancelo;2379;DL;90;2;0;1;0;0.04;0.06
+16409;Manchester City;Leicester;Ilkay Gundogan;314;MC;90;6;0;4;0;0.4;0.5
+16409;Manchester City;Leicester;Bernardo Silva;3635;MC;90;4;1;3;0;1.02;0.55
+16409;Manchester City;Leicester;Rodri;2496;MC;90;0;0;0;0;0.0;0.0
+16409;Manchester City;Leicester;Gabriel Jesus;5543;FWR;86;2;0;0;0;0.41;0.0
+16409;Manchester City;Leicester;Ferran Torres;6441;FW;66;4;0;0;0;0.43;0.0
+16409;Manchester City;Leicester;Jack Grealish;675;FWL;90;2;0;4;0;0.09;0.22
+16409;Manchester City;Leicester;Fernandinho;614;Sub;4;1;0;0;0;0.1;0.0
+16409;Manchester City;Leicester;Raheem Sterling;618;Sub;24;1;0;1;0;0.13;0.1
+16410;Manchester United;Newcastle United;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16410;Manchester United;Newcastle United;Aaron Wan-Bissaka;5584;DR;90;0;0;1;0;0.0;0.01
+16410;Manchester United;Newcastle United;Raphael Varane;2245;DC;90;2;0;0;0;0.29;0.0
+16410;Manchester United;Newcastle United;Harry Maguire;1687;DC;90;1;0;0;0;0.04;0.0
+16410;Manchester United;Newcastle United;Luke Shaw;1006;DL;90;0;0;4;1;0.0;0.63
+16410;Manchester United;Newcastle United;Paul Pogba;1740;DMC;90;0;0;3;2;0.0;0.42
+16410;Manchester United;Newcastle United;Nemanja Matic;697;DMC;90;2;0;2;0;0.03;0.12
+16410;Manchester United;Newcastle United;Mason Greenwood;7490;AMR;88;2;0;2;0;0.04;0.05
+16410;Manchester United;Newcastle United;Bruno Fernandes;1228;AMC;88;5;1;2;0;0.1;0.5
+16410;Manchester United;Newcastle United;Jadon Sancho;6345;AML;69;2;0;2;0;0.5;0.05
+16410;Manchester United;Newcastle United;Cristiano Ronaldo;2371;FW;90;6;2;1;0;1.42;0.02
+16410;Manchester United;Newcastle United;Anthony Martial;553;Sub;2;0;0;0;0;0.0;0.0
+16410;Manchester United;Newcastle United;Donny van de Beek;8821;Sub;2;0;0;0;0;0.0;0.0
+16410;Manchester United;Newcastle United;Jesse Lingard;558;Sub;21;1;1;0;0;0.37;0.0
+16410;Newcastle United;Manchester United;Freddie Woodman;852;GK;90;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Javier Manquillo;1719;DR;80;1;1;0;0;0.26;0.0
+16410;Newcastle United;Manchester United;Ciaran Clark;875;DC;87;0;0;1;0;0.0;0.02
+16410;Newcastle United;Manchester United;Jamaal Lascelles;766;DC;90;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Isaac Hayden;6062;DC;90;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Matt Ritchie;461;DL;90;2;0;2;0;0.03;0.08
+16410;Newcastle United;Manchester United;Miguel Almiron;7420;MC;90;1;0;1;0;0.01;0.01
+16410;Newcastle United;Manchester United;Joe Willock;6630;MC;89;2;0;0;0;0.08;0.0
+16410;Newcastle United;Manchester United;Sean Longstaff;7078;MC;90;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Joelinton;87;FW;90;3;0;0;0;0.19;0.0
+16410;Newcastle United;Manchester United;Allan Saint-Maximin;101;FW;90;3;0;3;1;0.04;0.34
+16410;Newcastle United;Manchester United;Jeff Hendrick;1746;Sub;1;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Jacob Murphy;6063;Sub;10;0;0;0;0;0.0;0.0
+16410;Newcastle United;Manchester United;Jamal Lewis;7691;Sub;3;0;0;0;0;0.0;0.0
+16411;Southampton;West Ham;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16411;Southampton;West Ham;Valentino Livramento;9512;DR;90;0;0;1;0;0.0;0.12
+16411;Southampton;West Ham;Mohammed Salisu;6923;DC;90;0;0;1;0;0.0;0.08
+16411;Southampton;West Ham;Jack Stephens;1735;DC;90;0;0;0;0;0.0;0.0
+16411;Southampton;West Ham;Romain Perraud;6500;DL;90;0;0;1;0;0.0;0.02
+16411;Southampton;West Ham;Mohamed Elyounoussi;6894;MR;90;2;0;1;0;0.05;0.08
+16411;Southampton;West Ham;Oriol Romeu;842;MC;54;0;0;0;0;0.0;0.0
+16411;Southampton;West Ham;James Ward-Prowse;843;MC;90;0;0;1;0;0.0;0.12
+16411;Southampton;West Ham;Moussa Djenepo;7701;ML;90;2;0;1;0;0.1;0.05
+16411;Southampton;West Ham;Adam Armstrong;4419;FW;75;2;0;1;0;0.05;0.12
+16411;Southampton;West Ham;Nathan Redmond;790;FW;90;2;0;1;0;0.17;0.03
+16411;Southampton;West Ham;Ibrahima Diallo;6736;Sub;36;1;0;0;0;0.12;0.0
+16411;Southampton;West Ham;Armando Broja;8384;Sub;15;2;0;0;0;0.2;0.0
+16411;West Ham;Southampton;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16411;West Ham;Southampton;Vladimir Coufal;8965;DR;90;0;0;0;0;0.0;0.0
+16411;West Ham;Southampton;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16411;West Ham;Southampton;Craig Dawson;804;DC;90;1;0;0;0;0.05;0.0
+16411;West Ham;Southampton;Aaron Cresswell;534;DL;90;2;0;2;0;0.1;0.02
+16411;West Ham;Southampton;Tomas Soucek;8288;DMC;90;2;0;0;0;0.13;0.0
+16411;West Ham;Southampton;Declan Rice;5553;DMC;90;1;0;1;0;0.06;0.02
+16411;West Ham;Southampton;Jarrod Bowen;1776;AMR;84;2;0;1;0;0.12;0.05
+16411;West Ham;Southampton;Said Benrahma;3585;AMC;64;2;0;2;0;0.06;0.17
+16411;West Ham;Southampton;Pablo Fornals;2335;AML;90;0;0;0;0;0.0;0.0
+16411;West Ham;Southampton;Michail Antonio;531;FW;90;2;0;0;0;0.19;0.0
+16411;West Ham;Southampton;Nikola Vlasic;6276;Sub;26;0;0;1;0;0.0;0.14
+16411;West Ham;Southampton;Andriy Yarmolenko;6274;Sub;6;1;0;0;0;0.02;0.0
+16412;Watford;Wolverhampton Wanderers;Daniel Bachmann;1025;GK;90;0;0;0;0;0.0;0.0
+16412;Watford;Wolverhampton Wanderers;Jeremy Ngakia;8235;DR;90;0;0;0;0;0.0;0.0
+16412;Watford;Wolverhampton Wanderers;Francisco Sierralta;7081;DC;90;0;0;0;0;0.0;0.0
+16412;Watford;Wolverhampton Wanderers;William Troost-Ekong;6996;DC;90;0;0;0;0;0.0;0.0
+16412;Watford;Wolverhampton Wanderers;Danny Rose;641;DL;90;0;0;1;0;0.0;0.01
+16412;Watford;Wolverhampton Wanderers;Oghenekaro Etebo;6538;DMC;78;2;0;0;0;0.03;0.0
+16412;Watford;Wolverhampton Wanderers;Ismaila Sarr;5675;MR;90;0;0;1;0;0.0;0.04
+16412;Watford;Wolverhampton Wanderers;Moussa Sissoko;772;MC;90;1;0;1;0;0.04;0.09
+16412;Watford;Wolverhampton Wanderers;Juraj Kucka;1123;MC;90;1;0;0;0;0.01;0.0
+16412;Watford;Wolverhampton Wanderers;Emmanuel Dennis;9301;ML;90;1;0;0;0;0.01;0.0
+16412;Watford;Wolverhampton Wanderers;Joshua King;465;FW;54;1;0;0;0;0.09;0.0
+16412;Watford;Wolverhampton Wanderers;Ken Sema;6841;Sub;12;0;0;0;0;0.0;0.0
+16412;Watford;Wolverhampton Wanderers;Juan Camilo Hernandez;6954;Sub;36;0;0;0;0;0.0;0.0
+16412;Wolverhampton Wanderers;Watford;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16412;Wolverhampton Wanderers;Watford;Romain Saiss;3491;DC;90;1;0;0;0;0.3;0.0
+16412;Wolverhampton Wanderers;Watford;Max Kilman;7332;DC;90;0;0;0;0;0.0;0.0
+16412;Wolverhampton Wanderers;Watford;Conor Coady;6851;DC;90;1;0;0;0;0.03;0.0
+16412;Wolverhampton Wanderers;Watford;Nelson Semedo;6163;DMR;90;3;0;0;0;0.83;0.0
+16412;Wolverhampton Wanderers;Watford;Fernando Marcal;5708;DML;90;2;0;0;0;0.39;0.0
+16412;Wolverhampton Wanderers;Watford;Joao Moutinho;3422;MC;90;1;0;4;0;0.05;0.62
+16412;Wolverhampton Wanderers;Watford;Ruben Neves;6853;MC;90;2;0;1;0;0.04;0.03
+16412;Wolverhampton Wanderers;Watford;Trincao;8934;FWR;64;2;0;1;0;0.09;0.48
+16412;Wolverhampton Wanderers;Watford;Raul Jimenez;4105;FW;90;1;0;2;0;0.25;0.32
+16412;Wolverhampton Wanderers;Watford;Adama Traore;900;FWL;82;0;0;2;0;0.0;0.08
+16412;Wolverhampton Wanderers;Watford;Daniel Podence;8291;Sub;8;0;0;1;0;0.0;0.37
+16412;Wolverhampton Wanderers;Watford;Hee-Chan Hwang;8845;Sub;26;1;1;0;0;0.94;0.0
+16413;Chelsea;Aston Villa;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16413;Chelsea;Aston Villa;Thiago Silva;3288;DC;90;0;0;1;0;0.0;0.08
+16413;Chelsea;Aston Villa;Antonio Rudiger;1822;DC;90;2;0;0;0;0.06;0.0
+16413;Chelsea;Aston Villa;Trevoh Chalobah;6615;DC;90;0;0;0;0;0.0;0.0
+16413;Chelsea;Aston Villa;Callum Hudson-Odoi;6456;DMR;84;1;0;1;0;0.05;0.02
+16413;Chelsea;Aston Villa;Marcos Alonso;1621;DML;90;2;0;0;0;0.08;0.0
+16413;Chelsea;Aston Villa;Mateo Kovacic;2254;MC;90;2;1;1;1;0.38;0.43
+16413;Chelsea;Aston Villa;Saul Niguez;2266;MC;48;0;0;0;0;0.0;0.0
+16413;Chelsea;Aston Villa;Kai Havertz;5220;AMC;66;1;0;1;0;0.08;0.05
+16413;Chelsea;Aston Villa;Hakim Ziyech;8992;AMC;90;2;0;2;0;0.04;0.07
+16413;Chelsea;Aston Villa;Romelu Lukaku;594;FW;90;2;2;0;0;0.53;0.0
+16413;Chelsea;Aston Villa;Timo Werner;65;Sub;6;0;0;0;0;0.0;0.0
+16413;Chelsea;Aston Villa;Jorginho;1389;Sub;42;0;0;1;0;0.0;0.02
+16413;Chelsea;Aston Villa;Cesar Azpilicueta;681;Sub;24;0;0;1;1;0.0;0.1
+16413;Aston Villa;Chelsea;Jed Steer;4475;GK;90;0;0;0;0;0.0;0.0
+16413;Aston Villa;Chelsea;Matthew Cash;8864;DR;90;0;0;0;0;0.0;0.0
+16413;Aston Villa;Chelsea;Axel Tuanzebe;934;DC;90;0;0;0;0;0.0;0.0
+16413;Aston Villa;Chelsea;Ezri Konsa Ngoyo;7726;DC;90;3;0;0;0;0.15;0.0
+16413;Aston Villa;Chelsea;Tyrone Mings;1024;DC;90;2;0;0;0;0.07;0.0
+16413;Aston Villa;Chelsea;Matt Targett;884;DL;90;0;0;1;0;0.0;0.01
+16413;Aston Villa;Chelsea;Douglas Luiz;6122;MC;82;2;0;0;0;0.03;0.0
+16413;Aston Villa;Chelsea;Jacob Ramsey;8941;MC;58;2;0;2;0;0.07;0.07
+16413;Aston Villa;Chelsea;John McGinn;7723;MC;90;1;0;4;0;0.02;0.69
+16413;Aston Villa;Chelsea;Danny Ings;986;FW;71;1;0;0;0;0.06;0.0
+16413;Aston Villa;Chelsea;Ollie Watkins;8865;FW;90;6;0;2;0;0.78;0.03
+16413;Aston Villa;Chelsea;Bertrand Traore;695;Sub;19;1;0;0;0;0.01;0.0
+16413;Aston Villa;Chelsea;Leon Bailey;5221;Sub;32;0;0;1;0;0.0;0.06
+16413;Aston Villa;Chelsea;Marvelous Nakamba;8040;Sub;8;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Luke Ayling;8716;DR;90;1;0;0;0;0.07;0.0
+16414;Leeds;Liverpool;Diego Llorente;2163;DC;33;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Liam Cooper;8816;DC;90;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Junior Firpo;6485;DL;90;1;0;0;0;0.08;0.0
+16414;Leeds;Liverpool;Kalvin Phillips;8719;DMC;90;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Raphinha;8026;MR;90;0;0;3;0;0.0;0.26
+16414;Leeds;Liverpool;Rodrigo;2381;MC;48;1;0;1;0;0.1;0.07
+16414;Leeds;Liverpool;Stuart Dallas;8718;MC;90;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Jack Harrison;8720;ML;70;0;0;3;0;0.0;0.19
+16414;Leeds;Liverpool;Patrick Bamford;822;FW;90;4;0;0;0;0.19;0.0
+16414;Leeds;Liverpool;Pascal Struijk;8717;Sub;29;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Daniel James;5595;Sub;20;0;0;0;0;0.0;0.0
+16414;Leeds;Liverpool;Tyler Roberts;1014;Sub;42;2;0;0;0;0.21;0.0
+16414;Liverpool;Leeds;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16414;Liverpool;Leeds;Trent Alexander-Arnold;1791;DR;90;3;0;5;1;0.17;0.95
+16414;Liverpool;Leeds;Joel Matip;332;DC;90;1;0;1;0;0.01;0.09
+16414;Liverpool;Leeds;Virgil van Dijk;833;DC;90;2;0;1;0;0.1;0.11
+16414;Liverpool;Leeds;Andrew Robertson;1688;DL;90;0;0;4;0;0.0;0.27
+16414;Liverpool;Leeds;Fabinho;3420;MC;90;3;1;0;0;0.27;0.0
+16414;Liverpool;Leeds;Thiago Alcantara;229;MC;90;1;0;2;1;0.05;0.65
+16414;Liverpool;Leeds;Harvey Elliott;7546;MC;65;3;0;1;0;0.22;0.06
+16414;Liverpool;Leeds;Mohamed Salah;1250;FWR;90;3;1;4;0;1.27;0.37
+16414;Liverpool;Leeds;Diogo Jota;6854;FW;84;3;0;6;0;0.3;1.15
+16414;Liverpool;Leeds;Sadio Mane;838;FWL;90;10;1;1;0;2.0;0.39
+16414;Liverpool;Leeds;Naby Keita;5247;Sub;1;0;0;0;0;0.0;0.0
+16414;Liverpool;Leeds;Alex Oxlade-Chamberlain;966;Sub;6;0;0;0;0;0.0;0.0
+16414;Liverpool;Leeds;Jordan Henderson;605;Sub;25;1;0;1;0;0.07;0.13
+16395;West Ham;Leicester;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16395;West Ham;Leicester;Vladimir Coufal;8965;DR;90;0;0;1;1;0.0;0.55
+16395;West Ham;Leicester;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16395;West Ham;Leicester;Craig Dawson;804;DC;90;4;0;1;0;0.18;0.05
+16395;West Ham;Leicester;Aaron Cresswell;534;DL;90;1;0;0;0;0.05;0.0
+16395;West Ham;Leicester;Tomas Soucek;8288;DMC;90;3;0;0;0;0.25;0.0
+16395;West Ham;Leicester;Declan Rice;5553;DMC;90;1;0;2;1;0.01;0.18
+16395;West Ham;Leicester;Jarrod Bowen;1776;AMR;90;0;0;5;0;0.0;0.33
+16395;West Ham;Leicester;Pablo Fornals;2335;AMC;90;1;1;3;0;0.12;0.43
+16395;West Ham;Leicester;Said Benrahma;3585;AML;90;2;1;2;1;0.42;0.18
+16395;West Ham;Leicester;Michail Antonio;531;FW;90;7;2;2;1;1.25;0.45
+16395;West Ham;Leicester;Andriy Yarmolenko;6274;Sub;1;0;0;0;0;0.0;0.0
+16395;West Ham;Leicester;Mark Noble;533;Sub;1;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Ricardo Pereira;3303;DR;90;1;0;0;0;0.07;0.0
+16395;Leicester;West Ham;Daniel Amartey;759;DC;90;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Luke Thomas;8562;DL;90;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Youri Tielemans;5956;DMC;90;2;1;0;0;0.49;0.0
+16395;Leicester;West Ham;Wilfred Ndidi;5545;DMC;90;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Ayoze Perez;770;AMR;39;1;0;1;0;0.08;0.07
+16395;Leicester;West Ham;James Maddison;6818;AMC;85;1;0;1;0;0.02;0.08
+16395;Leicester;West Ham;Harvey Barnes;6681;AML;68;0;0;1;0;0.0;0.02
+16395;Leicester;West Ham;Jamie Vardy;755;FW;85;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Boubakary Soumare;6310;Sub;5;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Kelechi Iheanacho;620;Sub;5;0;0;0;0;0.0;0.0
+16395;Leicester;West Ham;Patson Daka;9738;Sub;22;0;0;0;0;0.0;0.0
+16396;Manchester City;Arsenal;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16396;Manchester City;Arsenal;Kyle Walker;638;DR;49;0;0;0;0;0.0;0.0
+16396;Manchester City;Arsenal;Ruben Dias;8961;DC;90;0;0;2;0;0.0;0.15
+16396;Manchester City;Arsenal;Aymeric Laporte;2498;DC;90;5;0;0;0;0.32;0.0
+16396;Manchester City;Arsenal;Joao Cancelo;2379;DL;90;1;0;0;0;0.6;0.0
+16396;Manchester City;Arsenal;Ilkay Gundogan;314;MC;90;3;1;2;0;0.22;0.7
+16396;Manchester City;Arsenal;Bernardo Silva;3635;MC;61;1;0;0;0;0.11;0.0
+16396;Manchester City;Arsenal;Rodri;2496;MC;90;2;1;2;0;0.05;0.12
+16396;Manchester City;Arsenal;Gabriel Jesus;5543;FWR;64;1;1;4;1;0.68;0.32
+16396;Manchester City;Arsenal;Ferran Torres;6441;FW;90;4;2;1;1;1.25;0.02
+16396;Manchester City;Arsenal;Jack Grealish;675;FWL;90;1;0;6;1;0.1;1.09
+16396;Manchester City;Arsenal;Riyad Mahrez;750;Sub;26;2;0;3;1;0.19;1.3
+16396;Manchester City;Arsenal;Oleksandr Zinchenko;2958;Sub;41;1;0;0;0;0.02;0.0
+16396;Manchester City;Arsenal;Raheem Sterling;618;Sub;29;4;0;1;0;0.95;0.11
+16396;Arsenal;Manchester City;Bernd Leno;181;GK;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Cedric Soares;847;DR;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Sead Kolasinac;342;DC;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Calum Chambers;508;DC;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Rob Holding;1749;DC;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Kieran Tierney;8089;DL;90;0;0;1;0;0.0;0.12
+16396;Arsenal;Manchester City;Bukayo Saka;7322;MR;49;1;0;0;0;0.12;0.0
+16396;Arsenal;Manchester City;Martin Odegaard;2517;MC;74;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Granit Xhaka;204;MC;34;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Emile Smith-Rowe;7230;ML;90;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Pierre-Emerick Aubameyang;318;FW;62;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Mohamed Elneny;496;Sub;41;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Alexandre Lacazette;3277;Sub;28;0;0;0;0;0.0;0.0
+16396;Arsenal;Manchester City;Ainsley Maitland-Niles;1750;Sub;16;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Freddie Woodman;852;GK;90;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Federico Fernandez;708;DC;90;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Fabian Schar;76;DC;90;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Jamaal Lascelles;766;DC;90;1;0;0;0;0.02;0.0
+16397;Newcastle United;Southampton;Jacob Murphy;6063;DMR;90;2;0;1;1;0.1;0.51
+16397;Newcastle United;Southampton;Matt Ritchie;461;DML;90;0;0;2;0;0.0;0.04
+16397;Newcastle United;Southampton;Miguel Almiron;7420;MC;90;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Joe Willock;6630;MC;85;0;0;0;0;0.0;0.0
+16397;Newcastle United;Southampton;Sean Longstaff;7078;MC;90;1;0;2;0;0.01;0.07
+16397;Newcastle United;Southampton;Allan Saint-Maximin;101;FW;90;2;1;2;0;0.44;0.04
+16397;Newcastle United;Southampton;Callum Wilson;468;FW;70;3;1;0;0;0.57;0.0
+16397;Newcastle United;Southampton;Joelinton;87;Sub;20;0;0;1;0;0.0;0.09
+16397;Newcastle United;Southampton;Ryan Fraser;1683;Sub;5;1;0;0;0;0.09;0.0
+16397;Southampton;Newcastle United;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16397;Southampton;Newcastle United;Valentino Livramento;9512;DR;90;0;0;3;0;0.0;0.84
+16397;Southampton;Newcastle United;Mohammed Salisu;6923;DC;90;1;0;1;0;0.02;0.06
+16397;Southampton;Newcastle United;Jack Stephens;1735;DC;90;0;0;2;0;0.0;0.19
+16397;Southampton;Newcastle United;Kyle Walker-Peters;885;DL;90;2;0;2;0;0.04;0.09
+16397;Southampton;Newcastle United;Mohamed Elyounoussi;6894;MR;90;3;1;2;0;1.6;0.14
+16397;Southampton;Newcastle United;Oriol Romeu;842;MC;89;1;0;1;0;0.1;0.02
+16397;Southampton;Newcastle United;James Ward-Prowse;843;MC;90;5;1;3;0;0.89;0.06
+16397;Southampton;Newcastle United;Moussa Djenepo;7701;ML;59;3;0;1;0;0.98;0.01
+16397;Southampton;Newcastle United;Adam Armstrong;4419;FW;90;5;0;1;0;0.29;0.13
+16397;Southampton;Newcastle United;Che Adams;7700;FW;72;2;0;1;0;0.08;0.09
+16397;Southampton;Newcastle United;Nathan Redmond;790;Sub;31;0;0;1;0;0.0;0.53
+16397;Southampton;Newcastle United;Ibrahima Diallo;6736;Sub;1;0;0;0;0;0.0;0.0
+16397;Southampton;Newcastle United;Armando Broja;8384;Sub;18;0;0;0;0;0.0;0.0
+16398;Norwich;Leicester;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16398;Norwich;Leicester;Max Aarons;7688;DR;90;1;0;3;0;0.04;0.31
+16398;Norwich;Leicester;Ben Gibson;1707;DC;90;0;0;0;0;0.0;0.0
+16398;Norwich;Leicester;Grant Hanley;7690;DC;90;0;0;0;0;0.0;0.0
+16398;Norwich;Leicester;Brandon Williams;8075;DL;90;0;0;0;0;0.0;0.0
+16398;Norwich;Leicester;Pierre Lees-Melou;5619;MC;78;2;0;1;0;0.05;0.02
+16398;Norwich;Leicester;Kenny McLean;7693;MC;90;1;0;0;0;0.02;0.0
+16398;Norwich;Leicester;Billy Gilmour;7988;MC;84;1;0;0;0;0.05;0.0
+16398;Norwich;Leicester;Todd Cantwell;7695;FWR;90;3;0;0;0;0.06;0.0
+16398;Norwich;Leicester;Teemu Pukki;7696;FW;78;2;1;1;0;0.94;0.02
+16398;Norwich;Leicester;Milot Rashica;6523;FWL;90;1;0;1;0;0.06;0.03
+16398;Norwich;Leicester;Lukas Rupp;62;Sub;12;1;0;1;0;0.03;0.09
+16398;Norwich;Leicester;Adam Idah;8021;Sub;6;1;0;0;0;0.11;0.0
+16398;Norwich;Leicester;Joshua Sargent;7295;Sub;12;1;0;1;0;0.09;0.05
+16398;Leicester;Norwich;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16398;Leicester;Norwich;Ricardo Pereira;3303;DR;10;0;0;1;1;0.0;0.37
+16398;Leicester;Norwich;Daniel Amartey;759;DC;90;0;0;1;0;0.0;0.03
+16398;Leicester;Norwich;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16398;Leicester;Norwich;Luke Thomas;8562;DL;90;0;0;1;0;0.0;0.02
+16398;Leicester;Norwich;Marc Albrighton;753;MR;90;1;1;0;0;0.06;0.0
+16398;Leicester;Norwich;Youri Tielemans;5956;MC;90;1;0;1;0;0.03;0.08
+16398;Leicester;Norwich;Wilfred Ndidi;5545;MC;90;0;0;0;0;0.0;0.0
+16398;Leicester;Norwich;Harvey Barnes;6681;ML;72;2;0;0;0;0.1;0.0
+16398;Leicester;Norwich;Jamie Vardy;755;FW;90;2;1;1;1;0.79;0.06
+16398;Leicester;Norwich;James Maddison;6818;FW;90;2;0;0;0;0.21;0.0
+16398;Leicester;Norwich;Timothy Castagne;6157;Sub;80;0;0;0;0;0.0;0.0
+16398;Leicester;Norwich;Kelechi Iheanacho;620;Sub;18;1;0;0;0;0.08;0.0
+16398;Leicester;Norwich;Kiernan Dewsbury-Hall;9739;Sub;1;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Matthew Cash;8864;DR;90;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Axel Tuanzebe;934;DC;90;1;0;0;0;0.06;0.0
+16399;Aston Villa;Brentford;Ezri Konsa Ngoyo;7726;DC;90;1;0;0;0;0.09;0.0
+16399;Aston Villa;Brentford;Matt Targett;884;DL;90;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Douglas Luiz;6122;DMC;90;0;0;1;0;0.0;0.07
+16399;Aston Villa;Brentford;Emiliano Buendia;2203;MR;90;1;1;2;0;0.06;0.07
+16399;Aston Villa;Brentford;Ashley Young;631;MC;80;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Carney Chukwuemeka;9356;MC;64;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Anwar El Ghazi;5612;ML;90;1;0;2;0;0.01;0.11
+16399;Aston Villa;Brentford;Danny Ings;986;FW;90;1;0;1;1;0.13;0.06
+16399;Aston Villa;Brentford;Marvelous Nakamba;8040;Sub;26;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Kortney Hause;6859;Sub;1;0;0;0;0;0.0;0.0
+16399;Aston Villa;Brentford;Ollie Watkins;8865;Sub;10;2;0;0;0;0.09;0.0
+16399;Brentford;Aston Villa;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16399;Brentford;Aston Villa;Kristoffer Ajer;9677;DC;90;0;0;0;0;0.0;0.0
+16399;Brentford;Aston Villa;Pontus Jansson;1801;DC;90;0;0;1;1;0.0;0.44
+16399;Brentford;Aston Villa;Ethan Pinnock;9678;DC;90;1;0;0;0;0.02;0.0
+16399;Brentford;Aston Villa;Sergi Canos;1078;MR;90;2;0;0;0;0.1;0.0
+16399;Brentford;Aston Villa;Christian Norgaard;7083;MC;90;0;0;0;0;0.0;0.0
+16399;Brentford;Aston Villa;Vitaly Janelt;9680;MC;90;0;0;2;0;0.0;0.1
+16399;Brentford;Aston Villa;Rico Henry;9679;ML;90;1;0;1;0;0.08;0.1
+16399;Brentford;Aston Villa;Saman Ghoddos;7069;AMC;67;2;0;2;0;0.14;0.36
+16399;Brentford;Aston Villa;Bryan Mbeumo;6552;FW;81;1;0;0;0;0.32;0.0
+16399;Brentford;Aston Villa;Ivan Toney;998;FW;90;2;1;1;0;0.48;0.04
+16399;Brentford;Aston Villa;Mathias Jensen;7166;Sub;9;0;0;2;0;0.0;0.09
+16399;Brentford;Aston Villa;Yoane Wissa;5786;Sub;23;0;0;0;0;0.0;0.0
+16399;Brentford;Aston Villa;Shandon Baptiste;9914;Sub;1;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Robert Sanchez;9098;GK;90;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Shane Duffy;6047;DC;90;1;0;0;0;0.06;0.0
+16400;Brighton;Everton;Lewis Dunk;6048;DC;90;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Adam Webster;7699;DC;90;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Pascal Gross;239;DMR;90;1;0;3;0;0.14;0.19
+16400;Brighton;Everton;Jakub Moder;9284;DML;76;1;0;0;0;0.03;0.0
+16400;Brighton;Everton;Yves Bissouma;5609;MC;90;1;0;0;0;0.01;0.0
+16400;Brighton;Everton;Adam Lallana;486;MC;62;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Alexis Mac Allister;8379;AMC;49;1;0;0;0;0.05;0.0
+16400;Brighton;Everton;Leandro Trossard;7698;AMC;90;5;0;1;0;0.24;0.02
+16400;Brighton;Everton;Neal Maupay;3621;FW;90;2;0;3;0;0.11;0.09
+16400;Brighton;Everton;Joel Veltman;8780;Sub;41;1;0;2;0;0.04;0.15
+16400;Brighton;Everton;Danny Welbeck;501;Sub;28;0;0;0;0;0.0;0.0
+16400;Brighton;Everton;Taylor Richards;9735;Sub;14;1;0;1;0;0.02;0.01
+16400;Everton;Brighton;Jordan Pickford;741;GK;90;0;0;1;0;0.0;0.02
+16400;Everton;Brighton;Seamus Coleman;585;DR;90;0;0;0;0;0.0;0.0
+16400;Everton;Brighton;Michael Keane;1653;DC;90;0;0;0;0;0.0;0.0
+16400;Everton;Brighton;Mason Holgate;985;DC;90;0;0;0;0;0.0;0.0
+16400;Everton;Brighton;Lucas Digne;1823;DL;90;1;0;0;0;0.02;0.0
+16400;Everton;Brighton;Andros Townsend;775;MR;90;1;0;1;0;0.04;0.06
+16400;Everton;Brighton;Allan;1379;MC;90;0;0;3;1;0.0;0.17
+16400;Everton;Brighton;Abdoulaye Doucoure;1726;MC;90;2;0;1;0;0.18;0.1
+16400;Everton;Brighton;Demarai Gray;762;ML;84;3;1;2;0;0.19;0.16
+16400;Everton;Brighton;Richarlison;6026;AMC;90;2;0;1;0;0.14;0.07
+16400;Everton;Brighton;Dominic Calvert-Lewin;5555;FW;73;2;1;1;0;0.84;0.03
+16400;Everton;Brighton;Alex Iwobi;500;Sub;17;1;0;2;0;0.07;0.17
+16400;Everton;Brighton;Andre Gomes;2383;Sub;6;2;0;0;0;0.08;0.0
+16401;West Ham;Crystal Palace;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16401;West Ham;Crystal Palace;Vladimir Coufal;8965;DR;90;0;0;1;0;0.0;0.04
+16401;West Ham;Crystal Palace;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16401;West Ham;Crystal Palace;Craig Dawson;804;DC;90;1;0;0;0;0.13;0.0
+16401;West Ham;Crystal Palace;Aaron Cresswell;534;DL;90;0;0;1;0;0.0;0.09
+16401;West Ham;Crystal Palace;Tomas Soucek;8288;DMC;90;2;0;0;0;0.06;0.0
+16401;West Ham;Crystal Palace;Declan Rice;5553;DMC;90;0;0;2;0;0.0;0.09
+16401;West Ham;Crystal Palace;Jarrod Bowen;1776;AMR;81;1;0;2;0;0.02;0.23
+16401;West Ham;Crystal Palace;Pablo Fornals;2335;AMC;89;3;1;1;0;0.56;0.02
+16401;West Ham;Crystal Palace;Said Benrahma;3585;AML;90;1;0;1;0;0.09;0.08
+16401;West Ham;Crystal Palace;Michail Antonio;531;FW;90;5;1;4;1;0.56;0.57
+16401;West Ham;Crystal Palace;Manuel Lanzini;535;Sub;9;0;0;0;0;0.0;0.0
+16401;West Ham;Crystal Palace;Andriy Yarmolenko;6274;Sub;1;1;0;0;0;0.04;0.0
+16401;Crystal Palace;West Ham;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16401;Crystal Palace;West Ham;Joel Ward;510;DR;90;0;0;0;0;0.0;0.0
+16401;Crystal Palace;West Ham;Joachim Andersen;6314;DC;90;0;0;1;0;0.0;0.01
+16401;Crystal Palace;West Ham;Marc Guehi;7603;DC;90;2;0;0;0;0.81;0.0
+16401;Crystal Palace;West Ham;Tyrick Mitchell;8214;DL;90;0;0;1;0;0.0;0.03
+16401;Crystal Palace;West Ham;Cheikhou Kouyate;532;MC;90;0;0;0;0;0.0;0.0
+16401;Crystal Palace;West Ham;Conor Gallagher;9040;MC;90;2;2;1;0;0.74;0.77
+16401;Crystal Palace;West Ham;James McArthur;633;MC;90;1;0;0;0;0.01;0.0
+16401;Crystal Palace;West Ham;Wilfried Zaha;522;FWR;90;1;0;1;0;0.03;0.04
+16401;Crystal Palace;West Ham;Christian Benteke;606;FW;90;2;0;2;1;0.04;0.58
+16401;Crystal Palace;West Ham;Jordan Ayew;672;FWL;90;1;0;0;0;0.04;0.0
+16401;Crystal Palace;West Ham;Jeffrey Schlupp;757;Sub;1;0;0;0;0;0.0;0.0
+16402;Liverpool;Chelsea;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16402;Liverpool;Chelsea;Trent Alexander-Arnold;1791;DR;90;2;0;5;0;0.09;0.37
+16402;Liverpool;Chelsea;Joel Matip;332;DC;90;2;0;0;0;0.18;0.0
+16402;Liverpool;Chelsea;Virgil van Dijk;833;DC;90;3;0;0;0;0.05;0.0
+16402;Liverpool;Chelsea;Andrew Robertson;1688;DL;90;1;0;4;0;0.02;0.16
+16402;Liverpool;Chelsea;Fabinho;3420;MC;90;2;0;0;0;0.03;0.0
+16402;Liverpool;Chelsea;Harvey Elliott;7546;MC;90;2;0;1;0;0.09;0.05
+16402;Liverpool;Chelsea;Jordan Henderson;605;MC;80;2;0;0;0;0.31;0.0
+16402;Liverpool;Chelsea;Mohamed Salah;1250;FWR;90;3;1;3;0;0.92;0.11
+16402;Liverpool;Chelsea;Roberto Firmino;482;FW;42;0;0;0;0;0.0;0.0
+16402;Liverpool;Chelsea;Sadio Mane;838;FWL;90;3;0;0;0;0.22;0.0
+16402;Liverpool;Chelsea;Konstantinos Tsimikas;8852;Sub;1;0;0;1;0;0.0;0.1
+16402;Liverpool;Chelsea;Diogo Jota;6854;Sub;48;3;0;0;0;0.17;0.0
+16402;Liverpool;Chelsea;Thiago Alcantara;229;Sub;10;0;0;1;0;0.0;0.05
+16402;Chelsea;Liverpool;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Andreas Christensen;200;DC;90;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Antonio Rudiger;1822;DC;90;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Cesar Azpilicueta;681;DC;90;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Reece James;8067;DMR;47;0;0;1;1;0.0;0.02
+16402;Chelsea;Liverpool;Marcos Alonso;1621;DML;90;0;0;1;0;0.0;0.12
+16402;Chelsea;Liverpool;N'Golo Kante;751;MC;52;0;0;1;0;0.0;0.1
+16402;Chelsea;Liverpool;Jorginho;1389;MC;90;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Kai Havertz;5220;AMC;52;2;1;0;0;0.12;0.0
+16402;Chelsea;Liverpool;Mason Mount;7768;AMC;90;1;0;1;0;0.11;0.15
+16402;Chelsea;Liverpool;Romelu Lukaku;594;FW;90;2;0;2;0;0.27;0.18
+16402;Chelsea;Liverpool;Thiago Silva;3288;Sub;38;0;0;0;0;0.0;0.0
+16402;Chelsea;Liverpool;Mateo Kovacic;2254;Sub;38;1;0;0;0;0.07;0.0
+16402;Chelsea;Liverpool;Trevoh Chalobah;6615;Sub;1;0;0;0;0;0.0;0.0
+16403;Burnley;Leeds;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16403;Burnley;Leeds;Matthew Lowton;1652;DR;90;1;0;1;1;0.06;0.76
+16403;Burnley;Leeds;Ben Mee;1654;DC;90;1;0;1;0;0.05;0.01
+16403;Burnley;Leeds;James Tarkowski;1665;DC;90;1;0;0;0;0.02;0.0
+16403;Burnley;Leeds;Charlie Taylor;6044;DL;90;0;0;0;0;0.0;0.0
+16403;Burnley;Leeds;Johann Berg Gudmundsson;1663;MR;65;1;0;0;0;0.1;0.0
+16403;Burnley;Leeds;Ashley Westwood;669;MC;90;0;0;1;0;0.0;0.05
+16403;Burnley;Leeds;Josh Brownhill;8323;MC;90;2;0;0;0;0.07;0.0
+16403;Burnley;Leeds;Dwight McNeil;6756;ML;90;2;0;2;0;0.03;0.54
+16403;Burnley;Leeds;Chris Wood;4456;FW;90;3;1;3;0;1.34;0.08
+16403;Burnley;Leeds;Ashley Barnes;4422;FW;81;1;0;1;0;0.05;0.1
+16403;Burnley;Leeds;Matej Vydra;1017;Sub;9;0;0;0;0;0.0;0.0
+16403;Burnley;Leeds;Aaron Lennon;593;Sub;25;0;0;0;0;0.0;0.0
+16403;Leeds;Burnley;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16403;Leeds;Burnley;Pascal Struijk;8717;DC;90;0;0;0;0;0.0;0.0
+16403;Leeds;Burnley;Diego Llorente;2163;DC;67;0;0;0;0;0.0;0.0
+16403;Leeds;Burnley;Liam Cooper;8816;DC;90;1;0;0;0;0.03;0.0
+16403;Leeds;Burnley;Luke Ayling;8716;MC;90;0;0;0;0;0.0;0.0
+16403;Leeds;Burnley;Kalvin Phillips;8719;MC;90;1;0;1;0;0.09;0.03
+16403;Leeds;Burnley;Stuart Dallas;8718;MC;90;1;0;0;0;0.01;0.0
+16403;Leeds;Burnley;Raphinha;8026;AMR;90;3;0;2;0;0.33;0.13
+16403;Leeds;Burnley;Rodrigo;2381;AMC;75;0;0;2;0;0.0;0.34
+16403;Leeds;Burnley;Jack Harrison;8720;AML;90;1;0;4;0;0.03;0.13
+16403;Leeds;Burnley;Patrick Bamford;822;FW;90;3;1;0;0;0.98;0.0
+16403;Leeds;Burnley;Jamie Shackleton;8721;Sub;23;2;0;0;0;0.09;0.0
+16403;Leeds;Burnley;Tyler Roberts;1014;Sub;15;0;0;0;0;0.0;0.0
+16404;Tottenham;Watford;Hugo Lloris;637;GK;90;0;0;0;0;0.0;0.0
+16404;Tottenham;Watford;Japhet Tanganga;8222;DR;90;1;0;2;0;0.11;0.25
+16404;Tottenham;Watford;Davinson Sanchez;6249;DC;90;2;0;0;0;0.1;0.0
+16404;Tottenham;Watford;Eric Dier;643;DC;90;1;0;0;0;0.04;0.0
+16404;Tottenham;Watford;Sergio Reguilon;7187;DL;90;1;0;1;0;0.02;0.04
+16404;Tottenham;Watford;Pierre-Emile Hojbjerg;343;DMC;90;1;0;1;0;0.04;0.07
+16404;Tottenham;Watford;Oliver Skipp;7198;DMC;90;0;0;0;0;0.0;0.0
+16404;Tottenham;Watford;Son Heung-Min;453;AMR;89;3;1;2;0;0.09;0.1
+16404;Tottenham;Watford;Dele Alli;645;AMC;90;2;0;0;0;0.18;0.0
+16404;Tottenham;Watford;Steven Bergwijn;8300;AML;69;2;0;0;0;0.17;0.0
+16404;Tottenham;Watford;Harry Kane;647;FW;90;1;0;2;0;0.11;0.18
+16404;Tottenham;Watford;Lucas Moura;3293;Sub;21;1;0;0;0;0.07;0.0
+16404;Tottenham;Watford;Bryan Gil Salvatierra;7338;Sub;1;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Daniel Bachmann;1025;GK;90;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Craig Cathcart;581;DR;52;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Francisco Sierralta;7081;DC;90;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;William Troost-Ekong;6996;DC;90;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Adam Masina;1441;DL;90;0;0;1;0;0.0;0.08
+16404;Watford;Tottenham;Oghenekaro Etebo;6538;DMC;90;0;0;1;0;0.0;0.08
+16404;Watford;Tottenham;Ismaila Sarr;5675;MR;90;3;0;2;0;0.22;0.11
+16404;Watford;Tottenham;Moussa Sissoko;772;MC;72;1;0;2;0;0.02;0.2
+16404;Watford;Tottenham;Juraj Kucka;1123;MC;90;2;0;0;0;0.14;0.0
+16404;Watford;Tottenham;Emmanuel Dennis;9301;ML;90;2;0;0;0;0.13;0.0
+16404;Watford;Tottenham;Joshua King;465;FW;66;0;0;2;0;0.0;0.08
+16404;Watford;Tottenham;Jeremy Ngakia;8235;Sub;38;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Tom Cleverley;596;Sub;18;0;0;0;0;0.0;0.0
+16404;Watford;Tottenham;Juan Camilo Hernandez;6954;Sub;24;1;0;0;0;0.08;0.0
+16405;Wolverhampton Wanderers;Manchester United;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16405;Wolverhampton Wanderers;Manchester United;Romain Saiss;3491;DC;90;2;0;0;0;0.91;0.0
+16405;Wolverhampton Wanderers;Manchester United;Conor Coady;6851;DC;88;1;0;0;0;0.01;0.0
+16405;Wolverhampton Wanderers;Manchester United;Max Kilman;7332;DC;90;0;0;0;0;0.0;0.0
+16405;Wolverhampton Wanderers;Manchester United;Nelson Semedo;6163;DMR;90;0;0;1;0;0.0;0.02
+16405;Wolverhampton Wanderers;Manchester United;Fernando Marcal;5708;DML;90;0;0;0;0;0.0;0.0
+16405;Wolverhampton Wanderers;Manchester United;Ruben Neves;6853;MC;90;2;0;1;0;0.05;0.01
+16405;Wolverhampton Wanderers;Manchester United;Joao Moutinho;3422;MC;90;1;0;1;0;0.14;0.06
+16405;Wolverhampton Wanderers;Manchester United;Trincao;8934;FWR;71;2;0;0;0;0.41;0.0
+16405;Wolverhampton Wanderers;Manchester United;Raul Jimenez;4105;FW;90;4;0;3;0;0.26;0.19
+16405;Wolverhampton Wanderers;Manchester United;Adama Traore;900;FWL;88;2;0;4;0;0.05;0.37
+16405;Wolverhampton Wanderers;Manchester United;Daniel Podence;8291;Sub;19;0;0;0;0;0.0;0.0
+16405;Wolverhampton Wanderers;Manchester United;Morgan Gibbs-White;6857;Sub;2;1;0;0;0;0.02;0.0
+16405;Wolverhampton Wanderers;Manchester United;Fabio Silva;8778;Sub;2;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;Aaron Wan-Bissaka;5584;DR;90;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;Raphael Varane;2245;DC;90;0;0;1;1;0.0;0.06
+16405;Manchester United;Wolverhampton Wanderers;Harry Maguire;1687;DC;90;1;0;0;0;0.02;0.0
+16405;Manchester United;Wolverhampton Wanderers;Luke Shaw;1006;DL;90;0;0;1;0;0.0;0.02
+16405;Manchester United;Wolverhampton Wanderers;Fred;6817;DMC;90;1;0;0;0;0.02;0.0
+16405;Manchester United;Wolverhampton Wanderers;Paul Pogba;1740;DMC;90;1;0;1;0;0.05;0.02
+16405;Manchester United;Wolverhampton Wanderers;Daniel James;5595;AMR;54;1;0;1;0;0.04;0.51
+16405;Manchester United;Wolverhampton Wanderers;Bruno Fernandes;1228;AMC;90;3;0;1;0;0.16;0.11
+16405;Manchester United;Wolverhampton Wanderers;Jadon Sancho;6345;AML;73;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;Mason Greenwood;7490;FW;90;3;1;2;0;0.68;0.14
+16405;Manchester United;Wolverhampton Wanderers;Anthony Martial;553;Sub;17;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;Diogo Dalot;7281;Sub;1;0;0;0;0;0.0;0.0
+16405;Manchester United;Wolverhampton Wanderers;Edinson Cavani;3294;Sub;36;0;0;0;0;0.0;0.0
+16386;Liverpool;Burnley;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16386;Liverpool;Burnley;Trent Alexander-Arnold;1791;DR;90;1;0;7;1;0.05;1.06
+16386;Liverpool;Burnley;Joel Matip;332;DC;90;3;0;0;0;0.19;0.0
+16386;Liverpool;Burnley;Virgil van Dijk;833;DC;90;3;0;1;0;0.18;0.13
+16386;Liverpool;Burnley;Konstantinos Tsimikas;8852;DL;90;0;0;4;1;0.0;0.4
+16386;Liverpool;Burnley;Naby Keita;5247;MC;83;1;0;0;0;0.02;0.0
+16386;Liverpool;Burnley;Jordan Henderson;605;MC;90;1;0;1;0;0.01;0.05
+16386;Liverpool;Burnley;Harvey Elliott;7546;MC;90;2;0;3;0;0.17;0.25
+16386;Liverpool;Burnley;Mohamed Salah;1250;FWR;90;5;0;2;0;0.35;0.11
+16386;Liverpool;Burnley;Diogo Jota;6854;FW;83;3;1;2;0;0.41;0.24
+16386;Liverpool;Burnley;Sadio Mane;838;FWL;90;6;1;2;0;1.15;0.19
+16386;Liverpool;Burnley;Roberto Firmino;482;Sub;7;1;0;1;0;0.09;0.03
+16386;Liverpool;Burnley;Thiago Alcantara;229;Sub;7;1;0;0;0;0.03;0.0
+16386;Liverpool;Burnley;Joseph Gomez;987;Sub;1;0;0;0;0;0.0;0.0
+16386;Burnley;Liverpool;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16386;Burnley;Liverpool;Matthew Lowton;1652;DR;90;0;0;1;0;0.0;0.02
+16386;Burnley;Liverpool;Ben Mee;1654;DC;90;1;0;0;0;0.07;0.0
+16386;Burnley;Liverpool;James Tarkowski;1665;DC;90;2;0;0;0;0.05;0.0
+16386;Burnley;Liverpool;Charlie Taylor;6044;DL;90;0;0;0;0;0.0;0.0
+16386;Burnley;Liverpool;Johann Berg Gudmundsson;1663;MR;81;0;0;1;0;0.0;0.03
+16386;Burnley;Liverpool;Josh Brownhill;8323;MC;90;0;0;1;0;0.0;0.07
+16386;Burnley;Liverpool;Jack Cork;712;MC;90;1;0;0;0;0.02;0.0
+16386;Burnley;Liverpool;Dwight McNeil;6756;ML;90;2;0;1;0;0.06;0.07
+16386;Burnley;Liverpool;Chris Wood;4456;FW;77;1;0;0;0;0.07;0.0
+16386;Burnley;Liverpool;Ashley Barnes;4422;FW;90;1;0;3;0;0.32;0.16
+16386;Burnley;Liverpool;Erik Pieters;887;Sub;9;0;0;0;0;0.0;0.0
+16386;Burnley;Liverpool;Jay Rodriguez;844;Sub;13;1;0;1;0;0.09;0.32
+16387;Manchester City;Norwich;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16387;Manchester City;Norwich;Kyle Walker;638;DR;90;1;0;0;0;0.02;0.0
+16387;Manchester City;Norwich;Ruben Dias;8961;DC;90;0;0;2;1;0.0;0.55
+16387;Manchester City;Norwich;Aymeric Laporte;2498;DC;90;2;1;0;0;0.16;0.0
+16387;Manchester City;Norwich;Joao Cancelo;2379;DL;90;1;0;0;0;0.03;0.0
+16387;Manchester City;Norwich;Ilkay Gundogan;314;MC;70;0;0;2;0;0.0;0.1
+16387;Manchester City;Norwich;Bernardo Silva;3635;MC;90;1;0;0;0;0.04;0.0
+16387;Manchester City;Norwich;Rodri;2496;MC;90;2;0;2;0;0.04;0.1
+16387;Manchester City;Norwich;Gabriel Jesus;5543;FWR;90;1;0;3;2;0.08;1.32
+16387;Manchester City;Norwich;Ferran Torres;6441;FW;62;3;0;0;0;0.17;0.0
+16387;Manchester City;Norwich;Jack Grealish;675;FWL;76;1;1;1;0;0.6;0.04
+16387;Manchester City;Norwich;Riyad Mahrez;750;Sub;14;2;1;1;0;0.57;0.03
+16387;Manchester City;Norwich;Raheem Sterling;618;Sub;28;2;1;0;0;0.74;0.0
+16387;Manchester City;Norwich;Cole Palmer;8497;Sub;20;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Max Aarons;7688;DR;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Ben Gibson;1707;DC;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Grant Hanley;7690;DC;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Dimitris Giannoulis;9745;DL;47;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Pierre Lees-Melou;5619;MC;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Lukas Rupp;62;MC;47;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Billy Gilmour;7988;MC;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Todd Cantwell;7695;FWR;90;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Teemu Pukki;7696;FW;78;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Milot Rashica;6523;FWL;90;1;0;0;0;0.03;0.0
+16387;Norwich;Manchester City;Joshua Sargent;7295;Sub;12;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Bali Mumba;9747;Sub;43;0;0;0;0;0.0;0.0
+16387;Norwich;Manchester City;Kenny McLean;7693;Sub;43;0;0;0;0;0.0;0.0
+16388;Aston Villa;Newcastle United;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16388;Aston Villa;Newcastle United;Matthew Cash;8864;DR;90;1;0;0;0;0.06;0.0
+16388;Aston Villa;Newcastle United;Tyrone Mings;1024;DC;90;1;0;1;1;0.13;0.09
+16388;Aston Villa;Newcastle United;Ezri Konsa Ngoyo;7726;DC;90;0;0;1;0;0.0;0.13
+16388;Aston Villa;Newcastle United;Ashley Young;631;DL;90;0;0;0;0;0.0;0.0
+16388;Aston Villa;Newcastle United;Douglas Luiz;6122;MC;90;1;0;0;0;0.02;0.0
+16388;Aston Villa;Newcastle United;Jacob Ramsey;8941;MC;90;1;0;0;0;0.02;0.0
+16388;Aston Villa;Newcastle United;John McGinn;7723;MC;90;1;0;3;0;0.02;0.08
+16388;Aston Villa;Newcastle United;Emiliano Buendia;2203;FWR;90;0;0;3;0;0.0;0.06
+16388;Aston Villa;Newcastle United;Danny Ings;986;FW;90;2;1;0;0;0.12;0.0
+16388;Aston Villa;Newcastle United;Anwar El Ghazi;5612;FWL;90;3;1;0;0;0.81;0.0
+16388;Aston Villa;Newcastle United;Wesley;7724;Sub;1;0;0;0;0;0.0;0.0
+16388;Aston Villa;Newcastle United;Jaden Philogene-Bidace;9415;Sub;1;0;0;0;0;0.0;0.0
+16388;Aston Villa;Newcastle United;Axel Tuanzebe;934;Sub;1;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Freddie Woodman;852;GK;90;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Jacob Murphy;6063;DR;90;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Federico Fernandez;708;DC;82;1;0;1;0;0.05;0.28
+16388;Newcastle United;Aston Villa;Fabian Schar;76;DC;90;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Jamaal Lascelles;766;DC;90;1;0;0;0;0.02;0.0
+16388;Newcastle United;Aston Villa;Matt Ritchie;461;DL;90;1;0;5;0;0.03;0.21
+16388;Newcastle United;Aston Villa;Miguel Almiron;7420;MC;90;0;0;1;0;0.0;0.09
+16388;Newcastle United;Aston Villa;Joe Willock;6630;MC;90;0;0;1;0;0.0;0.01
+16388;Newcastle United;Aston Villa;Isaac Hayden;6062;MC;50;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Allan Saint-Maximin;101;FW;90;1;0;0;0;0.01;0.0
+16388;Newcastle United;Aston Villa;Callum Wilson;468;FW;90;3;0;1;0;0.37;0.03
+16388;Newcastle United;Aston Villa;Joelinton;87;Sub;8;1;0;0;0;0.05;0.0
+16388;Newcastle United;Aston Villa;Sean Longstaff;7078;Sub;40;0;0;0;0;0.0;0.0
+16388;Newcastle United;Aston Villa;Ryan Fraser;1683;Sub;1;1;0;0;0;0.09;0.0
+16389;Crystal Palace;Brentford;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16389;Crystal Palace;Brentford;Joel Ward;510;DR;90;1;0;1;0;0.01;0.11
+16389;Crystal Palace;Brentford;Joachim Andersen;6314;DC;90;1;0;0;0;0.06;0.0
+16389;Crystal Palace;Brentford;Marc Guehi;7603;DC;90;0;0;0;0;0.0;0.0
+16389;Crystal Palace;Brentford;Tyrick Mitchell;8214;DL;90;0;0;0;0;0.0;0.0
+16389;Crystal Palace;Brentford;Cheikhou Kouyate;532;MC;90;0;0;0;0;0.0;0.0
+16389;Crystal Palace;Brentford;Conor Gallagher;9040;MC;90;2;0;1;0;0.32;0.06
+16389;Crystal Palace;Brentford;James McArthur;633;MC;90;1;0;0;0;0.04;0.0
+16389;Crystal Palace;Brentford;Wilfried Zaha;522;FWR;90;0;0;2;0;0.0;0.32
+16389;Crystal Palace;Brentford;Christian Benteke;606;FW;90;1;0;1;0;0.11;0.05
+16389;Crystal Palace;Brentford;Jeffrey Schlupp;757;FWL;71;0;0;1;0;0.0;0.04
+16389;Crystal Palace;Brentford;Jordan Ayew;672;Sub;19;1;0;0;0;0.05;0.0
+16389;Brentford;Crystal Palace;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16389;Brentford;Crystal Palace;Kristoffer Ajer;9677;DC;90;1;0;0;0;0.1;0.0
+16389;Brentford;Crystal Palace;Pontus Jansson;1801;DC;90;0;0;1;0;0.0;0.02
+16389;Brentford;Crystal Palace;Ethan Pinnock;9678;DC;90;1;0;0;0;0.01;0.0
+16389;Brentford;Crystal Palace;Sergi Canos;1078;DMR;90;0;0;2;0;0.0;0.11
+16389;Brentford;Crystal Palace;Rico Henry;9679;DML;90;0;0;2;0;0.0;0.17
+16389;Brentford;Crystal Palace;Christian Norgaard;7083;MC;90;0;0;0;0;0.0;0.0
+16389;Brentford;Crystal Palace;Vitaly Janelt;9680;MC;90;2;0;2;0;0.05;0.04
+16389;Brentford;Crystal Palace;Frank Onyeka;9681;MC;73;2;0;1;0;0.07;0.03
+16389;Brentford;Crystal Palace;Bryan Mbeumo;6552;FW;80;3;0;3;0;0.16;0.24
+16389;Brentford;Crystal Palace;Ivan Toney;998;FW;90;5;0;0;0;0.33;0.0
+16389;Brentford;Crystal Palace;Mads Bidstrup;9682;Sub;1;0;0;0;0;0.0;0.0
+16389;Brentford;Crystal Palace;Yoane Wissa;5786;Sub;10;0;0;0;0;0.0;0.0
+16389;Brentford;Crystal Palace;Saman Ghoddos;7069;Sub;17;0;0;0;0;0.0;0.0
+16390;Leeds;Everton;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16390;Leeds;Everton;Pascal Struijk;8717;DC;90;1;0;1;0;0.01;0.02
+16390;Leeds;Everton;Luke Ayling;8716;DC;90;1;0;1;0;0.02;0.01
+16390;Leeds;Everton;Liam Cooper;8816;DC;90;1;0;1;1;0.03;0.04
+16390;Leeds;Everton;Junior Firpo;6485;MC;66;0;0;0;0;0.0;0.0
+16390;Leeds;Everton;Kalvin Phillips;8719;MC;90;1;0;2;0;0.02;0.09
+16390;Leeds;Everton;Stuart Dallas;8718;MC;90;0;0;2;0;0.0;0.07
+16390;Leeds;Everton;Raphinha;8026;AMR;90;6;1;1;0;0.18;0.03
+16390;Leeds;Everton;Mateusz Klich;4381;AMC;66;3;1;3;0;0.39;0.07
+16390;Leeds;Everton;Jack Harrison;8720;AML;90;1;0;1;0;0.02;0.16
+16390;Leeds;Everton;Patrick Bamford;822;FW;90;3;0;1;1;0.3;0.36
+16390;Leeds;Everton;Jamie Shackleton;8721;Sub;24;0;0;0;0;0.0;0.0
+16390;Leeds;Everton;Tyler Roberts;1014;Sub;24;0;0;0;0;0.0;0.0
+16390;Everton;Leeds;Jordan Pickford;741;GK;90;0;0;0;0;0.0;0.0
+16390;Everton;Leeds;Seamus Coleman;585;DR;90;1;0;1;0;0.02;0.11
+16390;Everton;Leeds;Yerry Mina;6521;DC;90;0;0;0;0;0.0;0.0
+16390;Everton;Leeds;Michael Keane;1653;DC;90;1;0;0;0;0.02;0.0
+16390;Everton;Leeds;Lucas Digne;1823;DL;90;0;0;3;0;0.0;0.1
+16390;Everton;Leeds;Alex Iwobi;500;MR;81;1;0;2;0;0.09;0.44
+16390;Everton;Leeds;Allan;1379;MC;90;0;0;2;0;0.0;0.06
+16390;Everton;Leeds;Abdoulaye Doucoure;1726;MC;90;3;0;1;1;0.05;0.09
+16390;Everton;Leeds;Demarai Gray;762;ML;89;1;1;1;0;0.09;0.12
+16390;Everton;Leeds;Richarlison;6026;AMC;90;5;0;3;0;0.25;0.05
+16390;Everton;Leeds;Dominic Calvert-Lewin;5555;FW;90;4;1;2;0;1.32;0.11
+16390;Everton;Leeds;Moise Kean;1304;Sub;1;0;0;0;0;0.0;0.0
+16390;Everton;Leeds;Andros Townsend;775;Sub;9;1;0;0;0;0.02;0.0
+16390;Everton;Leeds;Fabian Delph;876;Sub;1;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Robert Sanchez;9098;GK;90;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Shane Duffy;6047;DC;90;3;1;0;0;0.13;0.0
+16391;Brighton;Watford;Lewis Dunk;6048;DC;90;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Adam Webster;7699;DC;90;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Pascal Gross;239;DMR;90;0;0;4;1;0.0;0.16
+16391;Brighton;Watford;Solly March;6049;DML;90;1;0;1;0;0.05;0.02
+16391;Brighton;Watford;Yves Bissouma;5609;MC;90;1;0;1;1;0.04;0.33
+16391;Brighton;Watford;Adam Lallana;486;MC;82;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Alexis Mac Allister;8379;AMC;90;3;0;3;0;0.6;0.11
+16391;Brighton;Watford;Leandro Trossard;7698;AMC;74;2;0;0;0;0.06;0.0
+16391;Brighton;Watford;Neal Maupay;3621;FW;48;1;1;1;0;0.33;0.04
+16391;Brighton;Watford;Aaron Connolly;7991;Sub;42;1;0;0;0;0.56;0.0
+16391;Brighton;Watford;Jakub Moder;9284;Sub;8;0;0;0;0;0.0;0.0
+16391;Brighton;Watford;Enock Mwepu;9734;Sub;16;1;0;0;0;0.03;0.0
+16391;Watford;Brighton;Daniel Bachmann;1025;GK;90;0;0;0;0;0.0;0.0
+16391;Watford;Brighton;Craig Cathcart;581;DR;67;0;0;0;0;0.0;0.0
+16391;Watford;Brighton;Christian Kabasele;1725;DC;90;0;0;0;0;0.0;0.0
+16391;Watford;Brighton;William Troost-Ekong;6996;DC;90;0;0;0;0;0.0;0.0
+16391;Watford;Brighton;Adam Masina;1441;DL;90;0;0;1;0;0.0;0.02
+16391;Watford;Brighton;Oghenekaro Etebo;6538;DMC;90;1;0;0;0;0.01;0.0
+16391;Watford;Brighton;Ismaila Sarr;5675;MR;90;2;0;2;0;0.04;0.14
+16391;Watford;Brighton;Imran Louza;7278;MC;48;0;0;1;0;0.0;0.02
+16391;Watford;Brighton;Tom Cleverley;596;MC;90;2;0;0;0;0.16;0.0
+16391;Watford;Brighton;Ken Sema;6841;ML;80;1;0;1;0;0.04;0.05
+16391;Watford;Brighton;Emmanuel Dennis;9301;FW;90;1;0;1;0;0.03;0.04
+16391;Watford;Brighton;Joshua King;465;Sub;23;0;0;3;0;0.0;0.1
+16391;Watford;Brighton;Troy Deeney;574;Sub;10;2;0;1;0;0.11;0.03
+16391;Watford;Brighton;Juan Camilo Hernandez;6954;Sub;42;1;0;0;0;0.01;0.0
+16392;Southampton;Manchester United;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Valentino Livramento;9512;DR;90;1;0;0;0;0.02;0.0
+16392;Southampton;Manchester United;Mohammed Salisu;6923;DC;90;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Jack Stephens;1735;DC;90;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Romain Perraud;6500;DL;81;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Theo Walcott;503;MR;48;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Oriol Romeu;842;MC;90;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;James Ward-Prowse;843;MC;90;2;0;1;0;0.07;0.05
+16392;Southampton;Manchester United;Moussa Djenepo;7701;ML;72;1;0;1;0;0.04;0.03
+16392;Southampton;Manchester United;Adam Armstrong;4419;FW;90;2;0;1;0;0.34;0.07
+16392;Southampton;Manchester United;Che Adams;7700;FW;90;2;0;2;0;0.12;0.33
+16392;Southampton;Manchester United;Jan Bednarek;6042;Sub;42;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Kyle Walker-Peters;885;Sub;9;0;0;0;0;0.0;0.0
+16392;Southampton;Manchester United;Ibrahima Diallo;6736;Sub;18;0;0;0;0;0.0;0.0
+16392;Manchester United;Southampton;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16392;Manchester United;Southampton;Aaron Wan-Bissaka;5584;DR;90;0;0;2;0;0.0;0.12
+16392;Manchester United;Southampton;Victor Lindelof;6080;DC;90;0;0;0;0;0.0;0.0
+16392;Manchester United;Southampton;Harry Maguire;1687;DC;90;1;0;0;0;0.55;0.0
+16392;Manchester United;Southampton;Luke Shaw;1006;DL;90;0;0;2;0;0.0;0.46
+16392;Manchester United;Southampton;Fred;6817;DMC;78;0;0;2;0;0.0;0.07
+16392;Manchester United;Southampton;Nemanja Matic;697;DMC;88;1;0;0;0;0.09;0.0
+16392;Manchester United;Southampton;Mason Greenwood;7490;AMR;90;5;1;1;0;0.23;0.08
+16392;Manchester United;Southampton;Bruno Fernandes;1228;AMC;90;2;0;2;0;0.09;0.59
+16392;Manchester United;Southampton;Paul Pogba;1740;AML;90;4;0;1;1;0.64;0.1
+16392;Manchester United;Southampton;Anthony Martial;553;FW;61;1;0;0;0;0.65;0.0
+16392;Manchester United;Southampton;Jesse Lingard;558;Sub;2;0;0;0;0;0.0;0.0
+16392;Manchester United;Southampton;Jadon Sancho;6345;Sub;29;0;0;1;0;0.0;0.02
+16392;Manchester United;Southampton;Scott McTominay;5560;Sub;12;1;0;0;0;0.02;0.0
+16393;Wolverhampton Wanderers;Tottenham;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16393;Wolverhampton Wanderers;Tottenham;Romain Saiss;3491;DC;89;1;0;1;0;0.01;0.06
+16393;Wolverhampton Wanderers;Tottenham;Conor Coady;6851;DC;90;0;0;0;0;0.0;0.0
+16393;Wolverhampton Wanderers;Tottenham;Max Kilman;7332;DC;90;0;0;1;0;0.0;0.01
+16393;Wolverhampton Wanderers;Tottenham;Nelson Semedo;6163;DMR;90;2;0;2;0;0.04;0.19
+16393;Wolverhampton Wanderers;Tottenham;Fernando Marcal;5708;DML;90;1;0;1;0;0.02;0.03
+16393;Wolverhampton Wanderers;Tottenham;Ruben Neves;6853;MC;90;4;0;5;0;0.1;0.68
+16393;Wolverhampton Wanderers;Tottenham;Joao Moutinho;3422;MC;77;1;0;3;0;0.05;0.07
+16393;Wolverhampton Wanderers;Tottenham;Trincao;8934;FWR;89;4;0;2;0;0.15;0.12
+16393;Wolverhampton Wanderers;Tottenham;Raul Jimenez;4105;FW;90;5;0;4;0;0.35;0.14
+16393;Wolverhampton Wanderers;Tottenham;Adama Traore;900;FWL;90;4;0;4;0;0.7;0.16
+16393;Wolverhampton Wanderers;Tottenham;Leander Dendoncker;7236;Sub;13;1;0;0;0;0.06;0.0
+16393;Wolverhampton Wanderers;Tottenham;Rayan Ait Nouri;6674;Sub;1;1;0;0;0;0.02;0.0
+16393;Wolverhampton Wanderers;Tottenham;Fabio Silva;8778;Sub;1;1;0;0;0;0.01;0.0
+16393;Tottenham;Wolverhampton Wanderers;Hugo Lloris;637;GK;90;0;0;1;0;0.0;0.03
+16393;Tottenham;Wolverhampton Wanderers;Japhet Tanganga;8222;DR;90;0;0;0;0;0.0;0.0
+16393;Tottenham;Wolverhampton Wanderers;Davinson Sanchez;6249;DC;90;0;0;0;0;0.0;0.0
+16393;Tottenham;Wolverhampton Wanderers;Eric Dier;643;DC;90;1;0;0;0;0.07;0.0
+16393;Tottenham;Wolverhampton Wanderers;Sergio Reguilon;7187;DL;90;0;0;0;0;0.0;0.0
+16393;Tottenham;Wolverhampton Wanderers;Pierre-Emile Hojbjerg;343;MC;90;1;0;0;0;0.16;0.0
+16393;Tottenham;Wolverhampton Wanderers;Oliver Skipp;7198;MC;90;0;0;0;0;0.0;0.0
+16393;Tottenham;Wolverhampton Wanderers;Dele Alli;645;MC;90;1;1;0;0;0.76;0.0
+16393;Tottenham;Wolverhampton Wanderers;Lucas Moura;3293;FWR;72;0;0;0;0;0.0;0.0
+16393;Tottenham;Wolverhampton Wanderers;Son Heung-Min;453;FW;77;2;0;0;0;0.18;0.0
+16393;Tottenham;Wolverhampton Wanderers;Steven Bergwijn;8300;FWL;90;2;0;2;0;0.11;0.54
+16393;Tottenham;Wolverhampton Wanderers;Giovani Lo Celso;5681;Sub;18;0;0;1;0;0.0;0.07
+16393;Tottenham;Wolverhampton Wanderers;Harry Kane;647;Sub;13;1;0;1;0;0.45;0.16
+16393;Tottenham;Wolverhampton Wanderers;Harry Winks;971;Sub;1;0;0;0;0;0.0;0.0
+16394;Arsenal;Chelsea;Bernd Leno;181;GK;90;0;0;0;0;0.0;0.0
+16394;Arsenal;Chelsea;Cedric Soares;847;DR;90;0;0;1;0;0.0;0.09
+16394;Arsenal;Chelsea;Pablo Mari;8380;DC;90;0;0;1;0;0.0;0.43
+16394;Arsenal;Chelsea;Rob Holding;1749;DC;90;1;0;0;0;0.43;0.0
+16394;Arsenal;Chelsea;Kieran Tierney;8089;DL;68;0;0;0;0;0.0;0.0
+16394;Arsenal;Chelsea;Albert Sambi Lokonga;9689;DMC;90;1;0;0;0;0.02;0.0
+16394;Arsenal;Chelsea;Granit Xhaka;204;DMC;90;0;0;2;0;0.0;0.04
+16394;Arsenal;Chelsea;Nicolas Pepe;5656;AMR;90;0;0;0;0;0.0;0.0
+16394;Arsenal;Chelsea;Emile Smith-Rowe;7230;AMC;90;2;0;0;0;0.12;0.0
+16394;Arsenal;Chelsea;Bukayo Saka;7322;AML;63;1;0;1;0;0.02;0.03
+16394;Arsenal;Chelsea;Gabriel Martinelli;7752;FW;81;0;0;1;0;0.0;0.04
+16394;Arsenal;Chelsea;Pierre-Emerick Aubameyang;318;Sub;27;1;0;0;0;0.04;0.0
+16394;Arsenal;Chelsea;Nuno Tavares;9691;Sub;22;0;0;0;0;0.0;0.0
+16394;Arsenal;Chelsea;Folarin Balogun;9690;Sub;9;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Andreas Christensen;200;DC;90;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Antonio Rudiger;1822;DC;90;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Cesar Azpilicueta;681;DC;90;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Reece James;8067;DMR;90;4;1;4;1;0.48;0.98
+16394;Chelsea;Arsenal;Marcos Alonso;1621;DML;90;0;0;5;0;0.0;0.3
+16394;Chelsea;Arsenal;Mateo Kovacic;2254;MC;74;2;0;1;0;0.08;0.1
+16394;Chelsea;Arsenal;Jorginho;1389;MC;90;0;0;1;0;0.0;0.11
+16394;Chelsea;Arsenal;Kai Havertz;5220;AMC;90;4;0;0;0;1.07;0.0
+16394;Chelsea;Arsenal;Mason Mount;7768;AMC;84;3;0;4;1;0.17;1.41
+16394;Chelsea;Arsenal;Romelu Lukaku;594;FW;90;8;1;3;0;1.73;0.54
+16394;Chelsea;Arsenal;N'Golo Kante;751;Sub;16;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Timo Werner;65;Sub;1;0;0;0;0;0.0;0.0
+16394;Chelsea;Arsenal;Hakim Ziyech;8992;Sub;6;1;0;0;0;0.11;0.0
+16376;Brentford;Arsenal;David Raya;9676;GK;90;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Kristoffer Ajer;9677;DC;72;0;0;1;0;0.0;0.08
+16376;Brentford;Arsenal;Pontus Jansson;1801;DC;90;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Ethan Pinnock;9678;DC;90;0;0;1;1;0.0;0.05
+16376;Brentford;Arsenal;Sergi Canos;1078;DMR;90;3;1;1;0;0.19;0.56
+16376;Brentford;Arsenal;Rico Henry;9679;DML;90;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Christian Norgaard;7083;MC;90;2;1;0;0;1.45;0.0
+16376;Brentford;Arsenal;Vitaly Janelt;9680;MC;90;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Frank Onyeka;9681;MC;81;1;0;1;0;0.05;0.07
+16376;Brentford;Arsenal;Bryan Mbeumo;6552;FW;87;2;0;1;0;0.2;0.07
+16376;Brentford;Arsenal;Ivan Toney;998;FW;90;0;0;1;0;0.0;0.12
+16376;Brentford;Arsenal;Mads Bidstrup;9682;Sub;9;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Mads Bech Sorensen;9683;Sub;18;0;0;0;0;0.0;0.0
+16376;Brentford;Arsenal;Marcus Forss;9684;Sub;3;0;0;0;0;0.0;0.0
+16376;Arsenal;Brentford;Bernd Leno;181;GK;90;0;0;0;0;0.0;0.0
+16376;Arsenal;Brentford;Calum Chambers;508;DR;82;2;0;1;0;0.06;0.06
+16376;Arsenal;Brentford;Pablo Mari;8380;DC;90;1;0;0;0;0.03;0.0
+16376;Arsenal;Brentford;Ben White;7298;DC;90;0;0;0;0;0.0;0.0
+16376;Arsenal;Brentford;Kieran Tierney;8089;DL;90;3;0;6;0;0.15;0.27
+16376;Arsenal;Brentford;Albert Sambi Lokonga;9689;DMC;90;2;0;2;0;0.03;0.03
+16376;Arsenal;Brentford;Granit Xhaka;204;DMC;90;2;0;1;0;0.07;0.04
+16376;Arsenal;Brentford;Nicolas Pepe;5656;AMR;90;4;0;3;0;0.21;0.16
+16376;Arsenal;Brentford;Emile Smith-Rowe;7230;AMC;90;2;0;2;0;0.13;0.12
+16376;Arsenal;Brentford;Gabriel Martinelli;7752;AML;72;1;0;2;0;0.12;0.08
+16376;Arsenal;Brentford;Folarin Balogun;9690;FW;60;3;0;0;0;0.16;0.0
+16376;Arsenal;Brentford;Nuno Tavares;9691;Sub;8;1;0;0;0;0.01;0.0
+16376;Arsenal;Brentford;Bukayo Saka;7322;Sub;30;0;0;1;0;0.0;0.04
+16376;Arsenal;Brentford;Reiss Nelson;6492;Sub;18;1;0;1;0;0.04;0.06
+16377;Manchester United;Leeds;David de Gea;546;GK;90;0;0;0;0;0.0;0.0
+16377;Manchester United;Leeds;Aaron Wan-Bissaka;5584;DR;90;0;0;0;0;0.0;0.0
+16377;Manchester United;Leeds;Victor Lindelof;6080;DC;90;0;0;1;1;0.0;0.36
+16377;Manchester United;Leeds;Harry Maguire;1687;DC;90;1;0;0;0;0.02;0.0
+16377;Manchester United;Leeds;Luke Shaw;1006;DL;90;1;0;2;0;0.04;0.13
+16377;Manchester United;Leeds;Fred;6817;DMC;90;1;1;0;0;0.14;0.0
+16377;Manchester United;Leeds;Scott McTominay;5560;DMC;70;1;0;1;0;0.05;0.02
+16377;Manchester United;Leeds;Daniel James;5595;AMR;76;3;0;1;0;0.23;0.02
+16377;Manchester United;Leeds;Bruno Fernandes;1228;AMC;90;4;3;3;0;0.78;0.12
+16377;Manchester United;Leeds;Paul Pogba;1740;AML;76;2;0;5;4;0.25;0.72
+16377;Manchester United;Leeds;Mason Greenwood;7490;FW;90;3;1;1;0;0.12;0.23
+16377;Manchester United;Leeds;Anthony Martial;553;Sub;14;0;0;0;0;0.0;0.0
+16377;Manchester United;Leeds;Nemanja Matic;697;Sub;20;0;0;0;0;0.0;0.0
+16377;Manchester United;Leeds;Jadon Sancho;6345;Sub;14;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Illan Meslier;8715;GK;90;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Luke Ayling;8716;DR;90;2;1;0;0;0.05;0.0
+16377;Leeds;Manchester United;Pascal Struijk;8717;DC;90;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Liam Cooper;8816;DC;90;0;0;1;0;0.0;0.02
+16377;Leeds;Manchester United;Stuart Dallas;8718;DL;90;0;0;1;1;0.0;0.02
+16377;Leeds;Manchester United;Raphinha;8026;MR;90;2;0;1;0;0.3;0.1
+16377;Leeds;Manchester United;Robin Koch;6273;MC;90;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Mateusz Klich;4381;MC;90;2;0;0;0;0.06;0.0
+16377;Leeds;Manchester United;Jack Harrison;8720;ML;70;1;0;2;0;0.02;0.06
+16377;Leeds;Manchester United;Rodrigo;2381;AMC;47;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Patrick Bamford;822;FW;78;1;0;1;0;0.1;0.02
+16377;Leeds;Manchester United;Helder Costa;3428;Sub;20;1;0;0;0;0.02;0.0
+16377;Leeds;Manchester United;Junior Firpo;6485;Sub;43;0;0;0;0;0.0;0.0
+16377;Leeds;Manchester United;Tyler Roberts;1014;Sub;12;1;0;1;0;0.01;0.28
+16378;Burnley;Brighton;Nick Pope;5552;GK;90;0;0;0;0;0.0;0.0
+16378;Burnley;Brighton;Matthew Lowton;1652;DR;90;0;0;1;0;0.0;0.02
+16378;Burnley;Brighton;Ben Mee;1654;DC;90;1;0;0;0;0.38;0.0
+16378;Burnley;Brighton;James Tarkowski;1665;DC;90;3;1;0;0;1.1;0.0
+16378;Burnley;Brighton;Charlie Taylor;6044;DL;90;0;0;1;0;0.0;0.01
+16378;Burnley;Brighton;Johann Berg Gudmundsson;1663;MR;90;2;0;0;0;0.16;0.0
+16378;Burnley;Brighton;Jack Cork;712;MC;88;2;0;0;0;0.09;0.0
+16378;Burnley;Brighton;Ashley Westwood;669;MC;90;0;0;2;1;0.0;0.7
+16378;Burnley;Brighton;Dwight McNeil;6756;ML;82;0;0;2;0;0.0;0.08
+16378;Burnley;Brighton;Chris Wood;4456;FW;90;3;0;1;0;0.11;0.09
+16378;Burnley;Brighton;Jay Rodriguez;844;FW;73;1;0;0;0;0.09;0.0
+16378;Burnley;Brighton;Matej Vydra;1017;Sub;2;2;0;0;0;0.02;0.0
+16378;Burnley;Brighton;Ashley Barnes;4422;Sub;17;0;0;1;0;0.0;0.04
+16378;Burnley;Brighton;Josh Brownhill;8323;Sub;8;0;0;1;0;0.0;0.02
+16378;Brighton;Burnley;Robert Sanchez;9098;GK;90;0;0;1;0;0.0;0.29
+16378;Brighton;Burnley;Adam Webster;7699;DR;90;0;0;0;0;0.0;0.0
+16378;Brighton;Burnley;Shane Duffy;6047;DC;90;4;0;0;0;0.06;0.0
+16378;Brighton;Burnley;Lewis Dunk;6048;DC;90;0;0;0;0;0.0;0.0
+16378;Brighton;Burnley;Pascal Gross;239;DL;90;2;0;2;1;0.05;0.35
+16378;Brighton;Burnley;Steven Alzate;8020;DMC;75;0;0;2;0;0.0;0.15
+16378;Brighton;Burnley;Solly March;6049;MR;90;1;0;3;0;0.05;0.08
+16378;Brighton;Burnley;Yves Bissouma;5609;MC;90;0;0;0;0;0.0;0.0
+16378;Brighton;Burnley;Enock Mwepu;9734;MC;49;0;0;1;0;0.0;0.05
+16378;Brighton;Burnley;Leandro Trossard;7698;ML;79;1;0;0;0;0.08;0.0
+16378;Brighton;Burnley;Neal Maupay;3621;FW;90;4;1;0;0;0.82;0.0
+16378;Brighton;Burnley;Alexis Mac Allister;8379;Sub;11;1;1;0;0;0.34;0.0
+16378;Brighton;Burnley;Jakub Moder;9284;Sub;15;1;0;1;1;0.29;0.64
+16378;Brighton;Burnley;Adam Lallana;486;Sub;41;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Edouard Mendy;6880;GK;90;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Andreas Christensen;200;DC;90;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Antonio Rudiger;1822;DC;90;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Trevoh Chalobah;6615;DC;90;1;1;0;0;0.02;0.0
+16379;Chelsea;Crystal Palace;Cesar Azpilicueta;681;DMR;68;1;0;0;0;0.03;0.0
+16379;Chelsea;Crystal Palace;Marcos Alonso;1621;DML;87;3;1;2;0;0.19;0.18
+16379;Chelsea;Crystal Palace;Mateo Kovacic;2254;MC;90;2;0;2;1;0.04;0.05
+16379;Chelsea;Crystal Palace;Jorginho;1389;MC;90;0;0;1;0;0.0;0.08
+16379;Chelsea;Crystal Palace;Christian Pulisic;2662;AMC;83;2;1;0;0;0.64;0.0
+16379;Chelsea;Crystal Palace;Mason Mount;7768;AMC;90;3;0;0;0;0.15;0.0
+16379;Chelsea;Crystal Palace;Timo Werner;65;FW;90;1;0;1;0;0.13;0.02
+16379;Chelsea;Crystal Palace;Kai Havertz;5220;Sub;7;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Emerson;1245;Sub;3;0;0;0;0;0.0;0.0
+16379;Chelsea;Crystal Palace;Reece James;8067;Sub;22;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Vicente Guaita;2190;GK;90;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Joel Ward;510;DR;90;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Cheikhou Kouyate;532;DC;90;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Marc Guehi;7603;DC;90;0;0;1;0;0.0;0.12
+16379;Crystal Palace;Chelsea;Tyrick Mitchell;8214;DL;90;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Jordan Ayew;672;MR;90;1;0;1;0;0.03;0.14
+16379;Crystal Palace;Chelsea;Jairo Riedewald;6027;MC;78;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;James McArthur;633;MC;90;0;0;2;0;0.0;0.07
+16379;Crystal Palace;Chelsea;Jeffrey Schlupp;757;ML;58;1;0;0;0;0.12;0.0
+16379;Crystal Palace;Chelsea;Jean-Philippe Mateta;5735;FW;58;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Wilfried Zaha;522;FW;90;1;0;0;0;0.14;0.0
+16379;Crystal Palace;Chelsea;Christian Benteke;606;Sub;32;1;0;0;0;0.04;0.0
+16379;Crystal Palace;Chelsea;Joachim Andersen;6314;Sub;32;0;0;0;0;0.0;0.0
+16379;Crystal Palace;Chelsea;Jesurun Rak-Sakyi;9461;Sub;12;0;0;0;0;0.0;0.0
+16380;Everton;Southampton;Jordan Pickford;741;GK;90;0;0;0;0;0.0;0.0
+16380;Everton;Southampton;Seamus Coleman;585;DR;90;0;0;1;0;0.0;0.08
+16380;Everton;Southampton;Mason Holgate;985;DC;90;0;0;0;0;0.0;0.0
+16380;Everton;Southampton;Michael Keane;1653;DC;90;1;0;1;0;0.08;0.15
+16380;Everton;Southampton;Lucas Digne;1823;DL;90;2;0;2;0;0.11;0.17
+16380;Everton;Southampton;Allan;1379;DMC;90;1;0;0;0;0.03;0.0
+16380;Everton;Southampton;Abdoulaye Doucoure;1726;DMC;90;2;1;0;0;0.06;0.0
+16380;Everton;Southampton;Andros Townsend;775;AMR;71;0;0;3;1;0.0;0.67
+16380;Everton;Southampton;Demarai Gray;762;AMC;84;0;0;1;0;0.0;0.11
+16380;Everton;Southampton;Richarlison;6026;AML;90;1;1;2;1;0.55;1.02
+16380;Everton;Southampton;Dominic Calvert-Lewin;5555;FW;90;5;1;0;0;1.0;0.0
+16380;Everton;Southampton;Yerry Mina;6521;Sub;6;0;0;0;0;0.0;0.0
+16380;Everton;Southampton;Alex Iwobi;500;Sub;19;2;0;1;1;0.55;0.04
+16380;Everton;Southampton;Anthony Gordon;8150;Sub;1;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Alex McCarthy;635;GK;90;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Valentino Livramento;9512;DR;90;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Mohammed Salisu;6923;DC;90;1;0;0;0;0.07;0.0
+16380;Southampton;Everton;Jack Stephens;1735;DC;90;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Romain Perraud;6500;DL;84;0;0;1;0;0.0;0.07
+16380;Southampton;Everton;Theo Walcott;503;MR;81;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Oriol Romeu;842;MC;81;1;0;0;0;0.03;0.0
+16380;Southampton;Everton;James Ward-Prowse;843;MC;90;0;0;2;0;0.0;0.07
+16380;Southampton;Everton;Moussa Djenepo;7701;ML;90;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Adam Armstrong;4419;FW;90;3;1;0;0;0.42;0.0
+16380;Southampton;Everton;Che Adams;7700;FW;90;0;0;1;1;0.0;0.36
+16380;Southampton;Everton;Nathan Redmond;790;Sub;6;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Nathan Tella;8456;Sub;9;0;0;0;0;0.0;0.0
+16380;Southampton;Everton;Ibrahima Diallo;6736;Sub;9;1;0;0;0;0.06;0.0
+16381;Leicester;Wolverhampton Wanderers;Kasper Schmeichel;745;GK;90;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Ricardo Pereira;3303;DR;90;0;0;1;1;0.0;0.11
+16381;Leicester;Wolverhampton Wanderers;Daniel Amartey;759;DC;90;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Caglar Soyuncu;5264;DC;90;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Luke Thomas;8562;DL;90;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Youri Tielemans;5956;DMC;90;1;0;1;0;0.02;0.13
+16381;Leicester;Wolverhampton Wanderers;Wilfred Ndidi;5545;DMC;90;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Ayoze Perez;770;AMR;64;0;0;3;0;0.0;0.09
+16381;Leicester;Wolverhampton Wanderers;James Maddison;6818;AMC;64;0;0;1;0;0.0;0.08
+16381;Leicester;Wolverhampton Wanderers;Harvey Barnes;6681;AML;74;1;0;0;0;0.11;0.0
+16381;Leicester;Wolverhampton Wanderers;Jamie Vardy;755;FW;90;6;1;2;0;0.46;0.19
+16381;Leicester;Wolverhampton Wanderers;Jannik Vestergaard;111;Sub;26;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Boubakary Soumare;6310;Sub;26;0;0;0;0;0.0;0.0
+16381;Leicester;Wolverhampton Wanderers;Kelechi Iheanacho;620;Sub;16;1;0;0;0;0.08;0.0
+16381;Wolverhampton Wanderers;Leicester;Jose Sa;9740;GK;90;0;0;0;0;0.0;0.0
+16381;Wolverhampton Wanderers;Leicester;Romain Saiss;3491;DC;90;0;0;1;0;0.0;0.03
+16381;Wolverhampton Wanderers;Leicester;Max Kilman;7332;DC;90;2;0;0;0;0.2;0.0
+16381;Wolverhampton Wanderers;Leicester;Conor Coady;6851;DC;90;0;0;0;0;0.0;0.0
+16381;Wolverhampton Wanderers;Leicester;Ki-Jana Hoever;8351;DMR;90;1;0;1;0;0.03;0.09
+16381;Wolverhampton Wanderers;Leicester;Fernando Marcal;5708;DML;90;0;0;1;0;0.0;0.02
+16381;Wolverhampton Wanderers;Leicester;Ruben Neves;6853;MC;90;1;0;2;0;0.01;0.1
+16381;Wolverhampton Wanderers;Leicester;Joao Moutinho;3422;MC;68;1;0;1;0;0.02;0.53
+16381;Wolverhampton Wanderers;Leicester;Trincao;8934;FWR;88;2;0;2;0;0.08;0.05
+16381;Wolverhampton Wanderers;Leicester;Raul Jimenez;4105;FW;90;3;0;3;0;0.16;0.19
+16381;Wolverhampton Wanderers;Leicester;Adama Traore;900;FWL;90;6;0;1;0;0.75;0.08
+16381;Wolverhampton Wanderers;Leicester;Leander Dendoncker;7236;Sub;22;0;0;0;0;0.0;0.0
+16381;Wolverhampton Wanderers;Leicester;Morgan Gibbs-White;6857;Sub;2;1;0;0;0;0.08;0.0
+16381;Wolverhampton Wanderers;Leicester;Fabio Silva;8778;Sub;1;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Daniel Bachmann;1025;GK;90;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Craig Cathcart;581;DR;90;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Christian Kabasele;1725;DC;90;1;0;0;0;0.42;0.0
+16382;Watford;Aston Villa;William Troost-Ekong;6996;DC;90;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Adam Masina;1441;DL;90;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Oghenekaro Etebo;6538;DMC;90;0;0;1;0;0.0;0.03
+16382;Watford;Aston Villa;Ismaila Sarr;5675;MR;90;3;1;4;0;0.17;0.37
+16382;Watford;Aston Villa;Juraj Kucka;1123;MC;71;2;0;0;0;0.1;0.0
+16382;Watford;Aston Villa;Tom Cleverley;596;MC;81;0;0;1;1;0.0;0.04
+16382;Watford;Aston Villa;Ken Sema;6841;ML;90;0;0;2;0;0.0;0.56
+16382;Watford;Aston Villa;Emmanuel Dennis;9301;FW;68;5;1;3;1;0.59;0.21
+16382;Watford;Aston Villa;Troy Deeney;574;Sub;9;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Dan Gosling;462;Sub;19;0;0;0;0;0.0;0.0
+16382;Watford;Aston Villa;Juan Camilo Hernandez;6954;Sub;22;2;1;0;0;0.08;0.0
+16382;Aston Villa;Watford;Emiliano Martinez;4401;GK;90;0;0;0;0;0.0;0.0
+16382;Aston Villa;Watford;Matthew Cash;8864;DR;90;1;0;1;0;0.01;0.08
+16382;Aston Villa;Watford;Tyrone Mings;1024;DC;90;0;0;0;0;0.0;0.0
+16382;Aston Villa;Watford;Ezri Konsa Ngoyo;7726;DC;90;0;0;0;0;0.0;0.0
+16382;Aston Villa;Watford;Matt Targett;884;DL;48;0;0;1;0;0.0;0.02
+16382;Aston Villa;Watford;Marvelous Nakamba;8040;DMC;90;0;0;0;0;0.0;0.0
+16382;Aston Villa;Watford;John McGinn;7723;DMC;90;3;1;0;0;0.08;0.0
+16382;Aston Villa;Watford;Anwar El Ghazi;5612;AMR;62;0;0;0;0;0.0;0.0
+16382;Aston Villa;Watford;Emiliano Buendia;2203;AMC;74;1;0;0;0;0.03;0.0
+16382;Aston Villa;Watford;Ashley Young;631;AML;90;1;0;2;0;0.02;0.06
+16382;Aston Villa;Watford;Danny Ings;986;FW;90;1;1;0;0;0.76;0.0
+16382;Aston Villa;Watford;Bertrand Traore;695;Sub;16;1;0;0;0;0.08;0.0
+16382;Aston Villa;Watford;Leon Bailey;5221;Sub;28;2;0;1;1;0.13;0.03
+16382;Aston Villa;Watford;Jacob Ramsey;8941;Sub;42;1;0;1;0;0.03;0.08
+16383;Norwich;Liverpool;Tim Krul;982;GK;90;0;0;0;0;0.0;0.0
+16383;Norwich;Liverpool;Max Aarons;7688;DR;90;1;0;1;0;0.01;0.05
+16383;Norwich;Liverpool;Ben Gibson;1707;DC;90;2;0;0;0;0.62;0.0
+16383;Norwich;Liverpool;Grant Hanley;7690;DC;90;1;0;1;0;0.13;0.11
+16383;Norwich;Liverpool;Dimitris Giannoulis;9745;DL;90;0;0;1;0;0.0;0.04
+16383;Norwich;Liverpool;Todd Cantwell;7695;MR;87;1;0;1;0;0.01;0.31
+16383;Norwich;Liverpool;Pierre Lees-Melou;5619;MC;90;1;0;2;0;0.04;0.65
+16383;Norwich;Liverpool;Lukas Rupp;62;MC;90;4;0;0;0;0.09;0.0
+16383;Norwich;Liverpool;Billy Gilmour;7988;MC;90;0;0;0;0;0.0;0.0
+16383;Norwich;Liverpool;Milot Rashica;6523;ML;78;1;0;3;0;0.04;0.06
+16383;Norwich;Liverpool;Teemu Pukki;7696;FW;78;1;0;0;0;0.31;0.0
+16383;Norwich;Liverpool;Adam Idah;8021;Sub;12;1;0;0;0;0.11;0.0
+16383;Norwich;Liverpool;Joshua Sargent;7295;Sub;12;1;0;0;0;0.05;0.0
+16383;Norwich;Liverpool;Kieran Dowell;1032;Sub;3;0;0;2;0;0.0;0.04
+16383;Liverpool;Norwich;Alisson;1257;GK;90;0;0;0;0;0.0;0.0
+16383;Liverpool;Norwich;Trent Alexander-Arnold;1791;DR;90;2;0;3;0;0.07;0.13
+16383;Liverpool;Norwich;Joel Matip;332;DC;90;1;0;0;0;0.06;0.0
+16383;Liverpool;Norwich;Virgil van Dijk;833;DC;90;1;0;1;0;0.05;0.06
+16383;Liverpool;Norwich;Konstantinos Tsimikas;8852;DL;90;2;0;0;0;0.16;0.0
+16383;Liverpool;Norwich;Naby Keita;5247;MC;84;0;0;1;0;0.0;0.22
+16383;Liverpool;Norwich;James Milner;489;MC;90;0;0;1;0;0.0;0.05
+16383;Liverpool;Norwich;Alex Oxlade-Chamberlain;966;MC;62;2;0;0;0;0.03;0.0
+16383;Liverpool;Norwich;Mohamed Salah;1250;FWR;90;5;1;3;2;0.24;0.87
+16383;Liverpool;Norwich;Diogo Jota;6854;FW;62;2;1;0;0;0.61;0.0
+16383;Liverpool;Norwich;Sadio Mane;838;FWL;90;3;0;3;0;0.15;0.16
+16383;Liverpool;Norwich;Fabinho;3420;Sub;28;0;0;0;0;0.0;0.0
+16383;Liverpool;Norwich;Roberto Firmino;482;Sub;28;1;1;1;0;0.42;0.08
+16383;Liverpool;Norwich;Harvey Elliott;7546;Sub;6;0;0;0;0;0.0;0.0
+16384;Newcastle United;West Ham;Freddie Woodman;852;GK;90;0;0;0;0;0.0;0.0
+16384;Newcastle United;West Ham;Jacob Murphy;6063;DR;90;3;1;1;0;0.13;0.1
+16384;Newcastle United;West Ham;Federico Fernandez;708;DC;90;1;0;0;0;0.11;0.0
+16384;Newcastle United;West Ham;Ciaran Clark;875;DC;90;3;0;1;0;0.23;0.01
+16384;Newcastle United;West Ham;Emil Krafth;1545;DC;87;1;0;0;0;0.05;0.0
+16384;Newcastle United;West Ham;Matt Ritchie;461;DL;90;1;0;4;1;0.04;0.26
+16384;Newcastle United;West Ham;Miguel Almiron;7420;MC;90;2;0;1;0;0.07;0.02
+16384;Newcastle United;West Ham;Jonjo Shelvey;769;MC;72;0;0;1;0;0.0;0.13
+16384;Newcastle United;West Ham;Isaac Hayden;6062;MC;90;1;0;0;0;0.02;0.0
+16384;Newcastle United;West Ham;Allan Saint-Maximin;101;FW;90;0;0;4;1;0.0;0.86
+16384;Newcastle United;West Ham;Callum Wilson;468;FW;87;4;1;0;0;1.01;0.0
+16384;Newcastle United;West Ham;Joelinton;87;Sub;3;0;0;0;0;0.0;0.0
+16384;Newcastle United;West Ham;Sean Longstaff;7078;Sub;3;0;0;0;0;0.0;0.0
+16384;Newcastle United;West Ham;Ryan Fraser;1683;Sub;18;1;0;0;0;0.02;0.0
+16384;West Ham;Newcastle United;Lukasz Fabianski;706;GK;90;0;0;0;0;0.0;0.0
+16384;West Ham;Newcastle United;Vladimir Coufal;8965;DR;90;0;0;2;0;0.0;0.4
+16384;West Ham;Newcastle United;Angelo Ogbonna;528;DC;90;0;0;0;0;0.0;0.0
+16384;West Ham;Newcastle United;Craig Dawson;804;DC;90;1;0;0;0;0.04;0.0
+16384;West Ham;Newcastle United;Aaron Cresswell;534;DL;90;2;1;1;0;0.08;0.04
+16384;West Ham;Newcastle United;Tomas Soucek;8288;DMC;90;4;1;0;0;0.8;0.0
+16384;West Ham;Newcastle United;Declan Rice;5553;DMC;90;0;0;2;0;0.0;0.09
+16384;West Ham;Newcastle United;Jarrod Bowen;1776;AMR;90;2;0;1;0;0.43;0.02
+16384;West Ham;Newcastle United;Said Benrahma;3585;AMC;90;3;1;1;1;0.58;0.39
+16384;West Ham;Newcastle United;Pablo Fornals;2335;AML;90;2;0;4;1;0.08;0.55
+16384;West Ham;Newcastle United;Michail Antonio;531;FW;90;4;1;1;1;1.51;0.46
+16384;West Ham;Newcastle United;Andriy Yarmolenko;6274;Sub;1;0;0;0;0;0.0;0.0
+16384;West Ham;Newcastle United;Ryan Fredericks;6891;Sub;1;0;0;0;0;0.0;0.0
+16384;West Ham;Newcastle United;Ben Johnson;6424;Sub;1;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Hugo Lloris;637;GK;90;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Japhet Tanganga;8222;DR;84;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Davinson Sanchez;6249;DC;90;1;0;0;0;0.05;0.0
+16385;Tottenham;Manchester City;Eric Dier;643;DC;90;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Sergio Reguilon;7187;DL;90;0;0;2;0;0.0;0.04
+16385;Tottenham;Manchester City;Pierre-Emile Hojbjerg;343;DMC;90;1;0;2;0;0.01;0.05
+16385;Tottenham;Manchester City;Oliver Skipp;7198;DMC;90;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Lucas Moura;3293;AMR;90;3;0;3;0;0.15;0.11
+16385;Tottenham;Manchester City;Dele Alli;645;AMC;90;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Steven Bergwijn;8300;AML;78;3;0;2;1;0.57;0.15
+16385;Tottenham;Manchester City;Son Heung-Min;453;FW;90;5;1;1;0;0.27;0.05
+16385;Tottenham;Manchester City;Giovani Lo Celso;5681;Sub;12;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Cristian Romero;7218;Sub;1;0;0;0;0;0.0;0.0
+16385;Tottenham;Manchester City;Matt Doherty;6852;Sub;6;0;0;0;0;0.0;0.0
+16385;Manchester City;Tottenham;Ederson;6054;GK;90;0;0;0;0;0.0;0.0
+16385;Manchester City;Tottenham;Joao Cancelo;2379;DR;90;3;0;3;0;0.16;0.75
+16385;Manchester City;Tottenham;Nathan Ake;579;DC;90;1;0;0;0;0.05;0.0
+16385;Manchester City;Tottenham;Ruben Dias;8961;DC;90;0;0;0;0;0.0;0.0
+16385;Manchester City;Tottenham;Benjamin Mendy;3389;DL;80;0;0;2;0;0.0;0.29
+16385;Manchester City;Tottenham;Fernandinho;614;MC;90;3;0;2;0;0.29;0.06
+16385;Manchester City;Tottenham;Ilkay Gundogan;314;MC;90;2;0;0;0;0.17;0.0
+16385;Manchester City;Tottenham;Jack Grealish;675;MC;90;3;0;2;0;0.22;0.14
+16385;Manchester City;Tottenham;Riyad Mahrez;750;FWR;80;2;0;1;0;0.5;0.01
+16385;Manchester City;Tottenham;Ferran Torres;6441;FW;90;2;0;0;0;0.67;0.0
+16385;Manchester City;Tottenham;Raheem Sterling;618;FWL;71;1;0;0;0;0.03;0.0
+16385;Manchester City;Tottenham;Kevin De Bruyne;447;Sub;10;1;0;1;0;0.02;0.01
+16385;Manchester City;Tottenham;Gabriel Jesus;5543;Sub;19;0;0;1;0;0.0;0.1
+16385;Manchester City;Tottenham;Oleksandr Zinchenko;2958;Sub;10;0;0;0;0;0.0;0.0
