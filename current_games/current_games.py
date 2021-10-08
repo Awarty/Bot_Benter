@@ -25,7 +25,7 @@ def generate_current_games_data_files(config, starting_url, max_weeks_back=1, FI
 
     current_date = ''
     # Loop trough all tr elements
-    for tr_element in tbody.find_elements_by_tag_name('tr'):
+    for tr_element in tqdm(tbody.find_elements_by_tag_name('tr')):
         # If tr element has class 'center nob-border'
         if tr_element.get_attribute('class') == 'center nob-border':
             # Get the date
@@ -44,17 +44,29 @@ def generate_current_games_data_files(config, starting_url, max_weeks_back=1, FI
             else:
                 href_to_game = a_elements[1].get_attribute('href')
 
+            home_team = td_elements[1].text.split(' - ')[0][1:] if td_elements[1].text.split(' - ')[0][0] == ' ' else td_elements[1].text.split(' - ')[0]
+            away_team = td_elements[1].text.split(' - ')[1][1:] if td_elements[1].text.split(' - ')[1][0] == ' ' else td_elements[1].text.split(' - ')[1]
 
             result.append({
-                'home_team': td_elements[1].text.split(' - ')[0][:1],
-                'away_team': td_elements[1].text.split(' - ')[1],
+                'home_team': home_team,
+                'away_team': away_team,
                 'date': current_date,
                 'time': td_elements[0].text,
                 'odds': get_odds_from_site(driver, href_to_game)
             })
     
     # Pretty print result
-    print(json.dumps(result, indent=4, sort_keys=True), flush=True)
+    #print(json.dumps(result, indent=4, sort_keys=True), flush=True)
+
+    # Save result to file
+    for game in result:
+        game['odds'].to_csv(\
+            f'./generated_data/{FILE_NAME}_{game["home_team"]}-{game["away_team"]}_{game["date"]}_{game["time"].replace(":", "%")}.csv',\
+                index=False, header=True, sep=';')
+        print(game['odds'])
+
+
+
 
 
 def get_odds_from_site(driver, url):
@@ -80,14 +92,14 @@ def get_odds_from_site(driver, url):
         if tr.find_elements_by_tag_name('td'):
             odds.append(dict(zip(['Site', 'Home', 'Draw', 'Away'], [td.text for td in tr.find_elements_by_tag_name('td')])))
 
-    odds_cleaned = {}
+    # Create empty df
+    odds_cleaned = pd.DataFrame(columns=['Site', 'Home', 'Draw', 'Away'])
     for odd in odds[:-1]:
         site = odd['Site'].replace(' ', '').replace('\n', '').replace('\t', '').replace('\r', '')
-        odds_cleaned[site] = {
-            'Home': float(odd['Home']),
-            'Draw': float(odd['Draw']),
-            'Away': float(odd['Away'])
-        }
+        odds_cleaned = odds_cleaned.append({'Site': site,
+                            'Home': float(odd['Home']),
+                            'Draw':float(odd['Draw']),
+                            'Away': float(odd['Away'])}, ignore_index=True)
 
     # close window
     driver.close()
@@ -122,5 +134,5 @@ if __name__ == "__main__":
         config = json.load(json_file)
 
     
-    for site, name in SITES:
+    for site, name in tqdm(SITES):
         generate_current_games_data_files(config, site, 25, name)
