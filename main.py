@@ -4,4 +4,4 @@ import calculate_probability.calc_prob as calc_prob
 import lineups.lineups as lineups
 
 if __name__ == "__main__":
-    print("Open")
+    print("NOT YET IMPLEMENTED")
