@@ -6,7 +6,11 @@ import json
 import time
 import unidecode
 
-def generate_current_games_data_files(config, starting_url, max_weeks_back=1, FILE_NAME=""):
+def generate_current_games_data_files(config):
+    """
+        Generates a dataframe of all current games.
+    """
+
     # Create webdriver
     options = Options()
     options.headless = config['headless']
@@ -14,62 +18,72 @@ def generate_current_games_data_files(config, starting_url, max_weeks_back=1, FI
 
     log_in(driver, config['op_login']['username'], config['op_login']['password'])
 
-    driver.get(starting_url)
-    result = []
 
-    # Find and click the button with xpath '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[5]/div/div/div/div/p/a'
-    driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[5]/div/div/div/div/p/a').click()
+    for site_name, site_urls in config['league_links'].items():
+        site_url = site_urls['current_games']
 
-    # Get element with xpath '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/table/tbody'
-    tbody = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/table/tbody')
+        result = []
+        driver.get(site_url)
 
-    current_date = ''
-    # Loop trough all tr elements
-    for tr_element in tqdm(tbody.find_elements_by_tag_name('tr')):
-        # If tr element has class 'center nob-border'
-        if tr_element.get_attribute('class') == 'center nob-border':
-            # Get the date
-            current_date = tr_element.find_element_by_tag_name('th').find_element_by_tag_name('span').text
+        # Find and click the button with xpath '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[5]/div/div/div/div/p/a'
+        try:
+            driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[5]/div/div/div/div/p/a').click()
+        except:
+            pass
 
-        # If tr element has attribute 'xeid'
-        if tr_element.get_attribute('xeid') is not None:
-            # Gete all td elements in tr element
-            td_elements = tr_element.find_elements_by_tag_name('td')
-            # Get all a elements in td elements
-            a_elements = td_elements[1].find_elements_by_tag_name('a')
+        # Get element with xpath '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/table/tbody'
+        tbody = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/table/tbody')
 
-            # Get the href
-            if len(a_elements) == 1:
-                href_to_game = a_elements[0].get_attribute('href')
-            else:
-                href_to_game = a_elements[1].get_attribute('href')
+        current_date = ''
+        # Loop trough all tr elements
+        for tr_element in tqdm(tbody.find_elements_by_tag_name('tr')):
+            # If tr element has class 'center nob-border'
+            if tr_element.get_attribute('class') == 'center nob-border':
+                # Get the date
+                current_date = tr_element.find_element_by_tag_name('th').find_element_by_tag_name('span').text
 
-            home_team = td_elements[1].text.split(' - ')[0][1:] if td_elements[1].text.split(' - ')[0][0] == ' ' else td_elements[1].text.split(' - ')[0]
-            away_team = td_elements[1].text.split(' - ')[1][1:] if td_elements[1].text.split(' - ')[1][0] == ' ' else td_elements[1].text.split(' - ')[1]
+            # If tr element has attribute 'xeid'
+            if tr_element.get_attribute('xeid') is not None:
+                # Gete all td elements in tr element
+                td_elements = tr_element.find_elements_by_tag_name('td')
+                # Get all a elements in td elements
+                a_elements = td_elements[1].find_elements_by_tag_name('a')
 
-            result.append({
-                'home_team': home_team,
-                'away_team': away_team,
-                'date': current_date,
-                'time': td_elements[0].text,
-                'odds': get_odds_from_site(driver, href_to_game)
-            })
+                # Get the href
+                if len(a_elements) == 1:
+                    href_to_game = a_elements[0].get_attribute('href')
+                else:
+                    href_to_game = a_elements[1].get_attribute('href')
+
+                home_team = td_elements[1].text.split(' - ')[0][1:] if td_elements[1].text.split(' - ')[0][0] == ' ' else td_elements[1].text.split(' - ')[0]
+                away_team = td_elements[1].text.split(' - ')[1][1:] if td_elements[1].text.split(' - ')[1][0] == ' ' else td_elements[1].text.split(' - ')[1]
+
+                result.append({
+                    'home_team': home_team,
+                    'away_team': away_team,
+                    'date': current_date,
+                    'time': td_elements[0].text,
+                    'odds': get_odds_from_site(driver, href_to_game)
+                })
+
+        # Save result to file
+        for game in result:
+            game['odds'].to_csv(\
+                f'./generated_data/{site_name}_{game["home_team"]}-{game["away_team"]}_{game["date"]}_{game["time"].replace(":", "%")}.csv',\
+                    index=False, header=True, sep=';')
     
-    # Pretty print result
-    #print(json.dumps(result, indent=4, sort_keys=True), flush=True)
-
-    # Save result to file
-    for game in result:
-        game['odds'].to_csv(\
-            f'./generated_data/{FILE_NAME}_{game["home_team"]}-{game["away_team"]}_{game["date"]}_{game["time"].replace(":", "%")}.csv',\
-                index=False, header=True, sep=';')
-        print(game['odds'])
+    # Close last window
+    driver.close()
 
 
 
 
 
 def get_odds_from_site(driver, url):
+    """
+        Gets the odds from the given url.
+    """
+
     # Open a new tab with url
     driver.execute_script(f"window.open('{url}');")
     driver.switch_to.window(driver.window_handles[1])
@@ -110,6 +124,10 @@ def get_odds_from_site(driver, url):
 
 
 def log_in(driver, username_input='', password_input=''):
+    """
+        Logs in to the site.
+    """
+    
     driver.get('https://www.oddsportal.com/login')
 
     # Find and write username_input to '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[2]/div/form/div[1]/div[2]/input'
@@ -126,13 +144,8 @@ def log_in(driver, username_input='', password_input=''):
 
 
 if __name__ == "__main__":
-    SITES = [('https://www.oddsportal.com/soccer/england/premier-league/', "PL_2021"),
-             ('https://www.oddsportal.com/soccer/italy/serie-a/', "SA_2021")]
-    
     # Read json from file ./../config.cfg
     with open('./../config.cfg') as json_file:
         config = json.load(json_file)
 
-    
-    for site, name in tqdm(SITES):
-        generate_current_games_data_files(config, site, 25, name)
+    generate_current_games_data_files(config)

@@ -5,12 +5,19 @@ import math
 
 
 def prob_goals(num_goals, xG):
+    """
+        Calculates the probability of a given number of goals
+    """
     a = math.pow(np.exp(1), -xG)
     b = math.pow(xG, num_goals)
     c = (a*b)/math.factorial(num_goals)
     return round(c, 4)
 
 def prob_outcome(xG_home, xG_away):
+    """
+        Calculates outcome probability of a match
+    """
+
     prob_home = 0
     prob_draw = 0
     prob_away = 0

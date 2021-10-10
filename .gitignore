@@ -131,3 +131,4 @@ dmypy.json
 # Dont keep
 config.cfg
 chromedriver.exe
+*.csv

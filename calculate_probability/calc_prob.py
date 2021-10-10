@@ -25,7 +25,7 @@ def calc_starting_xG(game_id, team, gameIDs_played, player_df):
 
 def calc_game_prob(game_info, season_df, player_df):
     """
-        Calculates the probability distribution of a given game using xG and poission distribution.
+        Calculates the probability distribution of a given game using xG and poisson distribution.
 
         Input:
             - game_info
@@ -62,16 +62,16 @@ def calc_game_prob(game_info, season_df, player_df):
     return res_prob   
 
 
-games_df = pd.read_csv("./prev_games/generated_data/EPL_2021_games.csv", sep=";")
-players_df = pd.read_csv("./prev_games/generated_data/EPL_2021_players.csv", sep=";")
-games_df["date"] = pd.to_datetime(games_df["date"], format='%b %d %Y')
-games_df.sort_values(by="date", inplace=True)
+if __name__ == "__main__":
+    games_df = pd.read_csv("./../prev_games/generated_data/PL_2021_games.csv", sep=";")
+    players_df = pd.read_csv("./../prev_games/generated_data/PL_2021_players.csv", sep=";")
+    games_df.sort_values(by="date", inplace=True)
 
-for index, row in games_df.iterrows():
-    game_prob = calc_game_prob(row, games_df, players_df)
-    print(row["home_team"], row["away_team"])
-    print(row["fthg"], row["ftag"])
-    print(game_prob)
-    print("#############################")
+    for index, row in games_df.iterrows():
+        game_prob = calc_game_prob(row, games_df, players_df)
+        print(row["home_team"], row["away_team"])
+        print(row["fthg"], row["ftag"])
+        print(game_prob)
+        print("#############################")
     
 

@@ -4,5 +4,18 @@
     "op_login": {
         "username": "FILL IN WITH ODDSPORTAL USERNAME",
         "password": "FILL IN WITH ODDSPORTAL PASSWORD"
-    }
+    },
+    "league_links" : {
+        "PL_2021" : { 
+            "current_games" : "https://www.oddsportal.com/soccer/england/premier-league/",
+            "prev_games" : "https://understat.com/league/EPL/2021",
+            "lineup" : "https://www.flashscore.se/fotboll/england/premier-league/matcher/"
+            },
+        "SA_2021" : { 
+            "current_games" : "https://www.oddsportal.com/soccer/italy/serie-a/",
+            "prev_games" : "https://understat.com/league/Serie_A/2021",
+            "lineup" : "https://www.flashscore.se/fotboll/italien/serie-a/"
+            }
+    },
+    "max_num_of_week_to_go_back" : 50
 }
