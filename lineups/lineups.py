@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import time
 import unidecode
+import os
 
 
 def generate_lineups_data_files(config):
@@ -14,7 +15,7 @@ def generate_lineups_data_files(config):
     driver = webdriver.Chrome(config['driver_path'], options=options)
 
     for site_name, site_urls in config['league_links'].items():
-        site_url = site_urls['lineups']
+        site_url = site_urls['lineup']
         driver.get(site_url)
         
         # find and click button with xpath '//*[@id="onetrust-accept-btn-handler"]'
@@ -63,6 +64,8 @@ def generate_lineups_data_files(config):
 
         driver.switch_to.window(driver.window_handles[0])
 
+        if not os.path.exists("./generated_data"):
+            os.makedirs("./generated_data")
 
         if result:
             # Create and save dataframe from result

@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import time
 import unidecode
+import os
 
 def generate_current_games_data_files(config):
     """
@@ -65,6 +66,9 @@ def generate_current_games_data_files(config):
                     'time': td_elements[0].text,
                     'odds': get_odds_from_site(driver, href_to_game)
                 })
+
+        if not os.path.exists("./generated_data"):
+            os.makedirs("./generated_data")
 
         # Save result to file
         for game in result:

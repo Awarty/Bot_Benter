@@ -1,5 +1,5 @@
 {
-    "driver_path": 'FILL IN WITH PATH',
+    "driver_path": "FILL IN WITH PATH",
     "headless" : false,
     "op_login": {
         "username": "FILL IN WITH ODDSPORTAL USERNAME",

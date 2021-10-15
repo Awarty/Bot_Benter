@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import time
 import unidecode
+import os
 
 def generate_prev_games_data_files(config):
     """
@@ -55,7 +56,8 @@ def generate_prev_games_data_files(config):
             button.click()
             max_weeks_back += 1
 
-
+        if not os.path.exists("./generated_data"):
+            os.makedirs("./generated_data")
         # Convert result to dataframes and save them to csvs
         (games_df, players_df) = game_convert_result_to_dfs(result)
 
