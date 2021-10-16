@@ -20,7 +20,8 @@ def generate_lineups_data_files(config):
     for site_name, site_urls in config['league_links'].items():
         # Read all_names from prev_games csv files
         try:
-            prev_games = pd.read_csv(f'./../prev_games/generated_data/{site_name}_players.csv', sep=';')
+            prev_games_player_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_players.csv', sep=';')
+            prev_games_team_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_games.csv', sep=';')
         except FileNotFoundError:
             raise FileNotFoundError(f'{site_name}_players.csv file not found, run prev_games before')
 
@@ -86,7 +87,7 @@ def generate_lineups_data_files(config):
             df["date"] = pd.to_datetime(df["date"], format='%d-%m-%Y')
             
             # Convert names
-            df = replace_names(df, prev_games, config['name_replace_threshold'])
+            df = replace_names(df, prev_games_player_df, prev_games_team_df, config['name_replace_threshold'])
 
             df.to_csv(f'./generated_data/{site_name}_lineups.csv', index=False, encoding='utf-8', header=True, sep=';')
 
@@ -94,26 +95,41 @@ def generate_lineups_data_files(config):
     # Switch to newly opened window
     driver.close()
 
-
-def replace_names(df, prev_games, threshold=0):
-    #Casting the name column of both dataframes into lists
-    df_names = list(df.player_name.unique())
-    prev_games_names = list(prev_games.name.unique())    
-
-    name_dict = {}
+def find_best(df_names, prev_games_names, threshold):
+    result = {}
     for x in df_names:
         (new_name, score) = process.extractOne(x, prev_games_names)
         if score > threshold:
-            name_dict[x] = new_name
+            if x in result:
+                print(f"Found more than one for {x}")
+            result[x] = new_name
         else:
             print(f"WARNING: Could not find name to replace with {x}")
-            
-    # Pretty print name_dict
-    print(json.dumps(name_dict, indent=4))
+    return result
 
+def replace_names(df, prev_games_player_df, prev_games_team_df, threshold=0):
+    #Casting the name column of both dataframes into lists
+    df_names = list(df.player_name.unique())
+    df_team_names = list(df.team_name.unique()) +\
+                    list(df.home_team_name.unique()) +\
+                    list(df.away_team_name.unique())
+    df_team_names = list(set(df_team_names))
+
+    prev_games_names = list(prev_games_player_df.name.unique())
+    prev_games_team_names = list(prev_games_team_df.home_team.unique()) +\
+                            list(prev_games_team_df.away_team.unique())
+    prev_games_team_names = list(set(prev_games_team_names))
+
+    name_dict = find_best(df_names, prev_games_names, threshold)
+    team_name_dict = find_best(df_team_names, prev_games_team_names, threshold)
+    print(team_name_dict)
+
+    
     #Using the dictionary to replace the keys with the values in the 'name' column for the second dataframe
     df.player_name = df.player_name.replace(name_dict)
-    print(df)
+    df.team_name = df.player_name.replace(team_name_dict)
+    df.home_team_name = df.player_name.replace(team_name_dict)
+    df.away_team_name = df.player_name.replace(team_name_dict)
     
     return df
 

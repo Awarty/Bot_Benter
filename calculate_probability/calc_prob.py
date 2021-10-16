@@ -14,22 +14,24 @@ def calc_starting_xG(date, team, opp_team, gameIDs_played, player_df, lineups):
     played_games = player_df[player_df["game_id"].isin(gameIDs_played)]
     
     # Get a list of the players starting the game
+    #print(team)
+    #print(date)
     players = lineups[(lineups["date"]==date) & (lineups["team_name"]==team)]
     if not players.empty:
         counter = 0
         for index, player in players.iterrows():
-            if player["pos"] != "Sub":
-                tmp = played_games[played_games["name"]==player["name"]]
-                if not tmp.empty:
-                    counter += 1
-                    res_xG += tmp["xg"].mean()
+            #if player["pos"] != "Sub":
+            tmp = played_games[played_games["name"]==player["player_name"]]
+            if not tmp.empty:
+                counter += 1
+                res_xG += tmp["xg"].mean()
 
         if counter != 11:
             print(f"The number of starting players was wrong. Got {counter} instead of 11.")
             return None
         
     else:
-        print(f"[PROBLEM] Cant find which players that start the game for {team}.")
+        #print(f"[PROBLEM] Cant find which players that start the game for {team}.")
         return None
 
     return res_xG
@@ -64,6 +66,11 @@ def calc_game_prob(date, home_team, away_team, season_df, player_df, lineups):
     if home_xG == None or away_xG == None:
         return None
 
+    # print("A ", away_xG_conceded)
+    # print("B ", season_average_away_conceded)
+    # print(f"{home_xG/season_average_home_scored} * {(away_xG_conceded/season_average_away_conceded)} * {season_average_home_scored}")
+    # print(f"{(away_xG/season_average_away_scored)} * {(home_xG_conceded/season_average_home_conceded)} * {season_average_away_scored}")
+
     HxG = (home_xG/season_average_home_scored) * (away_xG_conceded/season_average_away_conceded) * season_average_home_scored
     AxG = (away_xG/season_average_away_scored) * (home_xG_conceded/season_average_home_conceded) * season_average_away_scored
 
@@ -88,17 +95,18 @@ if __name__ == "__main__":
         home_team = game.split("_")[2].split("-")[0]
         away_team = game.split("_")[2].split("-")[1]
 
-        lineups = pd.read_csv(f"./../lineups/generated_data/{league}_{season}_lineups.csv")
+        lineups = pd.read_csv(f"./../lineups/generated_data/{league}_{season}_lineups.csv", sep=";")
+        lineups["date"] = pd.to_datetime(lineups["date"])
         #lineups = pd.read_csv(f"./../lineups/generated_data/example.csv", sep=";")
 
-        print("####################")
-        print(f"Game {home_team} - {away_team} prob:")
         game_prob = calc_game_prob(date, home_team, away_team, games_df, players_df, lineups)
         #game_prob = {"HomeProb":0.60, "DrawProb":0.25, "AwayProb":0.15}
         if not game_prob == None:
+            print("####################")
+            print(f"Game {home_team} - {away_team} prob:")
             print(f"home: {game_prob['HomeProb']}\ndraw: {game_prob['DrawProb']}\naway: {game_prob['AwayProb']}")
             bet = calc_EV(game_prob, game, config)
             if bet != None:
                 print(f"Bet: {bet['Bet']} @{bet['Odds']} on {bet['Site']}.")
-        print("####################")
+            print("####################")
 
