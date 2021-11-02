@@ -9,7 +9,7 @@
         "PL_2021" : { 
             "current_games" : "https://www.oddsportal.com/soccer/england/premier-league/",
             "prev_games" : "https://understat.com/league/EPL/2021",
-            "lineup" : "https://www.flashscore.se/fotboll/england/premier-league/matcher/"
+            "lineup" : "https://www.flashscore.se/fotboll/england/premier-league/"
             },
         "SA_2021" : { 
             "current_games" : "https://www.oddsportal.com/soccer/italy/serie-a/",
