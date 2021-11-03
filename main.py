@@ -20,3 +20,4 @@ if __name__ == "__main__":
 
     print("Please run probas you'r self, or if you are Alumnroot pls fix you'r code...")
     #calc_prob.generate_probability_data_files(config)
+    
