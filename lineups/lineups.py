@@ -20,8 +20,8 @@ def generate_lineups_data_files(config, old=True):
     for site_name, site_urls in config['league_links'].items():
         # Read all_names from prev_games csv files
         try:
-            prev_games_player_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_players.csv', sep=';')
-            prev_games_team_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_games.csv', sep=';')
+            prev_games_player_df = pd.read_csv(f'./prev_games/generated_data/{site_name}_players.csv', sep=';')
+            prev_games_team_df = pd.read_csv(f'./prev_games/generated_data/{site_name}_games.csv', sep=';')
         except FileNotFoundError:
             raise FileNotFoundError(f'{site_name}_players.csv file not found, run prev_games before')
 
