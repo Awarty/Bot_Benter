@@ -34,6 +34,7 @@ def generate_lineups_data_files(config, old=True):
             
             print(f'{site_name} - {site_url}')
             driver.get(site_url)
+            time.sleep(1)
             
             # find and click button with xpath '//*[@id="onetrust-accept-btn-handler"]'
             try:
@@ -45,11 +46,17 @@ def generate_lineups_data_files(config, old=True):
             # Get div with xpath '/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]'
             if site_url == all_site_urls[0]:
                 print(driver.current_url)
-                full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]')
+                try:
+                    full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]')
+                except:
+                    full_div = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]/div')
             else:
                 # print current site url
                 print(driver.current_url)
-                full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
+                try:
+                    full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
+                except:
+                    full_div = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
 
 
             # Get all divs with classes 'event__match--static'
