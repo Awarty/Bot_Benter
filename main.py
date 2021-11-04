@@ -10,10 +10,10 @@ if __name__ == "__main__":
         config = json.load(json_file)
 
     print("Running prev_games")
-    prev_games.generate_prev_games_data_files(config)
+    #prev_games.generate_prev_games_data_files(config)
 
     print("Running current_games")
-    current_games.generate_current_games_data_files(config)
+    #current_games.generate_current_games_data_files(config)
 
     print("Running lineups")
     lineups.generate_lineups_data_files(config)
