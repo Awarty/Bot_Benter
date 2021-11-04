@@ -6,6 +6,7 @@ import json
 import time
 import unidecode
 import os
+from datetime import date, timedelta
 
 def generate_current_games_data_files(config):
     """
@@ -62,7 +63,7 @@ def generate_current_games_data_files(config):
                 result.append({
                     'home_team': home_team,
                     'away_team': away_team,
-                    'date': current_date,
+                    'date': change_to_real_date(current_date),
                     'time': td_elements[0].text,
                     'odds': get_odds_from_site(driver, href_to_game)
                 })
@@ -80,7 +81,18 @@ def generate_current_games_data_files(config):
     driver.close()
 
 
+def change_to_real_date(in_date):
+    # Get todays date
+    today = date.today()
 
+    # Check if date contains 'Today', 'Tomorrow' or 'Yesterday'
+    if 'Today' in in_date:
+        return str(today)
+    elif 'Tomorrow' in in_date:
+        return str(today + timedelta(days=1))
+    elif 'Yesterday' in in_date:
+        return str(today - timedelta(days=1))
+    return in_date
 
 
 def get_odds_from_site(driver, url):
@@ -96,7 +108,13 @@ def get_odds_from_site(driver, url):
     odds_table = driver.find_element_by_id('odds-data-table')
 
     # Get all element by class 'table-main detail-odds sortable
-    odds_table_main = odds_table.find_elements_by_class_name('detail-odds')[0]
+    for i in range(0, 100):
+        try:
+            odds_table_main = odds_table.find_elements_by_class_name('detail-odds')[0]
+            break
+        except:
+            time.sleep(1)
+            print('Retrying...', flush=True)
     
 
     # Get first tbody
@@ -170,7 +188,7 @@ def generate_avr_old_odds_file(config):
                     odds_X = odds[1].text
                     odds_2 = odds[2].text
 
-                    results = results.append({'date': current_date,
+                    results = results.append({'date': change_to_real_date(current_date),
                                             'time': game_time,
                                             'home_team': home_team_name,
                                             'away_team': away_team_name,

@@ -13,10 +13,10 @@ if __name__ == "__main__":
     #prev_games.generate_prev_games_data_files(config)
 
     print("Running current_games")
-    #current_games.generate_current_games_data_files(config)
+    current_games.generate_current_games_data_files(config)
 
     print("Running lineups")
-    lineups.generate_lineups_data_files(config)
+    #lineups.generate_lineups_data_files(config)
 
     print("Please run probas you'r self, or if you are Alumnroot pls fix you'r code...")
     #calc_prob.generate_probability_data_files(config)
