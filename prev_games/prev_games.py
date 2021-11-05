@@ -18,13 +18,12 @@ def generate_prev_games_data_files(config):
     driver = webdriver.Chrome(config['driver_path'], options=options)
 
 
-    for site_name, site_urls in config['league_links'].items():
+    for site_name, site_urls in tqdm(config['league_links'].items()):
         site_url = site_urls['prev_games']
         driver.get(site_url)
         result = []
         max_weeks_back = 0
         while max_weeks_back < config['max_num_of_week_to_go_back']:
-
             # Open all windows on current page
             # Find div with class name 'calendar-container'
             calendar = driver.find_element_by_class_name('calendar-container')
@@ -39,7 +38,7 @@ def generate_prev_games_data_files(config):
                         driver.execute_script(f"window.open('{game_info.get_attribute('href')}');")
 
             # Go through all windows except the first one in reverse order ang get the data
-            for handle in reversed(driver.window_handles[1:]):
+            for handle in tqdm(reversed(driver.window_handles[1:])):
                 driver.switch_to.window(handle)
                 result.append(get_game_data(driver, handle))
                 driver.close()
@@ -134,7 +133,7 @@ def game_convert_result_to_dfs(res_in):
     games_df = pd.DataFrame()
     players_df = pd.DataFrame()
 
-    for game in res_in:
+    for game in tqdm(res_in):
         new_game_row = pd.DataFrame([
             [
                 game['game_id'],
