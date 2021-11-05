@@ -91,7 +91,7 @@ def generate_lineups_data_files(config, old=True):
             # Convert names
             df = replace_names(df, prev_games_player_df, prev_games_team_df, config['name_replace_threshold'])
 
-            df.to_csv(f'./generated_data/{site_name}_lineups.csv', index=False, encoding='utf-8', header=True, sep=';')
+            df.to_csv(f'./lineups/generated_data/{site_name}_lineups.csv', index=False, encoding='utf-8', header=True, sep=';')
             
     # Switch to newly opened window
     driver.switch_to.window(driver.window_handles[-1])
@@ -205,7 +205,7 @@ def replace_names(df, prev_games_player_df, prev_games_team_df, threshold=0):
 
 if __name__ == '__main__':
     # Read json from file ./../config.cfg
-    with open('./../config.cfg') as json_file:
+    with open('./config.cfg') as json_file:
         config = json.load(json_file)
     
     generate_lineups_data_files(config)

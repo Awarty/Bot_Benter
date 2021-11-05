@@ -21,8 +21,8 @@ def prob_outcome(xG_home, xG_away):
     prob_home = 0
     prob_draw = 0
     prob_away = 0
-    for i in range(6):
-        for j in range(6):
+    for i in range(7):
+        for j in range(7):
             if i > j:
                 prob_home += prob_goals(i, xG_home) * prob_goals(j, xG_away)
             if i == j:
