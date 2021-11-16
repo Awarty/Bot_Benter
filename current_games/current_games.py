@@ -6,6 +6,7 @@ import json
 import time
 import unidecode
 import os
+from datetime import date, timedelta
 
 def generate_current_games_data_files(config):
     """
@@ -62,25 +63,36 @@ def generate_current_games_data_files(config):
                 result.append({
                     'home_team': home_team,
                     'away_team': away_team,
-                    'date': current_date,
+                    'date': change_to_real_date(current_date),
                     'time': td_elements[0].text,
                     'odds': get_odds_from_site(driver, href_to_game)
                 })
 
-        if not os.path.exists("./generated_data"):
-            os.makedirs("./generated_data")
+        if not os.path.exists("./current_games/generated_data"):
+            os.makedirs("./current_games/generated_data")
 
         # Save result to file
         for game in result:
             game['odds'].to_csv(\
-                f'./generated_data/{site_name}_{game["home_team"]}-{game["away_team"]}_{game["date"]}_{game["time"].replace(":", "%")}.csv',\
+                f'./current_games/generated_data/current_game_{site_name}_{game["home_team"]}-{game["away_team"]}_{game["date"]}_{game["time"].replace(":", "%")}.csv',\
                     index=False, header=True, sep=';')
     
     # Close last window
     driver.close()
 
 
+def change_to_real_date(in_date):
+    # Get todays date
+    today = date.today()
 
+    # Check if date contains 'Today', 'Tomorrow' or 'Yesterday'
+    if 'Today' in in_date:
+        return str(today)
+    elif 'Tomorrow' in in_date:
+        return str(today + timedelta(days=1))
+    elif 'Yesterday' in in_date:
+        return str(today - timedelta(days=1))
+    return in_date
 
 
 def get_odds_from_site(driver, url):
@@ -96,7 +108,13 @@ def get_odds_from_site(driver, url):
     odds_table = driver.find_element_by_id('odds-data-table')
 
     # Get all element by class 'table-main detail-odds sortable
-    odds_table_main = odds_table.find_elements_by_class_name('detail-odds')[0]
+    for i in range(0, 100):
+        try:
+            odds_table_main = odds_table.find_elements_by_class_name('detail-odds')[0]
+            break
+        except:
+            time.sleep(1)
+            print('Retrying...', flush=True)
     
 
     # Get first tbody
@@ -125,6 +143,67 @@ def get_odds_from_site(driver, url):
 
     return odds_cleaned
 
+def generate_avr_old_odds_file(config):
+    # Create webdriver
+    options = Options()
+    options.headless = config['headless']
+    driver = webdriver.Chrome(config['driver_path'], options=options)
+
+    log_in(driver, config['op_login']['username'], config['op_login']['password'])
+
+    for site_name, site_urls in config['league_links'].items():
+        # Result df
+        results = pd.DataFrame(columns=['date', 'time', 'home_team', 'away_team', 'result', 'odds_1', 'odds_X', 'odds_2'])
+
+        current_page_nr = 1
+        while (True):
+            site_url = site_urls['current_games']+f"results/#/page/{current_page_nr}/"
+            driver.get(site_url)
+            time.sleep(1)
+
+            try:
+                test = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[6]/table/tbody/tr/td/div/ul/li/div')
+                break
+            except:
+                pass
+
+            # Get element with xpath '/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[6]/table/tbody'
+            tbody = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[6]/div[1]/div/div[1]/div[2]/div[1]/div[6]/table/tbody')
+
+            # Loop trough all tr elements
+            for tr_element in tqdm(tbody.find_elements_by_tag_name('tr')):
+                if tr_element.get_attribute('class') == 'center nob-border':
+                    current_date = tr_element.find_element_by_tag_name('th').find_element_by_tag_name('span').text
+                elif tr_element.get_attribute('class') != 'table-dummyrow' and tr_element.get_attribute('class') != 'dark center':
+                    # get game time from td with class 'table-time'
+                    game_time = tr_element.find_element_by_class_name('table-time').text
+                    # Get team names by td with class 'name'
+                    (home_team_name, away_team_name) = tr_element.find_element_by_class_name('name').text.split(' - ')
+                    # Get result from td with class 'table-score'
+                    result = tr_element.find_element_by_class_name('table-score').text
+                    # Get all td's with the class 'odds-nowrp'
+                    odds = tr_element.find_elements_by_class_name('odds-nowrp')
+
+                    odds_1 = odds[0].text
+                    odds_X = odds[1].text
+                    odds_2 = odds[2].text
+
+                    results = results.append({'date': change_to_real_date(current_date),
+                                            'time': game_time,
+                                            'home_team': home_team_name,
+                                            'away_team': away_team_name,
+                                            'result': result,
+                                            'odds_1': odds_1,
+                                            'odds_X': odds_X,
+                                            'odds_2': odds_2}, ignore_index=True)
+
+            current_page_nr += 1
+
+        # Save results to csv
+        results.to_csv(f'./generated_data/{site_name}_only_old_games.csv', index=False, header=True, sep=';')
+
+        
+
 
 
 def log_in(driver, username_input='', password_input=''):
@@ -152,4 +231,5 @@ if __name__ == "__main__":
     with open('./../config.cfg') as json_file:
         config = json.load(json_file)
 
-    generate_current_games_data_files(config)
+    #generate_current_games_data_files(config)
+    generate_avr_old_odds_file(config)

@@ -20,8 +20,8 @@ def generate_lineups_data_files(config, old=True):
     for site_name, site_urls in config['league_links'].items():
         # Read all_names from prev_games csv files
         try:
-            prev_games_player_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_players.csv', sep=';')
-            prev_games_team_df = pd.read_csv(f'./../prev_games/generated_data/{site_name}_games.csv', sep=';')
+            prev_games_player_df = pd.read_csv(f'./prev_games/generated_data/{site_name}_players.csv', sep=';')
+            prev_games_team_df = pd.read_csv(f'./prev_games/generated_data/{site_name}_games.csv', sep=';')
         except FileNotFoundError:
             raise FileNotFoundError(f'{site_name}_players.csv file not found, run prev_games before')
 
@@ -34,6 +34,7 @@ def generate_lineups_data_files(config, old=True):
             
             print(f'{site_name} - {site_url}')
             driver.get(site_url)
+            time.sleep(1)
             
             # find and click button with xpath '//*[@id="onetrust-accept-btn-handler"]'
             try:
@@ -41,16 +42,21 @@ def generate_lineups_data_files(config, old=True):
             except:
                 pass
 
-            time.sleep(1)
 
             # Get div with xpath '/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]'
             if site_url == all_site_urls[0]:
                 print(driver.current_url)
-                full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]')
+                try:
+                    full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]')
+                except:
+                    full_div = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]/div')
             else:
                 # print current site url
                 print(driver.current_url)
-                full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
+                try:
+                    full_div = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
+                except:
+                    full_div = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div/div')
 
 
             # Get all divs with classes 'event__match--static'
@@ -85,7 +91,7 @@ def generate_lineups_data_files(config, old=True):
             # Convert names
             df = replace_names(df, prev_games_player_df, prev_games_team_df, config['name_replace_threshold'])
 
-            df.to_csv(f'./generated_data/{site_name}_lineups.csv', index=False, encoding='utf-8', header=True, sep=';')
+            df.to_csv(f'./lineups/generated_data/{site_name}_lineups.csv', index=False, encoding='utf-8', header=True, sep=';')
             
     # Switch to newly opened window
     driver.switch_to.window(driver.window_handles[-1])
@@ -199,7 +205,7 @@ def replace_names(df, prev_games_player_df, prev_games_team_df, threshold=0):
 
 if __name__ == '__main__':
     # Read json from file ./../config.cfg
-    with open('./../config.cfg') as json_file:
+    with open('./config.cfg') as json_file:
         config = json.load(json_file)
     
     generate_lineups_data_files(config)
