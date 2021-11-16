@@ -41,6 +41,7 @@ def generate_lineups_data_files(config, old=True):
             except:
                 pass
 
+            time.sleep(1)
 
             # Get div with xpath '/html/body/div[6]/div[1]/div/div[1]/div[2]/div[4]/div[2]/div[1]/section[2]/div[2]'
             if site_url == all_site_urls[0]:
